@@ -1,0 +1,13 @@
+Árvores possuem níveis:
+
+Árvores são estruturas de dados que contém itens que contém outros itens
+
+Nível 0 - Raíz:
+elemento pertencente ao nível um
+
+Nível 1 - Nó/Filho:
+elemento que foi adicionado a outro item
+
+Níuvel 3:
+propriedade que indica quantos nós estão acima de um filho/nó
+

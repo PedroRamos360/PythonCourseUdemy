@@ -1,0 +1,6 @@
+Dicionários são:
+
+Estruturas de dados que possuem chaves e valores que podem ser de qualquer tipo. Possuem as mesmas funções
+e características de uma lista.
+
+Não pode repetir a quantidade de chaves porém os valores podem ser repetidos quantas vezes forem necessário.

@@ -1,0 +1,10 @@
+Arrays (Matrizes ou Vetores) são caracterizados por:
+
+1 Conjunto de elementos finitos, não é possível alterar enquanto o programa estiver rodando,
+e são definidos por sua declaração
+
+2 o [0] é o primeiro item da lista
+
+3 o ultímo elemento é o [comprimento - 1]
+
+4 para alterar ou excluir um item é necessário transferir todos os items para outro array

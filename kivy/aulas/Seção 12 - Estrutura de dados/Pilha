@@ -1,0 +1,5 @@
+Pilhas são caracterizadas por:
+
+1 Elementos adicionados um sobre o outro
+2 O último elemento a entrar será o primeiro a sair (contrário de uma fila de banco por exemplo)
+3 O primeiro elemento a entrar sempre será o último elemento da lista
