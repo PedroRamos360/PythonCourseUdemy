@@ -2,11 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e9c4853c-e67f-42b0-be24-fec78455a699" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/aulas/Seção 12 - Estrutura de dados/Array" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/Seção 12 - Estrutura de dados/Dicionário" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/Seção 12 - Estrutura de dados/Pilha" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/Seção 12 - Estrutura de dados/Set" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/Seção 12 - Estrutura de dados/Tupla" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -17,20 +12,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/aulas/Seção 12 - Estrutura de dados/Set">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="32">
-              <caret line="2" column="19" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/aulas/Seção 12 - Estrutura de dados/Dicionário">
+        <entry file="file://$PROJECT_DIR$/aulas/Seção 12 - Estrutura de dados/Árvore">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="80">
-              <caret line="5" column="108" selection-start-line="5" selection-start-column="108" selection-end-line="5" selection-end-column="108" />
+            <state relative-caret-position="160">
+              <caret line="10" column="9" lean-forward="true" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="9" />
             </state>
           </provider>
         </entry>
@@ -97,6 +83,7 @@
         <option value="$PROJECT_DIR$/aulas/Seção 12 - Estrutura de dados/Array" />
         <option value="$PROJECT_DIR$/aulas/Seção 12 - Estrutura de dados/Set" />
         <option value="$PROJECT_DIR$/aulas/Seção 12 - Estrutura de dados/Dicionário" />
+        <option value="$PROJECT_DIR$/aulas/Seção 12 - Estrutura de dados/Árvore" />
       </list>
     </option>
   </component>
@@ -382,7 +369,14 @@
       <option name="project" value="LOCAL" />
       <updated>1581728600189</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="Atualização">
+      <created>1583103888640</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1583103888640</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TodoView">
@@ -396,7 +390,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.497545" visible="true" weight="0.25" />
       <window_info id="Structure" order="1" sideWeight="0.502455" side_tool="true" weight="0.25" />
@@ -770,6 +763,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/aulas/Seção 12 - Estrutura de dados/Dicionário">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="5" column="108" selection-start-line="5" selection-start-column="108" selection-end-line="5" selection-end-column="108" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/aulas/Seção 12 - Estrutura de dados/Set">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="32">
@@ -777,10 +777,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/aulas/Seção 12 - Estrutura de dados/Dicionário">
+    <entry file="file://$PROJECT_DIR$/aulas/Seção 12 - Estrutura de dados/Árvore">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="80">
-          <caret line="5" column="108" selection-start-line="5" selection-start-column="108" selection-end-line="5" selection-end-column="108" />
+        <state relative-caret-position="160">
+          <caret line="10" column="9" lean-forward="true" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="9" />
         </state>
       </provider>
     </entry>
