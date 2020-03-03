@@ -13,3 +13,7 @@ print(lista[1][1])
 # Criar uma lista com vários elementos iguais
 l = 10*[0]
 print(l)
+
+# Deletar um item de uma lista
+del(lista[-1])
+print(lista)
