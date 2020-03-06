@@ -4,3 +4,9 @@ for item in range(len(lista_nums)):
     lista_nums[item] += 1000
 
 print(lista_nums)
+
+# ou
+for idx, item in enumerate(lista_nums):
+    lista_nums[idx] += 1000
+
+print(lista_nums)
