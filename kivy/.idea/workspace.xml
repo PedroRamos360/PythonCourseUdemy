@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e9c4853c-e67f-42b0-be24-fec78455a699" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/aulas/Seção 12 - Estrutura de dados/IterandoListas.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aulas/Seção 12 - Estrutura de dados/FatiandoListas.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -13,11 +13,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/aulas/Seção 12 - Estrutura de dados/IterandoListas.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="48">
-              <caret line="3" column="28" lean-forward="true" selection-start-line="3" selection-start-column="28" selection-end-line="3" selection-end-column="28" />
+            <state relative-caret-position="176">
+              <caret line="11" column="16" selection-start-line="11" selection-start-column="16" selection-end-line="11" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/aulas/Seção 12 - Estrutura de dados/FatiandoListas.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="128">
+              <caret line="8" column="64" selection-start-line="8" selection-start-column="64" selection-end-line="8" selection-end-column="64" />
             </state>
           </provider>
         </entry>
@@ -38,7 +47,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/aulas/Módulo 1 - Introdução/Exercicios/Ex02.py" />
         <option value="$PROJECT_DIR$/aulas/Módulo 1 - Introdução/Exercicios/Ex03.py" />
         <option value="$PROJECT_DIR$/aulas/Módulo 1 - Introdução/Exercicios/Ex05.py" />
         <option value="$PROJECT_DIR$/aulas/Módulo 1 - Introdução/Exercicios/Ex06.py" />
@@ -89,6 +97,7 @@
         <option value="$PROJECT_DIR$/aulas/Seção 12 - Estrutura de dados/ClassList-II.py" />
         <option value="$PROJECT_DIR$/aulas/Seção 12 - Estrutura de dados/Iterando listas.py" />
         <option value="$PROJECT_DIR$/aulas/Seção 12 - Estrutura de dados/IterandoListas.py" />
+        <option value="$PROJECT_DIR$/aulas/Seção 12 - Estrutura de dados/FatiandoListas.py" />
       </list>
     </option>
   </component>
@@ -154,7 +163,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.IterandoListas">
+  <component name="RunManager" selected="Python.FatiandoListas">
     <configuration name="ClassList-II" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="kivy" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -197,27 +206,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Ex08" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="kivy" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/aulas/Seção 11 - Iteradores/Exercicios" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/aulas/Seção 11 - Iteradores/Exercicios/Ex08.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="Ex09" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="kivy" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -231,6 +219,27 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/aulas/Seção 11 - Iteradores/Exercicios/Ex09.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="FatiandoListas" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="kivy" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/aulas/Seção 12 - Estrutura de dados" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/aulas/Seção 12 - Estrutura de dados/FatiandoListas.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -261,19 +270,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.Ex08" />
       <item itemvalue="Python.Ex09" />
       <item itemvalue="Python.ClassList" />
       <item itemvalue="Python.ClassList-II" />
       <item itemvalue="Python.IterandoListas" />
+      <item itemvalue="Python.FatiandoListas" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.FatiandoListas" />
         <item itemvalue="Python.IterandoListas" />
         <item itemvalue="Python.ClassList-II" />
         <item itemvalue="Python.ClassList" />
         <item itemvalue="Python.Ex09" />
-        <item itemvalue="Python.Ex08" />
       </list>
     </recent_temporary>
   </component>
@@ -414,7 +423,21 @@
       <option name="project" value="LOCAL" />
       <updated>1583260535146</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="Atualização">
+      <created>1583454254615</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1583454254615</updated>
+    </task>
+    <task id="LOCAL-00020" summary="Atualização">
+      <created>1583454525500</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1583454525500</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="TodoView">
@@ -487,13 +510,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/aulas/Seção 7 - Conceitos da Programação/Exercicios/Ex03.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="16">
-          <caret line="1" column="63" lean-forward="true" selection-start-line="1" selection-start-column="63" selection-end-line="1" selection-end-column="63" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/aulas/Seção 7 - Conceitos da Programação/Exercicios/Ex13.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="16">
@@ -835,8 +851,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/aulas/Seção 12 - Estrutura de dados/IterandoListas.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="48">
-          <caret line="3" column="28" lean-forward="true" selection-start-line="3" selection-start-column="28" selection-end-line="3" selection-end-column="28" />
+        <state relative-caret-position="176">
+          <caret line="11" column="16" selection-start-line="11" selection-start-column="16" selection-end-line="11" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aulas/Seção 12 - Estrutura de dados/FatiandoListas.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="128">
+          <caret line="8" column="64" selection-start-line="8" selection-start-column="64" selection-end-line="8" selection-end-column="64" />
         </state>
       </provider>
     </entry>
