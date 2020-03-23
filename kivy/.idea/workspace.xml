@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e9c4853c-e67f-42b0-be24-fec78455a699" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/aulas/Seção 15 - Funções/ParametrosDefault.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aulas/Seção 15 - Funções/RetornoMultiplos.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -14,10 +14,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/aulas/Seção 15 - Funções/ParametrosDefault.py">
+        <entry file="file://$PROJECT_DIR$/aulas/Seção 15 - Funções/RetornoMultiplos.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="144">
-              <caret line="9" column="39" selection-start-line="9" selection-start-column="39" selection-end-line="9" selection-end-column="39" />
+            <state relative-caret-position="80">
+              <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
             </state>
           </provider>
         </entry>
@@ -38,7 +38,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/aulas/Seção 9 - Tomada de Decisão/Exercicios/Ex06.py" />
         <option value="$PROJECT_DIR$/aulas/Seção 9 - Tomada de Decisão/Exercicios/Ex07.py" />
         <option value="$PROJECT_DIR$/aulas/Seção 9 - Tomada de Decisão/Exercicios/Ex08.py" />
         <option value="$PROJECT_DIR$/aulas/Seção 9 - Tomada de Decisão/Exercicios/Ex09.py" />
@@ -89,6 +88,7 @@
         <option value="$PROJECT_DIR$/aulas/Seção 15 - Funções/Introdução a Funcções" />
         <option value="$PROJECT_DIR$/aulas/Seção 15 - Funções/CriarFunções.py" />
         <option value="$PROJECT_DIR$/aulas/Seção 15 - Funções/ParametrosDefault.py" />
+        <option value="$PROJECT_DIR$/aulas/Seção 15 - Funções/RetornoMultiplos.py" />
       </list>
     </option>
   </component>
@@ -159,7 +159,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.ParametrosDefault">
+  <component name="RunManager" selected="Python.RetornoMultiplos">
     <configuration name="CriarFunções" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="kivy" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -223,27 +223,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="IterandoStrings" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="kivy" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/aulas/Seção 13 - Strings" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/aulas/Seção 13 - Strings/IterandoStrings.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="ParametrosDefault" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="kivy" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -265,20 +244,41 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="RetornoMultiplos" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="kivy" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/aulas/Seção 15 - Funções" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/aulas/Seção 15 - Funções/RetornoMultiplos.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <list>
-      <item itemvalue="Python.IterandoStrings" />
       <item itemvalue="Python.DicionariosPratica" />
       <item itemvalue="Python.FuncoesDicionarios" />
       <item itemvalue="Python.CriarFunções" />
       <item itemvalue="Python.ParametrosDefault" />
+      <item itemvalue="Python.RetornoMultiplos" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.RetornoMultiplos" />
         <item itemvalue="Python.ParametrosDefault" />
         <item itemvalue="Python.CriarFunções" />
         <item itemvalue="Python.FuncoesDicionarios" />
         <item itemvalue="Python.DicionariosPratica" />
-        <item itemvalue="Python.IterandoStrings" />
       </list>
     </recent_temporary>
   </component>
@@ -538,7 +538,14 @@
       <option name="project" value="LOCAL" />
       <updated>1584960979062</updated>
     </task>
-    <option name="localTasksCounter" value="36" />
+    <task id="LOCAL-00036" summary="Atualização">
+      <created>1584961839602</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1584961839602</updated>
+    </task>
+    <option name="localTasksCounter" value="37" />
     <servers />
   </component>
   <component name="TodoView">
@@ -559,7 +566,7 @@
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3289689" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3289689" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39934534" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -611,13 +618,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/aulas/Seção 9 - Tomada de Decisão/Exercicios/Ex09.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="64">
-          <caret line="4" column="47" selection-start-line="4" selection-start-column="47" selection-end-line="4" selection-end-column="47" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/aulas/Seção 9 - Tomada de Decisão/Exercicios/Ex05.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="48">
@@ -958,7 +958,14 @@
     <entry file="file://$PROJECT_DIR$/aulas/Seção 15 - Funções/ParametrosDefault.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="144">
-          <caret line="9" column="39" selection-start-line="9" selection-start-column="39" selection-end-line="9" selection-end-column="39" />
+          <caret line="9" column="39" lean-forward="true" selection-start-line="9" selection-start-column="39" selection-end-line="9" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aulas/Seção 15 - Funções/RetornoMultiplos.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
         </state>
       </provider>
     </entry>
