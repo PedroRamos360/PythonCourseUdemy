@@ -1,0 +1,4 @@
+É a extração de elementos contidos em uma estrutura de dados
+Uma lista com 10 e 20, 10 e 20 estão empacotados.
+Para desempacotar elementos é utilizado o operador *
+Semelhante a atribuição múltipla
