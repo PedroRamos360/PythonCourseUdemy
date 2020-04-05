@@ -6,10 +6,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e9c4853c-e67f-42b0-be24-fec78455a699" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/aulas/Seção 15 - Funções/Exercicios/Ex01.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/Seção 15 - Funções/Exercicios/Ex02.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/Seção 15 - Funções/Exercicios/Ex03.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/Seção 15 - Funções/Exercicios/Ex04.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aulas/Seção 15 - Funções/Exercicios/Ex05.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aulas/Seção 15 - Funções/Exercicios/Ex06.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -20,38 +18,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/aulas/Seção 15 - Funções/Exercicios/Ex01.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="64">
-              <caret line="4" column="8" lean-forward="true" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="8" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/aulas/Seção 15 - Funções/Exercicios/Ex02.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="64">
-              <caret line="4" column="20" selection-start-line="4" selection-start-column="20" selection-end-line="4" selection-end-column="20" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/aulas/Seção 15 - Funções/Exercicios/Ex03.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="16">
-              <caret line="1" column="16" selection-start-line="1" selection-start-column="16" selection-end-line="2" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/aulas/Seção 15 - Funções/Exercicios/Ex04.py">
+        <entry file="file://$PROJECT_DIR$/aulas/Seção 15 - Funções/Exercicios/Ex06.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="15" column="17" selection-start-line="15" selection-start-column="17" selection-end-line="15" selection-end-column="17" />
+            <state relative-caret-position="32">
+              <caret line="2" column="8" selection-start-line="2" selection-start-column="8" selection-end-line="2" selection-end-column="8" />
             </state>
           </provider>
         </entry>
@@ -72,8 +43,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/aulas/Seção 11 - Iteradores/Exercicios/Ex02.py" />
-        <option value="$PROJECT_DIR$/aulas/Seção 11 - Iteradores/Exercicios/Ex03.py" />
         <option value="$PROJECT_DIR$/aulas/Seção 11 - Iteradores/Exercicios/Ex04.py" />
         <option value="$PROJECT_DIR$/aulas/Seção 11 - Iteradores/Exercicios/Ex05.py" />
         <option value="$PROJECT_DIR$/aulas/Seção 11 - Iteradores/Exercicios/Ex06.py" />
@@ -123,6 +92,8 @@
         <option value="$PROJECT_DIR$/aulas/Seção 15 - Funções/Exercicios/Ex02.py" />
         <option value="$PROJECT_DIR$/aulas/Seção 15 - Funções/Exercicios/Ex03.py" />
         <option value="$PROJECT_DIR$/aulas/Seção 15 - Funções/Exercicios/Ex04.py" />
+        <option value="$PROJECT_DIR$/aulas/Seção 15 - Funções/Exercicios/Ex05.py" />
+        <option value="$PROJECT_DIR$/aulas/Seção 15 - Funções/Exercicios/Ex06.py" />
       </list>
     </option>
   </component>
@@ -205,28 +176,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Ex04">
-    <configuration name="Ex01" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="kivy" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/aulas/Seção 15 - Funções/Exercicios" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/aulas/Seção 15 - Funções/Exercicios/Ex01.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.Ex06">
     <configuration name="Ex02" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="kivy" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -290,7 +240,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Global" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Ex05" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="kivy" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -298,11 +248,32 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/aulas/Seção 15 - Funções" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/aulas/Seção 15 - Funções/Exercicios" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/aulas/Seção 15 - Funções/Global.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/aulas/Seção 15 - Funções/Exercicios/Ex05.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Ex06" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="kivy" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/aulas/Seção 15 - Funções/Exercicios" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/aulas/Seção 15 - Funções/Exercicios/Ex06.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -312,19 +283,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.Global" />
-      <item itemvalue="Python.Ex01" />
       <item itemvalue="Python.Ex02" />
       <item itemvalue="Python.Ex03" />
       <item itemvalue="Python.Ex04" />
+      <item itemvalue="Python.Ex05" />
+      <item itemvalue="Python.Ex06" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Ex06" />
+        <item itemvalue="Python.Ex05" />
         <item itemvalue="Python.Ex04" />
         <item itemvalue="Python.Ex03" />
         <item itemvalue="Python.Ex02" />
-        <item itemvalue="Python.Ex01" />
-        <item itemvalue="Python.Global" />
       </list>
     </recent_temporary>
   </component>
@@ -654,7 +625,14 @@
       <option name="project" value="LOCAL" />
       <updated>1586044862208</updated>
     </task>
-    <option name="localTasksCounter" value="46" />
+    <task id="LOCAL-00046" summary="Atualização">
+      <created>1586088443070</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1586088443070</updated>
+    </task>
+    <option name="localTasksCounter" value="47" />
     <servers />
   </component>
   <component name="TodoView">
@@ -675,7 +653,7 @@
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3289689" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3289689" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39934534" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -727,20 +705,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/aulas/Seção 11 - Iteradores/Exercicios/Ex02.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="64">
-          <caret line="4" column="15" selection-start-line="4" selection-start-column="15" selection-end-line="4" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/aulas/Seção 11 - Iteradores/Exercicios/Ex03.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="64">
-          <caret line="4" column="10" selection-start-line="4" selection-start-column="10" selection-end-line="4" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/aulas/Seção 11 - Iteradores/Exercicios/Ex04.py">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -1053,17 +1017,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/aulas/Seção 15 - Funções/Exercicios/Ex01.py">
+    <entry file="file://$PROJECT_DIR$/aulas/Seção 15 - Funções/Exercicios/Ex04.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="64">
-          <caret line="4" column="8" lean-forward="true" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/aulas/Seção 15 - Funções/Exercicios/Ex02.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="64">
-          <caret line="4" column="20" selection-start-line="4" selection-start-column="20" selection-end-line="4" selection-end-column="20" />
+        <state relative-caret-position="160">
+          <caret line="10" column="29" lean-forward="true" selection-start-line="10" selection-start-column="29" selection-end-line="10" selection-end-column="29" />
         </state>
       </provider>
     </entry>
@@ -1074,10 +1031,31 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/aulas/Seção 15 - Funções/Exercicios/Ex04.py">
+    <entry file="file://$PROJECT_DIR$/aulas/Seção 15 - Funções/Exercicios/Ex02.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="15" column="17" selection-start-line="15" selection-start-column="17" selection-end-line="15" selection-end-column="17" />
+        <state relative-caret-position="64">
+          <caret line="4" column="20" selection-start-line="4" selection-start-column="20" selection-end-line="4" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aulas/Seção 15 - Funções/Exercicios/Ex01.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="64">
+          <caret line="4" column="8" lean-forward="true" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aulas/Seção 15 - Funções/Exercicios/Ex05.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aulas/Seção 15 - Funções/Exercicios/Ex06.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="32">
+          <caret line="2" column="8" selection-start-line="2" selection-start-column="8" selection-end-line="2" selection-end-column="8" />
         </state>
       </provider>
     </entry>
