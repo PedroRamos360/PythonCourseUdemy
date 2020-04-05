@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e9c4853c-e67f-42b0-be24-fec78455a699" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/aulas/Seção 15 - Funções/Global.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -15,11 +16,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/aulas/Seção 15 - Funções/NonLocal.py">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/aulas/Seção 15 - Funções/Pass.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="368">
-              <caret line="23" column="13" selection-start-line="23" selection-start-column="13" selection-end-line="23" selection-end-column="13" />
+            <state relative-caret-position="256">
+              <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/aulas/Seção 15 - Funções/Global.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="320">
+              <caret line="20" column="10" lean-forward="true" selection-start-line="20" selection-start-column="10" selection-end-line="20" selection-end-column="10" />
             </state>
           </provider>
         </entry>
@@ -40,8 +50,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/aulas/Seção 9 - Tomada de Decisão/Exercicios/Ex14.py" />
-        <option value="$PROJECT_DIR$/aulas/Seção 9 - Tomada de Decisão/Exercicios/Ex15.py" />
         <option value="$PROJECT_DIR$/aulas/Seção 9 - Tomada de Decisão/Exercicios/Ex16.py" />
         <option value="$PROJECT_DIR$/aulas/Seção 9 - Tomada de Decisão/Exercicios/Ex17.py" />
         <option value="$PROJECT_DIR$/aulas/Seção 9 - Tomada de Decisão/Exercicios/Ex18.py" />
@@ -91,6 +99,8 @@
         <option value="$PROJECT_DIR$/aulas/Seção 15 - Funções/FunçõesAninhadas.py" />
         <option value="$APPLICATION_CONFIG_DIR$/scratches/sdasd.py" />
         <option value="$PROJECT_DIR$/aulas/Seção 15 - Funções/NonLocal.py" />
+        <option value="$PROJECT_DIR$/aulas/Seção 15 - Funções/Pass.py" />
+        <option value="$PROJECT_DIR$/aulas/Seção 15 - Funções/Global.py" />
       </list>
     </option>
   </component>
@@ -117,6 +127,12 @@
               <item name="kivy" type="b2602c69:ProjectViewProjectNode" />
               <item name="kivy" type="462c0819:PsiDirectoryNode" />
               <item name="aulas" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="kivy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="kivy" type="462c0819:PsiDirectoryNode" />
+              <item name="aulas" type="462c0819:PsiDirectoryNode" />
+              <item name="Seção 15 - Funções" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="kivy" type="b2602c69:ProjectViewProjectNode" />
@@ -160,49 +176,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.NonLocal">
-    <configuration name="Desempacotamento" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="kivy" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/aulas/Seção 15 - Funções" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/aulas/Seção 15 - Funções/Desempacotamento.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="DesempacotamentoExemplo" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="kivy" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/aulas/Seção 15 - Funções" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/aulas/Seção 15 - Funções/DesempacotamentoExemplo.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.Global">
     <configuration name="FunçõesAninhadas" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="kivy" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -224,6 +198,27 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="Global" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="kivy" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/aulas/Seção 15 - Funções" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/aulas/Seção 15 - Funções/Global.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="NonLocal" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="kivy" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -237,6 +232,27 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/aulas/Seção 15 - Funções/NonLocal.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Pass" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="kivy" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/aulas/Seção 15 - Funções" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/aulas/Seção 15 - Funções/Pass.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -267,19 +283,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.DesempacotamentoExemplo" />
-      <item itemvalue="Python.Desempacotamento" />
       <item itemvalue="Python.FunçõesAninhadas" />
-      <item itemvalue="Python.NonLocal" />
       <item itemvalue="Python.sdasd" />
+      <item itemvalue="Python.NonLocal" />
+      <item itemvalue="Python.Pass" />
+      <item itemvalue="Python.Global" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Global" />
+        <item itemvalue="Python.Pass" />
         <item itemvalue="Python.NonLocal" />
         <item itemvalue="Python.sdasd" />
         <item itemvalue="Python.FunçõesAninhadas" />
-        <item itemvalue="Python.DesempacotamentoExemplo" />
-        <item itemvalue="Python.Desempacotamento" />
       </list>
     </recent_temporary>
   </component>
@@ -588,7 +604,21 @@
       <option name="project" value="LOCAL" />
       <updated>1585786408442</updated>
     </task>
-    <option name="localTasksCounter" value="43" />
+    <task id="LOCAL-00043" summary="Atualização">
+      <created>1586043852969</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1586043852969</updated>
+    </task>
+    <task id="LOCAL-00044" summary="Atualização">
+      <created>1586044167602</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1586044167602</updated>
+    </task>
+    <option name="localTasksCounter" value="45" />
     <servers />
   </component>
   <component name="TodoView">
@@ -660,20 +690,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/aulas/Seção 9 - Tomada de Decisão/Exercicios/Ex17.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="64">
-          <caret line="4" column="18" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/aulas/Seção 9 - Tomada de Decisão/Exercicios/Ex18.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/aulas/Seção 9 - Tomada de Decisão/Exercicios/Ex01.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="144">
@@ -1009,8 +1025,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/aulas/Seção 15 - Funções/NonLocal.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="368">
-          <caret line="23" column="13" selection-start-line="23" selection-start-column="13" selection-end-line="23" selection-end-column="13" />
+        <state relative-caret-position="224">
+          <caret line="14" column="16" lean-forward="true" selection-start-line="14" selection-start-column="16" selection-end-line="14" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aulas/Seção 15 - Funções/Pass.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="256">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aulas/Seção 15 - Funções/Global.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="320">
+          <caret line="20" column="10" lean-forward="true" selection-start-line="20" selection-start-column="10" selection-end-line="20" selection-end-column="10" />
         </state>
       </provider>
     </entry>
