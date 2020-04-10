@@ -6,9 +6,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e9c4853c-e67f-42b0-be24-fec78455a699" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/aulas/Seção 15 - Funções/Exercicios/Ex13.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/Seção 15 - Funções/Exercicios/Ex14.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/Seção 15 - Funções/Exercicios/Ex15.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aulas/Seção 15 - Funções/Exercicios/Ex16.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aulas/Seção 15 - Funções/Exercicios/Ex17.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -18,26 +17,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/aulas/Seção 15 - Funções/Exercicios/Ex14.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="144">
-              <caret line="9" column="29" selection-start-line="9" selection-start-column="29" selection-end-line="9" selection-end-column="29" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/aulas/Seção 15 - Funções/Exercicios/Ex15.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="176">
-              <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -53,8 +33,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/aulas/Seção 12 - Estrutura de dados/Set" />
-        <option value="$PROJECT_DIR$/aulas/Seção 12 - Estrutura de dados/Dicionário" />
         <option value="$PROJECT_DIR$/aulas/Seção 12 - Estrutura de dados/Árvore" />
         <option value="$PROJECT_DIR$/aulas/Seção 12 - Estrutura de dados/ClassList.py" />
         <option value="$PROJECT_DIR$/aulas/Seção 12 - Estrutura de dados/ClassList-II.py" />
@@ -104,6 +82,8 @@
         <option value="$PROJECT_DIR$/aulas/Seção 15 - Funções/Exercicios/Ex13.py" />
         <option value="$PROJECT_DIR$/aulas/Seção 15 - Funções/Exercicios/Ex14.py" />
         <option value="$PROJECT_DIR$/aulas/Seção 15 - Funções/Exercicios/Ex15.py" />
+        <option value="$PROJECT_DIR$/aulas/Seção 15 - Funções/Exercicios/Ex16.py" />
+        <option value="$PROJECT_DIR$/aulas/Seção 15 - Funções/Exercicios/Ex17.py" />
       </list>
     </option>
   </component>
@@ -151,11 +131,6 @@
               <item name="kivy" type="b2602c69:ProjectViewProjectNode" />
               <item name="Scratches and Consoles" type="1a2a3e82:ScratchProjectViewPane$MyProjectNode" />
             </path>
-            <path>
-              <item name="kivy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Scratches and Consoles" type="1a2a3e82:ScratchProjectViewPane$MyProjectNode" />
-              <item name="Scratches" type="d62648e6:ScratchProjectViewPane$MyRootNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -186,49 +161,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Ex15">
-    <configuration name="Ex11" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="kivy" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/aulas/Seção 15 - Funções/Exercicios" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/aulas/Seção 15 - Funções/Exercicios/Ex11.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Ex12" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="kivy" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/aulas/Seção 15 - Funções/Exercicios" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/aulas/Seção 15 - Funções/Exercicios/Ex12.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.Ex17">
     <configuration name="Ex13" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="kivy" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -292,20 +225,62 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="Ex16" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="kivy" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/aulas/Seção 15 - Funções/Exercicios" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/aulas/Seção 15 - Funções/Exercicios/Ex16.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Ex17" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="kivy" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/aulas/Seção 15 - Funções/Exercicios" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/aulas/Seção 15 - Funções/Exercicios/Ex17.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <list>
-      <item itemvalue="Python.Ex11" />
-      <item itemvalue="Python.Ex12" />
       <item itemvalue="Python.Ex13" />
       <item itemvalue="Python.Ex14" />
       <item itemvalue="Python.Ex15" />
+      <item itemvalue="Python.Ex16" />
+      <item itemvalue="Python.Ex17" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Ex17" />
+        <item itemvalue="Python.Ex16" />
         <item itemvalue="Python.Ex15" />
         <item itemvalue="Python.Ex14" />
         <item itemvalue="Python.Ex13" />
-        <item itemvalue="Python.Ex12" />
-        <item itemvalue="Python.Ex11" />
       </list>
     </recent_temporary>
   </component>
@@ -319,13 +294,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1580846075362</updated>
-    </task>
-    <task id="LOCAL-00002" summary="Atualização">
-      <created>1580899473683</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1580899473683</updated>
     </task>
     <task id="LOCAL-00003" summary="Atualização">
       <created>1581338147430</created>
@@ -663,7 +631,14 @@
       <option name="project" value="LOCAL" />
       <updated>1586091750269</updated>
     </task>
-    <option name="localTasksCounter" value="51" />
+    <task id="LOCAL-00051" summary="Atualização">
+      <created>1586391963682</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1586391963682</updated>
+    </task>
+    <option name="localTasksCounter" value="52" />
     <servers />
   </component>
   <component name="TodoView">
@@ -677,7 +652,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" sideWeight="0.497545" visible="true" weight="0.24851191" />
       <window_info id="Structure" order="1" sideWeight="0.502455" side_tool="true" weight="0.25" />
@@ -736,20 +710,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/aulas/Seção 12 - Estrutura de dados/Dicionário">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="80">
-          <caret line="5" column="108" selection-start-line="5" selection-start-column="108" selection-end-line="5" selection-end-column="108" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/aulas/Seção 12 - Estrutura de dados/Set">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="32">
-          <caret line="2" column="19" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/aulas/Seção 12 - Estrutura de dados/ClassList-II.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="288">
@@ -1076,6 +1036,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/aulas/Seção 15 - Funções/Exercicios/Ex15.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="12" column="68" lean-forward="true" selection-start-line="12" selection-start-column="68" selection-end-line="12" selection-end-column="68" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/aulas/Seção 15 - Funções/Exercicios/Ex14.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="144">
@@ -1083,10 +1050,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/aulas/Seção 15 - Funções/Exercicios/Ex15.py">
+    <entry file="file://$PROJECT_DIR$/aulas/Seção 15 - Funções/Exercicios/Ex17.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        <state relative-caret-position="224">
+          <caret line="14" column="48" selection-start-line="14" selection-start-column="48" selection-end-line="14" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aulas/Seção 15 - Funções/Exercicios/Ex16.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="10" column="32" selection-start-line="10" selection-start-column="32" selection-end-line="10" selection-end-column="32" />
         </state>
       </provider>
     </entry>
