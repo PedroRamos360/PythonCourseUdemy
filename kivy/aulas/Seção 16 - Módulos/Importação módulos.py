@@ -14,3 +14,7 @@ pi2 = m.pi
 from math import e, pi
 
 print(e1, e2, e, pi1, pi2, pi)
+
+# Para importar todos símbolos
+from math import *
+print(pow(cos(1), 2) + pow(sin(1), 2))
