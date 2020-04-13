@@ -10,7 +10,7 @@ import math as m
 e2 = m.e
 pi2 = m.pi
 
-# Ou
+# Ou importando símbolos específicos
 from math import e, pi
 
 print(e1, e2, e, pi1, pi2, pi)
