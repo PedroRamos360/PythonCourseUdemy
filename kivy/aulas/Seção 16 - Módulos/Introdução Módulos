@@ -1,0 +1,5 @@
+Módulos possuem símbolos que são declarações, como: váriaveis, funções, classes etc.
+A importação dos módulos acontece para reutilizar código através do acesso a estes símbolos.
+
+Módulos possuem váriaveis builtin como __name__, __file__, __loader__, int, string e etc.
+Essas váriaveis podem ser usadas dentro do seu código.
