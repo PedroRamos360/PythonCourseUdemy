@@ -12,7 +12,5 @@ pi2 = m.pi
 
 # Ou
 from math import e, pi
-e3 = e
-pi3 = pi
 
-print(e1, e2, e3, pi1, pi2, pi3)
+print(e1, e2, e, pi1, pi2, pi)
