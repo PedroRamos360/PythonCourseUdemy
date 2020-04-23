@@ -1,0 +1,3 @@
+O código python escrito e interpretado e transformado em byte code para poder ser executado
+por isso é bem mais rápido a execução de um arquivo .pyc (arquivo py já compilado) do que
+um .py
