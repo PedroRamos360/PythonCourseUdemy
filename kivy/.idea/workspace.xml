@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e9c4853c-e67f-42b0-be24-fec78455a699" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/aulas/Seção 18 - Orientação a objeto/Introdução.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/aulas/Seção 17 - Tratamento de Erros/TratamentoErros.py" beforeDir="false" afterPath="$PROJECT_DIR$/aulas/Seção 17 - Tratamento de Erros/TratamentoErros.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -151,9 +151,9 @@
     <list>
       <item itemvalue="Python.Importação módulos" />
       <item itemvalue="Python.Introdução Módulos" />
-      <item itemvalue="Python.TratamentoErros" />
       <item itemvalue="Python.main" />
       <item itemvalue="Python.modulo" />
+      <item itemvalue="Python.TratamentoErros" />
     </list>
     <recent_temporary>
       <list>
@@ -175,13 +175,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1580846075362</updated>
-    </task>
-    <task id="LOCAL-00015" summary="Atualização">
-      <created>1583259324292</created>
-      <option name="number" value="00015" />
-      <option name="presentableId" value="LOCAL-00015" />
-      <option name="project" value="LOCAL" />
-      <updated>1583259324296</updated>
     </task>
     <task id="LOCAL-00016" summary="Atualização">
       <created>1583259394255</created>
@@ -519,7 +512,14 @@
       <option name="project" value="LOCAL" />
       <updated>1588112870953</updated>
     </task>
-    <option name="localTasksCounter" value="64" />
+    <task id="LOCAL-00064" summary="Atualização">
+      <created>1588724012976</created>
+      <option name="number" value="00064" />
+      <option name="presentableId" value="LOCAL-00064" />
+      <option name="project" value="LOCAL" />
+      <updated>1588724012976</updated>
+    </task>
+    <option name="localTasksCounter" value="65" />
     <servers />
   </component>
   <component name="TodoView">
@@ -549,11 +549,11 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="442" y="166" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728/1366.0.1024.728@0.0.1366.728" timestamp="1587680058205" />
-    <state x="310" y="0" key="CommitChangelistDialog2" timestamp="1588112869282">
+    <state x="310" y="0" key="CommitChangelistDialog2" timestamp="1588724009703">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="310" y="0" key="CommitChangelistDialog2/0.0.1366.728/1366.0.1024.728@0.0.1366.728" timestamp="1587681282754" />
-    <state x="310" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1588112869282" />
+    <state x="310" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1588724009703" />
     <state x="462" y="119" key="FileChooserDialogImpl" timestamp="1587845059217">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -578,10 +578,10 @@
     </state>
     <state width="1345" height="178" key="GridCell.Tab.0.right/0.0.1366.728/1366.0.1024.728@0.0.1366.728" timestamp="1587687788564" />
     <state width="1345" height="178" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1588111134810" />
-    <state x="184" y="9" key="SettingsEditor" timestamp="1587240762783">
+    <state x="138" y="18" key="SettingsEditor" timestamp="1588724317006">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="184" y="9" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1587240762783" />
+    <state x="138" y="18" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1588724317006" />
     <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1588112879703">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
