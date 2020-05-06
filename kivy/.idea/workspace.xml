@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e9c4853c-e67f-42b0-be24-fec78455a699" name="Default Changelist" comment="" />
+    <list default="true" id="e9c4853c-e67f-42b0-be24-fec78455a699" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aulas/Seção 17 - Tratamento de Erros/TratamentoErros.py" beforeDir="false" afterPath="$PROJECT_DIR$/aulas/Seção 17 - Tratamento de Erros/TratamentoErros.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -172,13 +175,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1580846075362</updated>
-    </task>
-    <task id="LOCAL-00014" summary="Atualização">
-      <created>1583103888640</created>
-      <option name="number" value="00014" />
-      <option name="presentableId" value="LOCAL-00014" />
-      <option name="project" value="LOCAL" />
-      <updated>1583103888640</updated>
     </task>
     <task id="LOCAL-00015" summary="Atualização">
       <created>1583259324292</created>
@@ -516,7 +512,14 @@
       <option name="project" value="LOCAL" />
       <updated>1588111043886</updated>
     </task>
-    <option name="localTasksCounter" value="63" />
+    <task id="LOCAL-00063" summary="Atualização">
+      <created>1588112870953</created>
+      <option name="number" value="00063" />
+      <option name="presentableId" value="LOCAL-00063" />
+      <option name="project" value="LOCAL" />
+      <updated>1588112870953</updated>
+    </task>
+    <option name="localTasksCounter" value="64" />
     <servers />
   </component>
   <component name="TodoView">
@@ -546,11 +549,11 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="442" y="166" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728/1366.0.1024.728@0.0.1366.728" timestamp="1587680058205" />
-    <state x="310" y="0" key="CommitChangelistDialog2" timestamp="1588111041420">
+    <state x="310" y="0" key="CommitChangelistDialog2" timestamp="1588112869282">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="310" y="0" key="CommitChangelistDialog2/0.0.1366.728/1366.0.1024.728@0.0.1366.728" timestamp="1587681282754" />
-    <state x="310" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1588111041420" />
+    <state x="310" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1588112869282" />
     <state x="462" y="119" key="FileChooserDialogImpl" timestamp="1587845059217">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -579,11 +582,11 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="184" y="9" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1587240762783" />
-    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1588111107983">
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1588112879703">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728/1366.0.1024.728@0.0.1366.728" timestamp="1587681294347" />
-    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1588111107983" />
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1588112879703" />
   </component>
   <component name="debuggerHistoryManager">
     <expressions id="breakpointCondition">

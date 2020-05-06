@@ -11,4 +11,4 @@ else:
     print("Programa finalizado com suceeso")
 finally:
     print("Tenha um bom dia")
-    print(' ')
+
