@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e9c4853c-e67f-42b0-be24-fec78455a699" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/aulas/Seção 18 - Orientação a objeto/Introdução.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aulas/Seção 18 - Orientação a objeto/Primeira classe.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -42,7 +42,7 @@
       <recent name="D:\GitHub\PythonCourseUdemy\kivy\aulas\Seção 11 - Iteradores" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.TratamentoErros">
+  <component name="RunManager" selected="Python.Primeira classe">
     <configuration name="Importação módulos" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="kivy" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -64,7 +64,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Introdução Módulos" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Primeira classe" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="kivy" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -72,11 +72,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/aulas/Seção 16 - Módulos" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/aulas/Seção 18 - Orientação a objeto" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/aulas/Seção 16 - Módulos/Introdução Módulos.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/aulas/Seção 18 - Orientação a objeto/Primeira classe.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -150,18 +150,18 @@
     </configuration>
     <list>
       <item itemvalue="Python.Importação módulos" />
-      <item itemvalue="Python.Introdução Módulos" />
       <item itemvalue="Python.main" />
       <item itemvalue="Python.modulo" />
       <item itemvalue="Python.TratamentoErros" />
+      <item itemvalue="Python.Primeira classe" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Primeira classe" />
         <item itemvalue="Python.TratamentoErros" />
         <item itemvalue="Python.main" />
         <item itemvalue="Python.modulo" />
         <item itemvalue="Python.Importação módulos" />
-        <item itemvalue="Python.Introdução Módulos" />
       </list>
     </recent_temporary>
   </component>
@@ -175,13 +175,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1580846075362</updated>
-    </task>
-    <task id="LOCAL-00016" summary="Atualização">
-      <created>1583259394255</created>
-      <option name="number" value="00016" />
-      <option name="presentableId" value="LOCAL-00016" />
-      <option name="project" value="LOCAL" />
-      <updated>1583259394255</updated>
     </task>
     <task id="LOCAL-00017" summary="Atualização">
       <created>1583260488767</created>
@@ -519,7 +512,14 @@
       <option name="project" value="LOCAL" />
       <updated>1588724012976</updated>
     </task>
-    <option name="localTasksCounter" value="65" />
+    <task id="LOCAL-00065" summary="Atualização">
+      <created>1588724813766</created>
+      <option name="number" value="00065" />
+      <option name="presentableId" value="LOCAL-00065" />
+      <option name="project" value="LOCAL" />
+      <updated>1588724813766</updated>
+    </task>
+    <option name="localTasksCounter" value="66" />
     <servers />
   </component>
   <component name="TodoView">
@@ -545,15 +545,16 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="137" y="19" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1587240549687" />
-    <state x="442" y="166" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1587680058205">
+    <state x="442" y="166" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1588724770811">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="442" y="166" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728/1366.0.1024.728@0.0.1366.728" timestamp="1587680058205" />
-    <state x="310" y="0" key="CommitChangelistDialog2" timestamp="1588724009703">
+    <state x="442" y="166" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1588724770811" />
+    <state x="310" y="0" key="CommitChangelistDialog2" timestamp="1588724812344">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="310" y="0" key="CommitChangelistDialog2/0.0.1366.728/1366.0.1024.728@0.0.1366.728" timestamp="1587681282754" />
-    <state x="310" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1588724009703" />
+    <state x="310" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1588724812344" />
     <state x="462" y="119" key="FileChooserDialogImpl" timestamp="1587845059217">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -582,11 +583,11 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="138" y="18" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1588724317006" />
-    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1588112879703">
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1588724828898">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728/1366.0.1024.728@0.0.1366.728" timestamp="1587681294347" />
-    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1588112879703" />
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1588724828898" />
   </component>
   <component name="debuggerHistoryManager">
     <expressions id="breakpointCondition">
