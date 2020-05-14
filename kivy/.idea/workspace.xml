@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e9c4853c-e67f-42b0-be24-fec78455a699" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/aulas/Seção 18 - Orientação a objeto/Construtores.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aulas/Seção 18 - Orientação a objeto/Retangulo.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -44,7 +44,7 @@
       <recent name="D:\GitHub\PythonCourseUdemy\kivy\aulas\Seção 11 - Iteradores" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Construtores">
+  <component name="RunManager" selected="Python.Retangulo">
     <configuration name="Construtores" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="kivy" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -108,6 +108,27 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="Retangulo" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="kivy" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/aulas/Seção 18 - Orientação a objeto" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/aulas/Seção 18 - Orientação a objeto/Retangulo.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="TratamentoErros" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="kivy" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -129,41 +150,20 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="kivy" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/aulas/Seção 16 - Módulos/SimbolosPublicos" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/aulas/Seção 16 - Módulos/SimbolosPublicos/main.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <list>
-      <item itemvalue="Python.main" />
       <item itemvalue="Python.TratamentoErros" />
       <item itemvalue="Python.Primeira classe" />
       <item itemvalue="Python.Criação de Objetos" />
       <item itemvalue="Python.Construtores" />
+      <item itemvalue="Python.Retangulo" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Retangulo" />
         <item itemvalue="Python.Construtores" />
         <item itemvalue="Python.Criação de Objetos" />
         <item itemvalue="Python.Primeira classe" />
         <item itemvalue="Python.TratamentoErros" />
-        <item itemvalue="Python.main" />
       </list>
     </recent_temporary>
   </component>
@@ -177,13 +177,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1580846075362</updated>
-    </task>
-    <task id="LOCAL-00019" summary="Atualização">
-      <created>1583454254615</created>
-      <option name="number" value="00019" />
-      <option name="presentableId" value="LOCAL-00019" />
-      <option name="project" value="LOCAL" />
-      <updated>1583454254615</updated>
     </task>
     <task id="LOCAL-00020" summary="Atualização">
       <created>1583454525500</created>
@@ -521,7 +514,14 @@
       <option name="project" value="LOCAL" />
       <updated>1589314510762</updated>
     </task>
-    <option name="localTasksCounter" value="68" />
+    <task id="LOCAL-00068" summary="Atualização">
+      <created>1589493123939</created>
+      <option name="number" value="00068" />
+      <option name="presentableId" value="LOCAL-00068" />
+      <option name="project" value="LOCAL" />
+      <updated>1589493123939</updated>
+    </task>
+    <option name="localTasksCounter" value="69" />
     <servers />
   </component>
   <component name="TodoView">
@@ -552,44 +552,48 @@
     </state>
     <state x="442" y="166" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728/1366.0.1024.728@0.0.1366.728" timestamp="1587680058205" />
     <state x="442" y="166" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1588724770811" />
-    <state x="310" y="0" key="CommitChangelistDialog2" timestamp="1589314508593">
+    <state x="310" y="0" key="CommitChangelistDialog2" timestamp="1589493121649">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="310" y="0" key="CommitChangelistDialog2/0.0.1366.728/1366.0.1024.728@0.0.1366.728" timestamp="1589058694650" />
-    <state x="310" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1589314508593" />
+    <state x="310" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1589493121649" />
     <state x="462" y="119" key="FileChooserDialogImpl" timestamp="1587845059217">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="462" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1587845059217" />
-    <state width="1345" height="178" key="GridCell.Tab.0.bottom" timestamp="1589314817546">
+    <state width="1345" height="178" key="GridCell.Tab.0.bottom" timestamp="1589493463660">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="1345" height="178" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.0.1024.728@0.0.1366.728" timestamp="1589059021292" />
-    <state width="1345" height="178" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1589314817546" />
-    <state width="1345" height="178" key="GridCell.Tab.0.center" timestamp="1589314817546">
+    <state width="1345" height="178" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1589493463660" />
+    <state width="1345" height="178" key="GridCell.Tab.0.center" timestamp="1589493463660">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="1345" height="178" key="GridCell.Tab.0.center/0.0.1366.728/1366.0.1024.728@0.0.1366.728" timestamp="1589059021292" />
-    <state width="1345" height="178" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1589314817546" />
-    <state width="1345" height="178" key="GridCell.Tab.0.left" timestamp="1589314817546">
+    <state width="1345" height="178" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1589493463660" />
+    <state width="1345" height="178" key="GridCell.Tab.0.left" timestamp="1589493463660">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="1345" height="178" key="GridCell.Tab.0.left/0.0.1366.728/1366.0.1024.728@0.0.1366.728" timestamp="1589059021292" />
-    <state width="1345" height="178" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1589314817546" />
-    <state width="1345" height="178" key="GridCell.Tab.0.right" timestamp="1589314817546">
+    <state width="1345" height="178" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1589493463660" />
+    <state width="1345" height="178" key="GridCell.Tab.0.right" timestamp="1589493463660">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="1345" height="178" key="GridCell.Tab.0.right/0.0.1366.728/1366.0.1024.728@0.0.1366.728" timestamp="1589059021292" />
-    <state width="1345" height="178" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1589314817546" />
+    <state width="1345" height="178" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1589493463660" />
     <state x="138" y="18" key="SettingsEditor" timestamp="1588724317006">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="138" y="18" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1588724317006" />
-    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1589314546957">
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1589493144705">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728/1366.0.1024.728@0.0.1366.728" timestamp="1589058700384" />
-    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1589314546957" />
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1589493144705" />
+    <state x="492" y="278" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1589493138386">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="492" y="278" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.728@0.0.1366.728" timestamp="1589493138386" />
   </component>
   <component name="debuggerHistoryManager">
     <expressions id="breakpointCondition">
