@@ -1,0 +1,5 @@
+É o isolamento do código.
+Divido em três camadas:
+    Propriedades e Métodos - Só se comunica com a Interface Pública
+    Interface pública - Se comunica com as duas outras camadas
+    Código - Só se comunica com a Interface Pública
