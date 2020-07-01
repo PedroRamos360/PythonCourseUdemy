@@ -1,0 +1,11 @@
+São métodods utilizados na construção da Interface Pública
+Garantem a integridade das informações internadas ao objeto.
+
+Getters e Setters
+
+Métodos Getters: sempre retornam valores, Get significa retorno de dados
+Criação: get_ + atributo
+
+Métodos Setters: sempre recebem valores por parâmetros, Set siginifica atribuição de valor
+Criação: set_ + atributo
+
