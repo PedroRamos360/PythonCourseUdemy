@@ -1,0 +1,10 @@
+É um recurso da orientação a objetos que impede o acesso externo a membros de uso exclusivamente
+ao objeto.
+A ocultação de membros não existe na linguagem python. Portanto não é possível restringir o acesso
+a estes, apenas desencorajar os desenvolvedores a usá-los e assumir que seguirão a convenção.
+
+Convenções:
+1 Uso de underline antes de atributos ou funções para declará-los como restritos
+2 Uso de dois underlines para evitar colisão de nomes entre superclasse e subclasse
+3 Métodos mágicos são precedidos e finalizados por dois underlines para declará-los como exclusivos
+da linguagem
