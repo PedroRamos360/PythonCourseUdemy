@@ -1,0 +1,10 @@
+Propriedades são recursos para declaração de membros públicos que permite invocar métodos
+na leitura e escrita de valores.
+
+Função property(): => retorna a interface pública de acesso de uma classe
+property(fget, fset, fdel, doc)
+fget: Retorna os valores internos
+fset: Atribui valores
+fdel: Quando uma propriedade estiver sendo excluída
+doc: String com a documentação da propriedade
+
