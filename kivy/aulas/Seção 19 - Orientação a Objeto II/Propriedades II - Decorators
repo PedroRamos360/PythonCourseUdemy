@@ -1,0 +1,9 @@
+O decorador de método (decorator) adiciona funcionalidades ao método sem alterar a sua implementação
+Os decoradores começam com um @ para identificá-lo
+Ex:
+@property
+    def x(self):
+        return self._x
+@x.setter      #(@x => nome da propriedade) + (setter => ação)
+    def x(self, val):
+        self._x = val
