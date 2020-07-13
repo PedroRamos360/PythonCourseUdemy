@@ -1,0 +1,7 @@
+As classes são usadas para criar objetos mas, em python, elas também podem ser objetos
+
+Membro de Classe => Membros pertencentes ao objeto classe
+Membro de instância => Membros que conseguem acessar os membros da instância
+
+Objeto Classe => Instância da classe.
+Instância de classe => Instância gerada a partir de uma classe
