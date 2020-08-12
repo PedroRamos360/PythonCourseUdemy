@@ -19,6 +19,13 @@ print(MinhaClasse.membro_cls)
 print(i1.membro_cls)
 print(i2.membro_cls)
 
+print('-'*30)
+
+i1.membro_cls = 1000
+print(MinhaClasse.membro_cls)
+print(i1.membro_cls) # não acessa mais o valor da classe, acessa o valor da variável que foi declarada a ela
+print(i2.membro_cls)
+
 # i1.membro_inst = 10
 # print('i1: {}'.format(i1.membro_inst))
 # print('i2: {}'.format(i2.membro_inst))

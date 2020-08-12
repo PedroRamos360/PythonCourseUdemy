@@ -1,0 +1,8 @@
+instancia.attr => é procurado o attr dentro de instancia
+obj_cls.attr => depois será procurado dentro do obj_cls
+error => Se não pertencer a nenhum dos dois retorna erro
+
+Os únicos membros (váriaveis e métodos) que instâncias de uma classe compartilham
+entre si são os membros de classe
+
+__dict__: Armazena todos os membros de uma instância

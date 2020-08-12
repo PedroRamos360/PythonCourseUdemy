@@ -1,0 +1,15 @@
+É um método que receberá a instância da classe como primeiro argumento.
+Pode ser acessado de qualquer parte em qualquer instância.
+
+Sintaxe de criação de um método de classe:
+class NomeDaClasse:
+    def função(var1, var2, var3...):
+        # bloco de código
+    classmethod(função)
+
+decorator @classmethod
+Sintaxe de Criação:
+class NomeDaClasse:
+    @classmethod
+    def função(var1, var2, var3...):
+        pass
