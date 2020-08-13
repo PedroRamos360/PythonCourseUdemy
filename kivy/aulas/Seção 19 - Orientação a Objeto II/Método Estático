@@ -1,0 +1,14 @@
+É qualquer método declarado na classe contendo quaisquer parâmetros
+É igual aos métodos de classe mas com decorator diferente
+
+Sintaxe de criação com a função staticmethod:
+class A:
+    def func():
+        pass
+    func = staticmethod(func)
+
+Sintaxe de criação com o decorator staticmethod
+class A:
+    @staticmethod
+    def func(arg1, arg2, ...):
+        pass

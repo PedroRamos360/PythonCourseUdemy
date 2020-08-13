@@ -1,15 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e9c4853c-e67f-42b0-be24-fec78455a699" name="Default Changelist" comment="Atualização">
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/Seção 19 - Orientação a Objeto II/Método de classe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/Seção 19 - Orientação a Objeto II/Objeto Classe II" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/Seção 19 - Orientação a Objeto II/funcionamento_dict.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/Seção 19 - Orientação a Objeto II/metodo_de_classe.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+    <list default="true" id="e9c4853c-e67f-42b0-be24-fec78455a699" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/aulas/Seção 19 - Orientação a Objeto II/Método Estático" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aulas/Seção 19 - Orientação a Objeto II/metodo_estatico.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aulas/Seção 19 - Orientação a Objeto II/programa_de_oop.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/aulas/Seção 19 - Orientação a Objeto II/Objeto classe II.py" beforeDir="false" afterPath="$PROJECT_DIR$/aulas/Seção 19 - Orientação a Objeto II/Objeto classe II.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,7 +38,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="Python" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -50,28 +46,7 @@
       <recent name="D:\GitHub\PythonCourseUdemy\kivy\aulas\Seção 11 - Iteradores" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.metodo_de_classe">
-    <configuration name="Decorators" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="kivy" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/aulas/Seção 19 - Orientação a Objeto II" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/aulas/Seção 19 - Orientação a Objeto II/Decorators.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.programa_de_oop">
     <configuration name="Objeto classe II" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="kivy" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -85,27 +60,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/aulas/Seção 19 - Orientação a Objeto II/Objeto classe II.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Propriedades III" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="kivy" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/aulas/Seção 19 - Orientação a Objeto II" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/aulas/Seção 19 - Orientação a Objeto II/Propriedades III.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -156,20 +110,62 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="metodo_estatico" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="kivy" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/aulas/Seção 19 - Orientação a Objeto II" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/aulas/Seção 19 - Orientação a Objeto II/metodo_estatico.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="programa_de_oop" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="kivy" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/aulas/Seção 19 - Orientação a Objeto II" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/aulas/Seção 19 - Orientação a Objeto II/programa_de_oop.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <list>
-      <item itemvalue="Python.Decorators" />
       <item itemvalue="Python.Objeto classe II" />
-      <item itemvalue="Python.Propriedades III" />
       <item itemvalue="Python.funcionamento_dict" />
       <item itemvalue="Python.metodo_de_classe" />
+      <item itemvalue="Python.metodo_estatico" />
+      <item itemvalue="Python.programa_de_oop" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.programa_de_oop" />
+        <item itemvalue="Python.metodo_estatico" />
         <item itemvalue="Python.metodo_de_classe" />
         <item itemvalue="Python.funcionamento_dict" />
         <item itemvalue="Python.Objeto classe II" />
-        <item itemvalue="Python.Propriedades III" />
-        <item itemvalue="Python.Decorators" />
       </list>
     </recent_temporary>
   </component>
@@ -183,13 +179,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1580846075362</updated>
-    </task>
-    <task id="LOCAL-00030" summary="Atualização">
-      <created>1584828224716</created>
-      <option name="number" value="00030" />
-      <option name="presentableId" value="LOCAL-00030" />
-      <option name="project" value="LOCAL" />
-      <updated>1584828224716</updated>
     </task>
     <task id="LOCAL-00031" summary="Atualização">
       <created>1584884219796</created>
@@ -527,7 +516,14 @@
       <option name="project" value="LOCAL" />
       <updated>1594681727533</updated>
     </task>
-    <option name="localTasksCounter" value="79" />
+    <task id="LOCAL-00079" summary="Objeto Classe II e Método de classe">
+      <created>1597271598347</created>
+      <option name="number" value="00079" />
+      <option name="presentableId" value="LOCAL-00079" />
+      <option name="project" value="LOCAL" />
+      <updated>1597271598347</updated>
+    </task>
+    <option name="localTasksCounter" value="80" />
     <servers />
   </component>
   <component name="TodoView">
@@ -542,59 +538,60 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Atualização" />
-    <option name="LAST_COMMIT_MESSAGE" value="Atualização" />
+    <MESSAGE value="Objeto Classe II e Método de classe" />
+    <option name="LAST_COMMIT_MESSAGE" value="Objeto Classe II e Método de classe" />
   </component>
   <component name="WindowStateProjectService">
     <state x="440" y="73" key="#Python" timestamp="1597270725117">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="440" y="73" key="#Python/0.0.1366.728/1366.0.1024.728@0.0.1366.728" timestamp="1597270725117" />
-    <state x="442" y="166" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1597269878072">
+    <state x="442" y="166" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1597335503968">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="442" y="166" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728/1366.0.1024.728@0.0.1366.728" timestamp="1597269878072" />
+    <state x="442" y="166" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728/1366.0.1024.728@0.0.1366.728" timestamp="1597335503968" />
     <state x="442" y="166" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1588724770811" />
     <state x="442" y="175" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.768/1366.0.1024.768@0.0.1366.768" timestamp="1594680804002" />
     <state x="438" y="67" key="#xdebugger.evaluate" timestamp="1597269236795">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="438" y="67" key="#xdebugger.evaluate/0.0.1366.728/1366.0.1024.728@0.0.1366.728" timestamp="1597269236795" />
-    <state x="310" y="0" key="CommitChangelistDialog2" timestamp="1597268360976">
+    <state x="310" y="0" key="CommitChangelistDialog2" timestamp="1597271595122">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="310" y="0" key="CommitChangelistDialog2/0.0.1366.728/1366.0.1024.728@0.0.1366.728" timestamp="1597268360976" />
-    <state x="310" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1594428373899" />
+    <state x="310" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1597271595122" />
     <state x="310" y="0" key="CommitChangelistDialog2/0.0.1366.768/1366.0.1024.768@0.0.1366.768" timestamp="1594681724908" />
-    <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1596628480799">
+    <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1597271631881">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1596628480799" />
-    <state width="1346" height="223" key="GridCell.Tab.0.bottom" timestamp="1597271421391">
+    <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1597271631881" />
+    <state width="1346" height="428" key="GridCell.Tab.0.bottom" timestamp="1597338318755">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1346" height="223" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.0.1024.728@0.0.1366.728" timestamp="1597271421391" />
-    <state width="659" height="175" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1594428437986" />
+    <state width="1346" height="175" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.0.1024.728@0.0.1366.728" timestamp="1597336633837" />
+    <state width="1346" height="428" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1597338318755" />
     <state width="1345" height="190" key="GridCell.Tab.0.bottom/0.0.1366.768/1366.0.1024.768@0.0.1366.768" timestamp="1594342364679" />
     <state width="1345" height="190" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1593387745265" />
-    <state width="1346" height="223" key="GridCell.Tab.0.center" timestamp="1597271421391">
+    <state width="1346" height="428" key="GridCell.Tab.0.center" timestamp="1597338318755">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1346" height="223" key="GridCell.Tab.0.center/0.0.1366.728/1366.0.1024.728@0.0.1366.728" timestamp="1597271421391" />
-    <state width="659" height="175" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1594428437986" />
+    <state width="1346" height="175" key="GridCell.Tab.0.center/0.0.1366.728/1366.0.1024.728@0.0.1366.728" timestamp="1597336633837" />
+    <state width="1346" height="428" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1597338318755" />
     <state width="1345" height="190" key="GridCell.Tab.0.center/0.0.1366.768/1366.0.1024.768@0.0.1366.768" timestamp="1594342364679" />
     <state width="1345" height="190" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1593387745265" />
-    <state width="1346" height="223" key="GridCell.Tab.0.left" timestamp="1597271421391">
+    <state width="1346" height="428" key="GridCell.Tab.0.left" timestamp="1597338318755">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1346" height="223" key="GridCell.Tab.0.left/0.0.1366.728/1366.0.1024.728@0.0.1366.728" timestamp="1597271421391" />
-    <state width="659" height="175" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1594428437986" />
+    <state width="1346" height="175" key="GridCell.Tab.0.left/0.0.1366.728/1366.0.1024.728@0.0.1366.728" timestamp="1597336633837" />
+    <state width="1346" height="428" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1597338318755" />
     <state width="1345" height="190" key="GridCell.Tab.0.left/0.0.1366.768/1366.0.1024.768@0.0.1366.768" timestamp="1594342364679" />
     <state width="1345" height="190" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1593387745265" />
-    <state width="1346" height="223" key="GridCell.Tab.0.right" timestamp="1597271421391">
+    <state width="1346" height="428" key="GridCell.Tab.0.right" timestamp="1597338318755">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1346" height="223" key="GridCell.Tab.0.right/0.0.1366.728/1366.0.1024.728@0.0.1366.728" timestamp="1597271421391" />
-    <state width="659" height="175" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1594428437986" />
+    <state width="1346" height="175" key="GridCell.Tab.0.right/0.0.1366.728/1366.0.1024.728@0.0.1366.728" timestamp="1597336633837" />
+    <state width="1346" height="428" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1597338318755" />
     <state width="1345" height="190" key="GridCell.Tab.0.right/0.0.1366.768/1366.0.1024.768@0.0.1366.768" timestamp="1594342364679" />
     <state width="1345" height="190" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1593387745265" />
     <state width="1346" height="223" key="GridCell.Tab.1.bottom" timestamp="1597271421391">
@@ -613,16 +610,16 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="1346" height="223" key="GridCell.Tab.1.right/0.0.1366.728/1366.0.1024.728@0.0.1366.728" timestamp="1597271421391" />
-    <state x="214" y="9" key="SettingsEditor" timestamp="1597271418696">
+    <state x="138" y="18" key="SettingsEditor" timestamp="1597271531240">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="214" y="9" key="SettingsEditor/0.0.1366.728/1366.0.1024.728@0.0.1366.728" timestamp="1597271418696" />
-    <state x="138" y="18" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1588724317006" />
-    <state x="275" y="102" key="Vcs.Push.Dialog.v2" timestamp="1594681769802">
-      <screen x="0" y="0" width="1366" height="768" />
+    <state x="138" y="18" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1597271531240" />
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1597271612024">
+      <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728/1366.0.1024.728@0.0.1366.728" timestamp="1589058700384" />
-    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1594428419314" />
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1597271612024" />
     <state x="275" y="102" key="Vcs.Push.Dialog.v2/0.0.1366.768/1366.0.1024.768@0.0.1366.768" timestamp="1594681769802" />
     <state x="492" y="278" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1589493138386">
       <screen x="0" y="0" width="1366" height="728" />
