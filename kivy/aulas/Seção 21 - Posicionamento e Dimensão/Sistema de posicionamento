@@ -1,0 +1,4 @@
+A unidade de medida é pixels
+A tela é baseado no plano cartesiano, entretanos só é usado um dos quadrantes
+o superior direito. Isso resulta que o ponto (0,0) ao invés de ser no canto superior
+esquerdo fica no canto inferior esquerdo.
