@@ -1,0 +1,27 @@
+Python tem 6 unidades de medidas diferentes:
+- px: pixels;
+- m: polegadas;
+- mm: milímetros;
+- pt: pontos;
+- dp: pixel independente de densidade;
+- sp: escala independente de pixel.
+
+Pixel é a unidade de medida universal adotada pela indústria de software. É o menor
+ponto que um dispositivo pode mostrar. Vária de dispositivo para dispositivo.
+
+Resolução de tela é a quantidae de pixeis do display.
+Ex: 1280 x 720 => Significa que tem 1280 pixeis na horizontal e 720 na vertical
+
+dpi (dots per inch) é a divisão da largura da tela pela quantidade de pixels na horizontal.
+
+Densidade de pixel é a quantidade de pixels por polegada quadrada.
+
+Densidade de tela é a largura ou altura da tela em pixel divido pela largura ou altura da
+tela em polegadas.
+
+dp é um pixel independente de densidade. Faz com que o tamanho dos elementos sejam fisicamente
+do mesmo tamanho independentemente do tamanho da tela.
+Pode ser calculada por: Largura de pixel * 60 / densidade da tela.
+
+sp é uma escala independente de pixels. É usado para definir o tamanho da fonte.
+Por padrão o sp = dp.
