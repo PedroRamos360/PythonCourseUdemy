@@ -1,0 +1,31 @@
+É uma linguagem de marcação definida pelo grupo responsável pelo framework Kivy.
+
+Nela há conceitos novos e maneiras mais genéricas de tratar os elementos de tela se
+adaptando a uma quantidade maior de dispositivos.
+
+É uma linguagem de MARCAÇÃO não de PROGRAMAÇÃO.
+Segue o estilo de QML, XML e JSON.
+
+Criada para a construção de interfaces gráficas. Tem o objetivo de separar o código
+de interface visual do código da lógica de negócio.
+
+Sintaxe:
+<ClassName>:
+    LayoutType:
+        WidgetType:
+            pos: 10, 10
+            size: .5, .5
+
+    LayoutType2:
+        font_size: 70
+        center_x: root.width / 4
+        top: root.top - 5
+        text: "0"
+
+
+ClassName: É o widget que contém todos os elementos da aplicação.
+LayoutType: É um widget que serve de gerenciador de layout para a aplicação.
+LayoutType2: Outro gerenciador de layout
+WidgetType: Qualquer outro widget que pode ter na aplicação.
+pos, size: são propriedades do componente.
+
