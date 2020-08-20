@@ -1,0 +1,13 @@
+Gerenciamento de Leiaute: são widgets que organizam widgets
+Ex: FloatLayout.
+
+Sufixo hint significa que a propriedade trabalha com valores percentuais
+Ex: pos_hint, size_hint
+
+pos_hint: recebe um dicionário que associa os eixos do elemento de forma
+percentual.
+Ex: pos_hint: {"x": .1, "y": .1}
+
+X e Y definem as dimensões de um elemento em pixels.
+
+pos: recebe uma tupla cujo primeiro valor será x e o segundo y.

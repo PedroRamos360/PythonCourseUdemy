@@ -1,0 +1,36 @@
+É possível posicionar elementos através do canto inferior esquerdo, superior direito
+ou através do centro.
+
+Right: propriedade define a posição do elemento baseado na posição inferior direita.
+right = x + width
+
+Top: propriedade que define a posição do elemento baseado na posição superior esquerda.
+top = y + height
+
+center: propriedade que definie a posição do elemento baseado na posição central.
+center_x = x + (width/2)
+center_y = y + (width/2)
+
+Exemplos:
+pos_hint: {'right': 1.}
+pos_hint: {'top': 1.}
+
+Propriedades percentuais:
+    pos_hint => dicionário
+    x
+    y
+    right
+    top
+    center_x
+    center_y
+
+Propriedades absolutas:
+    x
+    y
+    pos => tupla
+    right
+    top
+    center => tupla
+    center_x
+    center_y
+
