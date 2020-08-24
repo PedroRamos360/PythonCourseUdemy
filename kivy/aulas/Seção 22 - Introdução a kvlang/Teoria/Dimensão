@@ -1,3 +1,16 @@
 size_hint_x e size_hint_y definem as dimensões percentuais para cada eixo
-do plano.
+do plano. Estas devem ser marcadas como None para definir o width e o height
+de um elemento em pixeis.
+Pode ser definido como uma tupla size_hint = (x, y)
+Assim como a propriedade size, que define width e height => size: (width, height)
+
+Propriedades percentuais:
+size_hint
+size_hint_x
+size_hint_y
+
+Propriedades absolutas:
+size
+width
+height
 

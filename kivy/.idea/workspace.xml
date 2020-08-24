@@ -2,13 +2,73 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e9c4853c-e67f-42b0-be24-fec78455a699" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/aulas/Seção 22 - Introdução a kvlang/Prática/02_medida_posicionamento/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/Seção 22 - Introdução a kvlang/Prática/02_medida_posicionamento/medida.kv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/Seção 22 - Introdução a kvlang/Teoria/Posicionamento I" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/Seção 22 - Introdução a kvlang/Teoria/Posicionamento II" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/kivy.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/kivy.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/aulas/Seção 22 - Introdução a kvlang/Prática/hello-world-kvlang/hello.kv" beforeDir="false" afterPath="$PROJECT_DIR$/aulas/Seção 22 - Introdução a kvlang/Prática/01_hello-world-kvlang/hello.kv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/aulas/Seção 22 - Introdução a kvlang/Prática/hello-world-kvlang/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/aulas/Seção 22 - Introdução a kvlang/Prática/01_hello-world-kvlang/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aulas/Módulo 3 - Degustação/0001_hello_world/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/aulas/Módulo 3 - Degustação/0002_imprimindo_texto/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/aulas/Módulo 3 - Degustação/0003_outros_widgets/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/aulas/Módulo 3 - Degustação/0004_conhecendo_outros_widgets/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/aulas/Módulo 3 - Degustação/0004_conhecendo_outros_widgets/main2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/aulas/Módulo 3 - Degustação/0005_entrada_de_dados/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/aulas/Módulo 3 - Degustação/0006_uma_tela_de_verdade/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/aulas/Módulo 3 - Degustação/0007_oo/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/aulas/Módulo 5 - kvlang-e-widgets/0005-002 - hello-world-kvlang/hello.kv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/aulas/Módulo 5 - kvlang-e-widgets/0005-002 - hello-world-kvlang/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/aulas/Módulo 5 - kvlang-e-widgets/0005-003 - Propriedade de Posicionamento e Dimensão/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/aulas/Módulo 5 - kvlang-e-widgets/0005-003 - Propriedade de Posicionamento e Dimensão/medida.kv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/aulas/Módulo 6 - Ferramentas/.ipynb_checkpoints/estudo-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/aulas/Módulo 6 - Ferramentas/0006 - Config.ini e Módulo inspect/config.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/aulas/Módulo 6 - Ferramentas/0006 - Config.ini e Módulo inspect/exemplo/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/aulas/Módulo 6 - Ferramentas/0007 - Módulo screen/exemplo/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/aulas/Módulo 6 - Ferramentas/0009 - Desenvolvimento Interativo com Jupyter e Kivy/.ipynb_checkpoints/Untitled-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/aulas/Módulo 6 - Ferramentas/0009 - Desenvolvimento Interativo com Jupyter e Kivy/.ipynb_checkpoints/codigo-interativo-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/aulas/Módulo 6 - Ferramentas/0009 - Desenvolvimento Interativo com Jupyter e Kivy/.ipynb_checkpoints/teste-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/aulas/Módulo 6 - Ferramentas/0009 - Desenvolvimento Interativo com Jupyter e Kivy/Untitled.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/aulas/Módulo 6 - Ferramentas/0009 - Desenvolvimento Interativo com Jupyter e Kivy/codigo-interativo.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/aulas/Módulo 6 - Ferramentas/0009 - Desenvolvimento Interativo com Jupyter e Kivy/config.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/aulas/Módulo 6 - Ferramentas/0009 - Desenvolvimento Interativo com Jupyter e Kivy/estudo.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/aulas/Módulo 6 - Ferramentas/0009 - Desenvolvimento Interativo com Jupyter e Kivy/teste.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/aulas/Módulo 6 - Ferramentas/estudo.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/aulas/Módulo 7 - Kivy Language/0001 - KV vs Python - Implementando com Python/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/aulas/Módulo 7 - Kivy Language/0002 - KV vs Python - Implementando com KV/kvvspy222.kv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/aulas/Módulo 7 - Kivy Language/0002 - KV vs Python - Implementando com KV/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/aulas/Módulo 7 - Kivy Language/0004 - kvlang I/estudo1.kv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/aulas/Módulo 7 - Kivy Language/0004 - kvlang I/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/aulas/Módulo 7 - Kivy Language/0005 - kvlang II/estudo2.kv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/aulas/Módulo 7 - Kivy Language/0005 - kvlang II/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/aulas/Módulo 7 - Kivy Language/0006 - kvlang III/arq.kv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/aulas/Módulo 7 - Kivy Language/0006 - kvlang III/estudo3.kv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/aulas/Módulo 7 - Kivy Language/0006 - kvlang III/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/aulas/Módulo 7 - Kivy Language/0007 - kvlang IV - Conectando o Python e KV/estudo4.kv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/aulas/Módulo 7 - Kivy Language/0007 - kvlang IV - Conectando o Python e KV/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/aulas/Módulo 7 - Kivy Language/0008 - kvlang V - Keywords/estudo5.kv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/aulas/Módulo 7 - Kivy Language/0008 - kvlang V - Keywords/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/aulas/Módulo 7 - Kivy Language/0009 - A classe Builder/estudo6.kv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/aulas/Módulo 7 - Kivy Language/0009 - A classe Builder/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/aulas/Módulo 8 - Widget I/0003 - Ambiente para Estudo dos Widgets/.ipynb_checkpoints/boilerplate-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/aulas/Módulo 8 - Widget I/0003 - Ambiente para Estudo dos Widgets/boilerplate.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/aulas/Módulo 8 - Widget I/0004 - FloatLayout/.ipynb_checkpoints/floatlayout-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/aulas/Módulo 8 - Widget I/0004 - FloatLayout/floatlayout.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/aulas/Módulo 8 - Widget I/0005 - BoxLayout/.ipynb_checkpoints/boxlayout-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/aulas/Módulo 8 - Widget I/0005 - BoxLayout/boxlayout.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/aulas/Módulo 8 - Widget I/0006 - StackLayout/.ipynb_checkpoints/stacklayout-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/aulas/Módulo 8 - Widget I/0006 - StackLayout/stacklayout.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/aulas/Módulo 8 - Widget I/0007 - GridLayout/.ipynb_checkpoints/gridlayout-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/aulas/Módulo 8 - Widget I/0007 - GridLayout/gridlayout.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/aulas/Módulo 8 - Widget I/0008 - Sistema de Cores/.ipynb_checkpoints/sistema-de-cores-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/aulas/Módulo 8 - Widget I/0008 - Sistema de Cores/sistema-de-cores.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/aulas/Módulo 8 - Widget I/0009 - Cor de Background/.ipynb_checkpoints/cor-de-background-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/aulas/Módulo 8 - Widget I/0009 - Cor de Background/cor-de-background.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/aulas/Módulo 8 - Widget I/0009 - Cor de Background/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/aulas/Módulo 9 - Widgets II/0001 - Label/.ipynb_checkpoints/label-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/aulas/Módulo 9 - Widgets II/0001 - Label/label.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/aulas/Módulo 9 - Widgets II/0002 - Label II/.ipynb_checkpoints/label2-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/aulas/Módulo 9 - Widgets II/0002 - Label II/label2.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/aulas/Módulo 9 - Widgets II/0003 - Button/.ipynb_checkpoints/button-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/aulas/Módulo 9 - Widgets II/0003 - Button/button.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/aulas/Módulo 9 - Widgets II/0004 - TextInput/.ipynb_checkpoints/textinput-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/aulas/Módulo 9 - Widgets II/0004 - TextInput/textinput.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/aulas/Seção 22 - Introdução a kvlang/Teoria/Dimensão" beforeDir="false" afterPath="$PROJECT_DIR$/aulas/Seção 22 - Introdução a kvlang/Teoria/Dimensão" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,7 +112,28 @@
       <recent name="D:\GitHub\PythonCourseUdemy\kivy\aulas\Seção 11 - Iteradores" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.main (1)">
+  <component name="RunManager" selected="Python.main (4)">
+    <configuration name="animate" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="kivy" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/kivy-master/examples/animation" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/kivy-master/examples/animation/animate.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="main (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="kivy" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -74,6 +155,27 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="main (2)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="kivy" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/kivy-master/examples/audio" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/kivy-master/examples/audio/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="main (3)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="kivy" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -82,11 +184,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/aulas/Seção 20 - Degustação/0004_inputs" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/kivy-master/examples/demo/kivycatalog" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/aulas/Seção 20 - Degustação/0004_inputs/main.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/kivy-master/examples/demo/kivycatalog/main.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -103,53 +205,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/aulas/Seção 20 - Degustação/0005_aplicacao_real" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/kivy-designer-master" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/aulas/Seção 20 - Degustação/0005_aplicacao_real/main.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="main (5)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="kivy" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/aulas/Seção 20 - Degustação/0006_orientacao_objeto" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/aulas/Seção 20 - Degustação/0006_orientacao_objeto/main.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="kivy" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/aulas/Seção 22 - Introdução a kvlang/Prática/hello-world-kvlang" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/aulas/Seção 22 - Introdução a kvlang/Prática/hello-world-kvlang/main.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/kivy-designer-master/main.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -159,19 +219,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.main (3)" />
-      <item itemvalue="Python.main (4)" />
-      <item itemvalue="Python.main (5)" />
-      <item itemvalue="Python.main" />
       <item itemvalue="Python.main (1)" />
+      <item itemvalue="Python.main (2)" />
+      <item itemvalue="Python.main (3)" />
+      <item itemvalue="Python.animate" />
+      <item itemvalue="Python.main (4)" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.main (1)" />
-        <item itemvalue="Python.main" />
-        <item itemvalue="Python.main (5)" />
         <item itemvalue="Python.main (4)" />
+        <item itemvalue="Python.animate" />
         <item itemvalue="Python.main (3)" />
+        <item itemvalue="Python.main (2)" />
+        <item itemvalue="Python.main (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -185,13 +245,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1580846075362</updated>
-    </task>
-    <task id="LOCAL-00036" summary="Atualização">
-      <created>1584961839602</created>
-      <option name="number" value="00036" />
-      <option name="presentableId" value="LOCAL-00036" />
-      <option name="project" value="LOCAL" />
-      <updated>1584961839602</updated>
     </task>
     <task id="LOCAL-00037" summary="Atualização">
       <created>1584962383948</created>
@@ -529,7 +582,14 @@
       <option name="project" value="LOCAL" />
       <updated>1597866244460</updated>
     </task>
-    <option name="localTasksCounter" value="85" />
+    <task id="LOCAL-00085" summary="Finalização de todas as aulas antes da de Dimensão - Seção 22">
+      <created>1597940905166</created>
+      <option name="number" value="00085" />
+      <option name="presentableId" value="LOCAL-00085" />
+      <option name="project" value="LOCAL" />
+      <updated>1597940905181</updated>
+    </task>
+    <option name="localTasksCounter" value="86" />
     <servers />
   </component>
   <component name="TodoView">
@@ -549,17 +609,18 @@
     <MESSAGE value="Degustação biblioteca kivy" />
     <MESSAGE value="Finalização da seção 20 e começo da 21" />
     <MESSAGE value="Termino da seção 21 e início da seção 22" />
-    <option name="LAST_COMMIT_MESSAGE" value="Termino da seção 21 e início da seção 22" />
+    <MESSAGE value="Finalização de todas as aulas antes da de Dimensão - Seção 22" />
+    <option name="LAST_COMMIT_MESSAGE" value="Finalização de todas as aulas antes da de Dimensão - Seção 22" />
   </component>
   <component name="WindowStateProjectService">
     <state x="440" y="73" key="#Python" timestamp="1597270725117">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="440" y="73" key="#Python/0.0.1366.728/1366.0.1024.728@0.0.1366.728" timestamp="1597270725117" />
-    <state x="442" y="166" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1597940010166">
+    <state x="442" y="166" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1597940750035">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="442" y="166" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728/1366.0.1024.728@0.0.1366.728" timestamp="1597940010166" />
+    <state x="442" y="166" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728/1366.0.1024.728@0.0.1366.728" timestamp="1597940750035" />
     <state x="442" y="175" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.768/1366.0.1024.768@0.0.1366.768" timestamp="1594680804002" />
     <state x="419" y="233" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog" timestamp="1597866031132">
       <screen x="0" y="0" width="1366" height="728" />
@@ -569,43 +630,43 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="438" y="67" key="#xdebugger.evaluate/0.0.1366.728/1366.0.1024.728@0.0.1366.728" timestamp="1597269236795" />
-    <state x="310" y="0" key="CommitChangelistDialog2" timestamp="1597866242304">
+    <state x="310" y="0" key="CommitChangelistDialog2" timestamp="1597940902072">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="310" y="0" key="CommitChangelistDialog2/0.0.1366.728/1366.0.1024.728@0.0.1366.728" timestamp="1597863857270" />
-    <state x="310" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1597866242304" />
+    <state x="310" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1597940902072" />
     <state x="310" y="0" key="CommitChangelistDialog2/0.0.1366.768/1366.0.1024.768@0.0.1366.768" timestamp="1594681724908" />
     <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1597866016301">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728/1366.0.1024.728@0.0.1366.728" timestamp="1597866016301" />
     <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1597701062403" />
-    <state width="1346" height="426" key="GridCell.Tab.0.bottom" timestamp="1597939318499">
+    <state width="1346" height="426" key="GridCell.Tab.0.bottom" timestamp="1598290584745">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1346" height="426" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.0.1024.728@0.0.1366.728" timestamp="1597939318499" />
-    <state width="1346" height="426" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1597866327382" />
+    <state width="1346" height="426" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.0.1024.728@0.0.1366.728" timestamp="1598290584745" />
+    <state width="1346" height="426" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1597940923586" />
     <state width="1345" height="190" key="GridCell.Tab.0.bottom/0.0.1366.768/1366.0.1024.768@0.0.1366.768" timestamp="1594342364679" />
     <state width="1345" height="190" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1593387745265" />
-    <state width="1346" height="426" key="GridCell.Tab.0.center" timestamp="1597939318499">
+    <state width="1346" height="426" key="GridCell.Tab.0.center" timestamp="1598290584745">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1346" height="426" key="GridCell.Tab.0.center/0.0.1366.728/1366.0.1024.728@0.0.1366.728" timestamp="1597939318499" />
-    <state width="1346" height="426" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1597866327382" />
+    <state width="1346" height="426" key="GridCell.Tab.0.center/0.0.1366.728/1366.0.1024.728@0.0.1366.728" timestamp="1598290584745" />
+    <state width="1346" height="426" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1597940923586" />
     <state width="1345" height="190" key="GridCell.Tab.0.center/0.0.1366.768/1366.0.1024.768@0.0.1366.768" timestamp="1594342364679" />
     <state width="1345" height="190" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1593387745265" />
-    <state width="1346" height="426" key="GridCell.Tab.0.left" timestamp="1597939318499">
+    <state width="1346" height="426" key="GridCell.Tab.0.left" timestamp="1598290584745">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1346" height="426" key="GridCell.Tab.0.left/0.0.1366.728/1366.0.1024.728@0.0.1366.728" timestamp="1597939318499" />
-    <state width="1346" height="426" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1597866327382" />
+    <state width="1346" height="426" key="GridCell.Tab.0.left/0.0.1366.728/1366.0.1024.728@0.0.1366.728" timestamp="1598290584745" />
+    <state width="1346" height="426" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1597940923586" />
     <state width="1345" height="190" key="GridCell.Tab.0.left/0.0.1366.768/1366.0.1024.768@0.0.1366.768" timestamp="1594342364679" />
     <state width="1345" height="190" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1593387745265" />
-    <state width="1346" height="426" key="GridCell.Tab.0.right" timestamp="1597939318499">
+    <state width="1346" height="426" key="GridCell.Tab.0.right" timestamp="1598290584745">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1346" height="426" key="GridCell.Tab.0.right/0.0.1366.728/1366.0.1024.728@0.0.1366.728" timestamp="1597939318499" />
-    <state width="1346" height="426" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1597866327382" />
+    <state width="1346" height="426" key="GridCell.Tab.0.right/0.0.1366.728/1366.0.1024.728@0.0.1366.728" timestamp="1598290584745" />
+    <state width="1346" height="426" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1597940923586" />
     <state width="1345" height="190" key="GridCell.Tab.0.right/0.0.1366.768/1366.0.1024.768@0.0.1366.768" timestamp="1594342364679" />
     <state width="1345" height="190" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1593387745265" />
     <state width="1346" height="223" key="GridCell.Tab.1.bottom" timestamp="1597271421391">
@@ -633,16 +694,12 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="498" height="445" key="SwitcherDM/0.0.1366.728@0.0.1366.728" timestamp="1597442150213" />
-    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1597866312928">
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1597940911212">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728/1366.0.1024.728@0.0.1366.728" timestamp="1597773972606" />
-    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1597866312928" />
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1597940911212" />
     <state x="275" y="102" key="Vcs.Push.Dialog.v2/0.0.1366.768/1366.0.1024.768@0.0.1366.768" timestamp="1594681769802" />
-    <state x="492" y="278" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1589493138386">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="492" y="278" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.728@0.0.1366.728" timestamp="1589493138386" />
     <state x="92" y="92" width="1182" height="584" maximized="true" key="dock-window-1" timestamp="1596222799704">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
