@@ -1,0 +1,9 @@
+Para visualizar uma aplicação kivy sendo rodada na dimensão de outro dispositivo
+pode ser usado o módulo screen.
+
+Usar o código no terminal na pasta da aplicação:
+python nome_do_app.py -m screen:nome_do_dispositivo
+
+Pode ser usado também:
+python nome_do_app.py -m screen
+para ver informações sobre o módulo.

@@ -2,73 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e9c4853c-e67f-42b0-be24-fec78455a699" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/kivy.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/kivy.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aulas/Seção 23 - Ferramentas/Módulo screen" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/aulas/Módulo 3 - Degustação/0001_hello_world/main.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/aulas/Módulo 3 - Degustação/0002_imprimindo_texto/main.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/aulas/Módulo 3 - Degustação/0003_outros_widgets/main.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/aulas/Módulo 3 - Degustação/0004_conhecendo_outros_widgets/main.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/aulas/Módulo 3 - Degustação/0004_conhecendo_outros_widgets/main2.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/aulas/Módulo 3 - Degustação/0005_entrada_de_dados/main.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/aulas/Módulo 3 - Degustação/0006_uma_tela_de_verdade/main.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/aulas/Módulo 3 - Degustação/0007_oo/main.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/aulas/Módulo 5 - kvlang-e-widgets/0005-002 - hello-world-kvlang/hello.kv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/aulas/Módulo 5 - kvlang-e-widgets/0005-002 - hello-world-kvlang/main.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/aulas/Módulo 5 - kvlang-e-widgets/0005-003 - Propriedade de Posicionamento e Dimensão/main.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/aulas/Módulo 5 - kvlang-e-widgets/0005-003 - Propriedade de Posicionamento e Dimensão/medida.kv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/aulas/Módulo 6 - Ferramentas/.ipynb_checkpoints/estudo-checkpoint.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/aulas/Módulo 6 - Ferramentas/0006 - Config.ini e Módulo inspect/config.ini" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/aulas/Módulo 6 - Ferramentas/0006 - Config.ini e Módulo inspect/exemplo/main.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/aulas/Módulo 6 - Ferramentas/0007 - Módulo screen/exemplo/main.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/aulas/Módulo 6 - Ferramentas/0009 - Desenvolvimento Interativo com Jupyter e Kivy/.ipynb_checkpoints/Untitled-checkpoint.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/aulas/Módulo 6 - Ferramentas/0009 - Desenvolvimento Interativo com Jupyter e Kivy/.ipynb_checkpoints/codigo-interativo-checkpoint.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/aulas/Módulo 6 - Ferramentas/0009 - Desenvolvimento Interativo com Jupyter e Kivy/.ipynb_checkpoints/teste-checkpoint.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/aulas/Módulo 6 - Ferramentas/0009 - Desenvolvimento Interativo com Jupyter e Kivy/Untitled.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/aulas/Módulo 6 - Ferramentas/0009 - Desenvolvimento Interativo com Jupyter e Kivy/codigo-interativo.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/aulas/Módulo 6 - Ferramentas/0009 - Desenvolvimento Interativo com Jupyter e Kivy/config.ini" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/aulas/Módulo 6 - Ferramentas/0009 - Desenvolvimento Interativo com Jupyter e Kivy/estudo.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/aulas/Módulo 6 - Ferramentas/0009 - Desenvolvimento Interativo com Jupyter e Kivy/teste.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/aulas/Módulo 6 - Ferramentas/estudo.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/aulas/Módulo 7 - Kivy Language/0001 - KV vs Python - Implementando com Python/main.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/aulas/Módulo 7 - Kivy Language/0002 - KV vs Python - Implementando com KV/kvvspy222.kv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/aulas/Módulo 7 - Kivy Language/0002 - KV vs Python - Implementando com KV/main.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/aulas/Módulo 7 - Kivy Language/0004 - kvlang I/estudo1.kv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/aulas/Módulo 7 - Kivy Language/0004 - kvlang I/main.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/aulas/Módulo 7 - Kivy Language/0005 - kvlang II/estudo2.kv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/aulas/Módulo 7 - Kivy Language/0005 - kvlang II/main.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/aulas/Módulo 7 - Kivy Language/0006 - kvlang III/arq.kv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/aulas/Módulo 7 - Kivy Language/0006 - kvlang III/estudo3.kv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/aulas/Módulo 7 - Kivy Language/0006 - kvlang III/main.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/aulas/Módulo 7 - Kivy Language/0007 - kvlang IV - Conectando o Python e KV/estudo4.kv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/aulas/Módulo 7 - Kivy Language/0007 - kvlang IV - Conectando o Python e KV/main.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/aulas/Módulo 7 - Kivy Language/0008 - kvlang V - Keywords/estudo5.kv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/aulas/Módulo 7 - Kivy Language/0008 - kvlang V - Keywords/main.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/aulas/Módulo 7 - Kivy Language/0009 - A classe Builder/estudo6.kv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/aulas/Módulo 7 - Kivy Language/0009 - A classe Builder/main.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/aulas/Módulo 8 - Widget I/0003 - Ambiente para Estudo dos Widgets/.ipynb_checkpoints/boilerplate-checkpoint.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/aulas/Módulo 8 - Widget I/0003 - Ambiente para Estudo dos Widgets/boilerplate.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/aulas/Módulo 8 - Widget I/0004 - FloatLayout/.ipynb_checkpoints/floatlayout-checkpoint.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/aulas/Módulo 8 - Widget I/0004 - FloatLayout/floatlayout.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/aulas/Módulo 8 - Widget I/0005 - BoxLayout/.ipynb_checkpoints/boxlayout-checkpoint.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/aulas/Módulo 8 - Widget I/0005 - BoxLayout/boxlayout.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/aulas/Módulo 8 - Widget I/0006 - StackLayout/.ipynb_checkpoints/stacklayout-checkpoint.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/aulas/Módulo 8 - Widget I/0006 - StackLayout/stacklayout.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/aulas/Módulo 8 - Widget I/0007 - GridLayout/.ipynb_checkpoints/gridlayout-checkpoint.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/aulas/Módulo 8 - Widget I/0007 - GridLayout/gridlayout.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/aulas/Módulo 8 - Widget I/0008 - Sistema de Cores/.ipynb_checkpoints/sistema-de-cores-checkpoint.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/aulas/Módulo 8 - Widget I/0008 - Sistema de Cores/sistema-de-cores.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/aulas/Módulo 8 - Widget I/0009 - Cor de Background/.ipynb_checkpoints/cor-de-background-checkpoint.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/aulas/Módulo 8 - Widget I/0009 - Cor de Background/cor-de-background.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/aulas/Módulo 8 - Widget I/0009 - Cor de Background/main.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/aulas/Módulo 9 - Widgets II/0001 - Label/.ipynb_checkpoints/label-checkpoint.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/aulas/Módulo 9 - Widgets II/0001 - Label/label.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/aulas/Módulo 9 - Widgets II/0002 - Label II/.ipynb_checkpoints/label2-checkpoint.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/aulas/Módulo 9 - Widgets II/0002 - Label II/label2.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/aulas/Módulo 9 - Widgets II/0003 - Button/.ipynb_checkpoints/button-checkpoint.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/aulas/Módulo 9 - Widgets II/0003 - Button/button.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/aulas/Módulo 9 - Widgets II/0004 - TextInput/.ipynb_checkpoints/textinput-checkpoint.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/aulas/Módulo 9 - Widgets II/0004 - TextInput/textinput.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/aulas/Seção 22 - Introdução a kvlang/Teoria/Dimensão" beforeDir="false" afterPath="$PROJECT_DIR$/aulas/Seção 22 - Introdução a kvlang/Teoria/Dimensão" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -112,7 +47,7 @@
       <recent name="D:\GitHub\PythonCourseUdemy\kivy\aulas\Seção 11 - Iteradores" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.main (4)">
+  <component name="RunManager" selected="Python.animate">
     <configuration name="animate" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="kivy" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -227,8 +162,8 @@
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.main (4)" />
         <item itemvalue="Python.animate" />
+        <item itemvalue="Python.main (4)" />
         <item itemvalue="Python.main (3)" />
         <item itemvalue="Python.main (2)" />
         <item itemvalue="Python.main (1)" />
@@ -617,10 +552,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="440" y="73" key="#Python/0.0.1366.728/1366.0.1024.728@0.0.1366.728" timestamp="1597270725117" />
-    <state x="442" y="166" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1597940750035">
+    <state x="442" y="166" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1598375346290">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="442" y="166" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728/1366.0.1024.728@0.0.1366.728" timestamp="1597940750035" />
+    <state x="442" y="166" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728/1366.0.1024.728@0.0.1366.728" timestamp="1598375346290" />
     <state x="442" y="175" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.768/1366.0.1024.768@0.0.1366.768" timestamp="1594680804002" />
     <state x="419" y="233" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog" timestamp="1597866031132">
       <screen x="0" y="0" width="1366" height="728" />
@@ -641,31 +576,31 @@
     </state>
     <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728/1366.0.1024.728@0.0.1366.728" timestamp="1597866016301" />
     <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1597701062403" />
-    <state width="1346" height="426" key="GridCell.Tab.0.bottom" timestamp="1598290584745">
+    <state width="1346" height="426" key="GridCell.Tab.0.bottom" timestamp="1598374755077">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1346" height="426" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.0.1024.728@0.0.1366.728" timestamp="1598290584745" />
+    <state width="1346" height="426" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.0.1024.728@0.0.1366.728" timestamp="1598374755077" />
     <state width="1346" height="426" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1597940923586" />
     <state width="1345" height="190" key="GridCell.Tab.0.bottom/0.0.1366.768/1366.0.1024.768@0.0.1366.768" timestamp="1594342364679" />
     <state width="1345" height="190" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1593387745265" />
-    <state width="1346" height="426" key="GridCell.Tab.0.center" timestamp="1598290584745">
+    <state width="1346" height="426" key="GridCell.Tab.0.center" timestamp="1598374755077">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1346" height="426" key="GridCell.Tab.0.center/0.0.1366.728/1366.0.1024.728@0.0.1366.728" timestamp="1598290584745" />
+    <state width="1346" height="426" key="GridCell.Tab.0.center/0.0.1366.728/1366.0.1024.728@0.0.1366.728" timestamp="1598374755077" />
     <state width="1346" height="426" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1597940923586" />
     <state width="1345" height="190" key="GridCell.Tab.0.center/0.0.1366.768/1366.0.1024.768@0.0.1366.768" timestamp="1594342364679" />
     <state width="1345" height="190" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1593387745265" />
-    <state width="1346" height="426" key="GridCell.Tab.0.left" timestamp="1598290584745">
+    <state width="1346" height="426" key="GridCell.Tab.0.left" timestamp="1598374755077">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1346" height="426" key="GridCell.Tab.0.left/0.0.1366.728/1366.0.1024.728@0.0.1366.728" timestamp="1598290584745" />
+    <state width="1346" height="426" key="GridCell.Tab.0.left/0.0.1366.728/1366.0.1024.728@0.0.1366.728" timestamp="1598374755077" />
     <state width="1346" height="426" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1597940923586" />
     <state width="1345" height="190" key="GridCell.Tab.0.left/0.0.1366.768/1366.0.1024.768@0.0.1366.768" timestamp="1594342364679" />
     <state width="1345" height="190" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1593387745265" />
-    <state width="1346" height="426" key="GridCell.Tab.0.right" timestamp="1598290584745">
+    <state width="1346" height="426" key="GridCell.Tab.0.right" timestamp="1598374755077">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1346" height="426" key="GridCell.Tab.0.right/0.0.1366.728/1366.0.1024.728@0.0.1366.728" timestamp="1598290584745" />
+    <state width="1346" height="426" key="GridCell.Tab.0.right/0.0.1366.728/1366.0.1024.728@0.0.1366.728" timestamp="1598374755077" />
     <state width="1346" height="426" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1597940923586" />
     <state width="1345" height="190" key="GridCell.Tab.0.right/0.0.1366.768/1366.0.1024.768@0.0.1366.768" timestamp="1594342364679" />
     <state width="1345" height="190" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1593387745265" />
@@ -709,6 +644,10 @@
     </state>
     <state x="92" y="87" width="1182" height="554" key="dock-window-2/0.0.1366.728/1366.0.1024.728@0.0.1366.728" timestamp="1596222799705" />
     <state x="92" y="92" width="1182" height="584" key="dock-window-2/0.0.1366.768/1366.0.1024.768@0.0.1366.768" timestamp="1594341516032" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1598375425672">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728/1366.0.1024.728@0.0.1366.728" timestamp="1598375425672" />
   </component>
   <component name="XDebuggerManager">
     <watches-manager>
