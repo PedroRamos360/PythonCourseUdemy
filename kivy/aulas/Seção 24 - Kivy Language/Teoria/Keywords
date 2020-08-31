@@ -1,0 +1,17 @@
+self - se refere ao widget que esta sendo editado
+root - se refere a classe onde está sendo implementado o widget
+app - se refere a classe da aplicação
+
+Exemplo:
+<Classe>:
+    Label:
+        # self = Label
+        text: str(self.opacity)
+
+    Label:
+        # root = <Classe>
+        text: root.orientation
+
+    Label:
+        # app = Estudo
+        text: app.name
