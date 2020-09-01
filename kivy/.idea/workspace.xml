@@ -2,19 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e9c4853c-e67f-42b0-be24-fec78455a699" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/aulas/Seção 24 - Kivy Language/Prática/0003 - kvlang I/estudo1.kv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/Seção 24 - Kivy Language/Prática/0003 - kvlang I/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/Seção 24 - Kivy Language/Prática/0004 - kvlang II/estudo2.kv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/Seção 24 - Kivy Language/Prática/0004 - kvlang II/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/Seção 24 - Kivy Language/Prática/0005 - kvlang III/arq.kv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/Seção 24 - Kivy Language/Prática/0005 - kvlang III/estudo3.kv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/Seção 24 - Kivy Language/Prática/0005 - kvlang III/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/Seção 24 - Kivy Language/Prática/0006 - kvlang IV/estudo4.kv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/Seção 24 - Kivy Language/Prática/0006 - kvlang IV/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/Seção 24 - Kivy Language/Prática/0007 - kvlang V/estudo5.kv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/Seção 24 - Kivy Language/Prática/0007 - kvlang V/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/Seção 24 - Kivy Language/Teoria/Conexão Python e KV" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/Seção 24 - Kivy Language/Teoria/Keywords" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aulas/Seção 24 - Kivy Language/Prática/0008 - classe builder/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aulas/Seção 25 - Widget I/Prática/.ipynb_checkpoints/boilerplate-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aulas/Seção 25 - Widget I/Prática/boilerplate.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aulas/Seção 25 - Widget I/Teoria/Introdução Widgets" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -47,27 +38,27 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="Python" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/aulas/Seção 24 - Kivy Language/Prática/0007 - kvlang V" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/aulas/Seção 24 - Kivy Language/Prática/0008 - classe builder" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.import" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\GitHub\PythonCourseUdemy\kivy\aulas\Seção 24 - Kivy Language\Prática\0007 - kvlang V" />
-      <recent name="D:\GitHub\PythonCourseUdemy\kivy\aulas\Seção 24 - Kivy Language\Prática\0006 - kvlang IV" />
-      <recent name="D:\GitHub\PythonCourseUdemy\kivy\aulas\Seção 24 - Kivy Language\Prática\0005 - kvlang III" />
-      <recent name="D:\GitHub\PythonCourseUdemy\kivy\aulas\Seção 24 - Kivy Language\Prática\0004 - kvlang II" />
-      <recent name="D:\GitHub\PythonCourseUdemy\kivy\aulas\Seção 24 - Kivy Language\0002 - KV vs Python - Kivy" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\GitHub\PythonCourseUdemy\kivy\aulas\Seção 25 - Widget I\Teoria" />
       <recent name="D:\GitHub\PythonCourseUdemy\kivy\aulas\Seção 24 - Kivy Language\Prática" />
       <recent name="D:\GitHub\PythonCourseUdemy\kivy\aulas\Seção 24 - Kivy Language\0001 - KV vs Python - Python" />
       <recent name="D:\GitHub\PythonCourseUdemy\kivy\aulas\Seção 24 - Kivy Language\Kivy vs Python" />
       <recent name="D:\GitHub\PythonCourseUdemy\kivy\aulas\Seção 23 - Ferramentas" />
-      <recent name="D:\GitHub\PythonCourseUdemy\kivy\aulas\Seção 22 - Introdução a kvlang\Prática\hello-world-kvlang" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\GitHub\PythonCourseUdemy\kivy\aulas\Seção 24 - Kivy Language\Prática\0008 - classe builder" />
+      <recent name="D:\GitHub\PythonCourseUdemy\kivy\aulas\Seção 24 - Kivy Language\Prática\0007 - kvlang V" />
+      <recent name="D:\GitHub\PythonCourseUdemy\kivy\aulas\Seção 24 - Kivy Language\Prática\0006 - kvlang IV" />
+      <recent name="D:\GitHub\PythonCourseUdemy\kivy\aulas\Seção 24 - Kivy Language\Prática\0005 - kvlang III" />
+      <recent name="D:\GitHub\PythonCourseUdemy\kivy\aulas\Seção 24 - Kivy Language\Prática\0004 - kvlang II" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.main">
-    <configuration name="main (2)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.main (1)">
+    <configuration name="main (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="kivy" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -75,11 +66,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/aulas/Seção 24 - Kivy Language/Prática/0003 - kvlang I" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/aulas/Seção 24 - Kivy Language/Prática/0008 - classe builder" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/aulas/Seção 24 - Kivy Language/Prática/0003 - kvlang I/main.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/aulas/Seção 24 - Kivy Language/Prática/0008 - classe builder/main.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -215,19 +206,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.main (2)" />
       <item itemvalue="Python.main (3)" />
       <item itemvalue="Python.main (4)" />
       <item itemvalue="Python.main (5)" />
       <item itemvalue="Python.main" />
+      <item itemvalue="Python.main (1)" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.main (1)" />
         <item itemvalue="Python.main" />
         <item itemvalue="Python.main (5)" />
         <item itemvalue="Python.main (4)" />
         <item itemvalue="Python.main (3)" />
-        <item itemvalue="Python.main (2)" />
       </list>
     </recent_temporary>
   </component>
@@ -241,13 +232,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1580846075362</updated>
-    </task>
-    <task id="LOCAL-00041" summary="Atualização">
-      <created>1585702798878</created>
-      <option name="number" value="00041" />
-      <option name="presentableId" value="LOCAL-00041" />
-      <option name="project" value="LOCAL" />
-      <updated>1585702798878</updated>
     </task>
     <task id="LOCAL-00042" summary="Atualização">
       <created>1585786408442</created>
@@ -585,7 +569,14 @@
       <option name="project" value="LOCAL" />
       <updated>1598632337917</updated>
     </task>
-    <option name="localTasksCounter" value="90" />
+    <task id="LOCAL-00090" summary="Finalização do estudo da kvlang">
+      <created>1598895432291</created>
+      <option name="number" value="00090" />
+      <option name="presentableId" value="LOCAL-00090" />
+      <option name="project" value="LOCAL" />
+      <updated>1598895432292</updated>
+    </task>
+    <option name="localTasksCounter" value="91" />
     <servers />
   </component>
   <component name="TodoView">
@@ -610,17 +601,18 @@
     <MESSAGE value="Finalização do módulo ferramentas - Programação interativa com jupyter" />
     <MESSAGE value="Comparação entre a linguagem kivy e python - Parte 1" />
     <MESSAGE value="Princípos linguagem KV" />
-    <option name="LAST_COMMIT_MESSAGE" value="Princípos linguagem KV" />
+    <MESSAGE value="Finalização do estudo da kvlang" />
+    <option name="LAST_COMMIT_MESSAGE" value="Finalização do estudo da kvlang" />
   </component>
   <component name="WindowStateProjectService">
     <state x="440" y="73" key="#Python" timestamp="1597270725117">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="440" y="73" key="#Python/0.0.1366.728/1366.0.1024.728@0.0.1366.728" timestamp="1597270725117" />
-    <state x="442" y="166" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1598894539190">
+    <state x="442" y="166" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1598977224321">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="442" y="166" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728/1366.0.1024.728@0.0.1366.728" timestamp="1598894539190" />
+    <state x="442" y="166" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728/1366.0.1024.728@0.0.1366.728" timestamp="1598977224321" />
     <state x="442" y="175" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.768/1366.0.1024.768@0.0.1366.768" timestamp="1594680804002" />
     <state x="419" y="233" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog" timestamp="1597866031132">
       <screen x="0" y="0" width="1366" height="728" />
@@ -630,10 +622,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="438" y="67" key="#xdebugger.evaluate/0.0.1366.728/1366.0.1024.728@0.0.1366.728" timestamp="1597269236795" />
-    <state x="62" y="0" key="CommitChangelistDialog2" timestamp="1598632335344">
+    <state x="234" y="0" key="CommitChangelistDialog2" timestamp="1598895428378">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="62" y="0" key="CommitChangelistDialog2/0.0.1366.728/1366.0.1024.728@0.0.1366.728" timestamp="1598632335344" />
+    <state x="234" y="0" key="CommitChangelistDialog2/0.0.1366.728/1366.0.1024.728@0.0.1366.728" timestamp="1598895428378" />
     <state x="310" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1597940902072" />
     <state x="310" y="0" key="CommitChangelistDialog2/0.0.1366.768/1366.0.1024.768@0.0.1366.768" timestamp="1594681724908" />
     <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1597866016301">
@@ -641,32 +633,32 @@
     </state>
     <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728/1366.0.1024.728@0.0.1366.728" timestamp="1597866016301" />
     <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1597701062403" />
-    <state width="1346" height="175" key="GridCell.Tab.0.bottom" timestamp="1598894513105">
+    <state width="1346" height="175" key="GridCell.Tab.0.bottom" timestamp="1598976506827">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1346" height="175" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.0.1024.728@0.0.1366.728" timestamp="1598894513105" />
-    <state width="1346" height="426" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1598632571432" />
+    <state width="1346" height="175" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.0.1024.728@0.0.1366.728" timestamp="1598976506827" />
+    <state width="1346" height="175" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1598898167346" />
     <state width="1345" height="190" key="GridCell.Tab.0.bottom/0.0.1366.768/1366.0.1024.768@0.0.1366.768" timestamp="1594342364679" />
     <state width="1345" height="190" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1593387745265" />
-    <state width="1346" height="175" key="GridCell.Tab.0.center" timestamp="1598894513105">
+    <state width="1346" height="175" key="GridCell.Tab.0.center" timestamp="1598976506827">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1346" height="175" key="GridCell.Tab.0.center/0.0.1366.728/1366.0.1024.728@0.0.1366.728" timestamp="1598894513105" />
-    <state width="1346" height="426" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1598632571432" />
+    <state width="1346" height="175" key="GridCell.Tab.0.center/0.0.1366.728/1366.0.1024.728@0.0.1366.728" timestamp="1598976506827" />
+    <state width="1346" height="175" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1598898167345" />
     <state width="1345" height="190" key="GridCell.Tab.0.center/0.0.1366.768/1366.0.1024.768@0.0.1366.768" timestamp="1594342364679" />
     <state width="1345" height="190" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1593387745265" />
-    <state width="1346" height="175" key="GridCell.Tab.0.left" timestamp="1598894513105">
+    <state width="1346" height="175" key="GridCell.Tab.0.left" timestamp="1598976506827">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1346" height="175" key="GridCell.Tab.0.left/0.0.1366.728/1366.0.1024.728@0.0.1366.728" timestamp="1598894513105" />
-    <state width="1346" height="426" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1598632571432" />
+    <state width="1346" height="175" key="GridCell.Tab.0.left/0.0.1366.728/1366.0.1024.728@0.0.1366.728" timestamp="1598976506827" />
+    <state width="1346" height="175" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1598898167345" />
     <state width="1345" height="190" key="GridCell.Tab.0.left/0.0.1366.768/1366.0.1024.768@0.0.1366.768" timestamp="1594342364679" />
     <state width="1345" height="190" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1593387745265" />
-    <state width="1346" height="175" key="GridCell.Tab.0.right" timestamp="1598894513105">
+    <state width="1346" height="175" key="GridCell.Tab.0.right" timestamp="1598976506827">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1346" height="175" key="GridCell.Tab.0.right/0.0.1366.728/1366.0.1024.728@0.0.1366.728" timestamp="1598894513105" />
-    <state width="1346" height="426" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1598632571432" />
+    <state width="1346" height="175" key="GridCell.Tab.0.right/0.0.1366.728/1366.0.1024.728@0.0.1366.728" timestamp="1598976506827" />
+    <state width="1346" height="175" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1598898167346" />
     <state width="1345" height="190" key="GridCell.Tab.0.right/0.0.1366.768/1366.0.1024.768@0.0.1366.768" timestamp="1594342364679" />
     <state width="1345" height="190" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1593387745265" />
     <state width="1346" height="223" key="GridCell.Tab.1.bottom" timestamp="1597271421391">
@@ -694,10 +686,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="498" height="445" key="SwitcherDM/0.0.1366.728@0.0.1366.728" timestamp="1597442150213" />
-    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1598632341719">
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1598895452195">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728/1366.0.1024.728@0.0.1366.728" timestamp="1598632341719" />
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728/1366.0.1024.728@0.0.1366.728" timestamp="1598895452195" />
     <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1598466965436" />
     <state x="275" y="102" key="Vcs.Push.Dialog.v2/0.0.1366.768/1366.0.1024.768@0.0.1366.768" timestamp="1594681769802" />
     <state x="92" y="92" width="1182" height="584" maximized="true" key="dock-window-1" timestamp="1596222799704">

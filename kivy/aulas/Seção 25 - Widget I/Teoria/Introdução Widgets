@@ -1,0 +1,3 @@
+Todos componentes da tela herdam da mesma classe, a classe widget. E esta
+por sua vez herda da classe WidgetBase.
+A classe widget possui as propriedades de posicionamento e de dimensão.
