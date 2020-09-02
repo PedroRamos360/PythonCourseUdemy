@@ -1,0 +1,2 @@
+- Sempre ocupa t0do espaço da tela
+- Organiza os itens de forma horizontal ou vertical
