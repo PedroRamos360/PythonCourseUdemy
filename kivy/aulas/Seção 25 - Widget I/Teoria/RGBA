@@ -1,0 +1,5 @@
+Sistema de cores RGBA
+R - Red
+G - Green
+B - Blue
+A - Alpha => determina a transparência do elemento e se mescla com a cor de fundo
