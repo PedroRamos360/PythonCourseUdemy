@@ -2,14 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e9c4853c-e67f-42b0-be24-fec78455a699" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/aulas/Seção 25 - Widget I/Prática/04 - StackLayout/.ipynb_checkpoints/stacklayout-checkpoint.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/Seção 25 - Widget I/Prática/04 - StackLayout/stacklayout.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/Seção 25 - Widget I/Prática/05 - GridLayout/.ipynb_checkpoints/gridlayout-checkpoint.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/Seção 25 - Widget I/Prática/05 - GridLayout/gridlayout.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/Seção 25 - Widget I/Prática/06 - Sistema de cores/.ipynb_checkpoints/cores-checkpoint.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/Seção 25 - Widget I/Prática/06 - Sistema de cores/cores.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/Seção 25 - Widget I/Teoria/RGBA" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aulas/Seção 25 - Widget I/Prática/07 - Cor de fundo/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aulas/Seção 26 - Widget II/01 - Label I/labelI.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aulas/Seção 25 - Widget I/Prática/06 - Sistema de cores/.ipynb_checkpoints/cores-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/aulas/Seção 25 - Widget I/Prática/06 - Sistema de cores/.ipynb_checkpoints/cores-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aulas/Seção 25 - Widget I/Prática/06 - Sistema de cores/cores.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/aulas/Seção 25 - Widget I/Prática/06 - Sistema de cores/cores.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,10 +38,17 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="Python" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/aulas/Seção 25 - Widget I/Prática/06 - Sistema de cores" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/aulas/Seção 26 - Widget II/01 - Label I" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.import" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\GitHub\PythonCourseUdemy\kivy\aulas\Seção 26 - Widget II\01 - Label I" />
+      <recent name="D:\GitHub\PythonCourseUdemy\kivy\aulas\Seção 25 - Widget I\Prática\06 - Sistema de cores" />
+      <recent name="D:\GitHub\PythonCourseUdemy\kivy\aulas\Seção 25 - Widget I\Prática\05 - GridLayout" />
+      <recent name="D:\GitHub\PythonCourseUdemy\kivy\aulas\Seção 25 - Widget I\Prática\04 - StackLayout" />
+      <recent name="D:\GitHub\PythonCourseUdemy\kivy\aulas\Seção 25 - Widget I\Prática\03 - BoxLayout" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\GitHub\PythonCourseUdemy\kivy\aulas\Seção 25 - Widget I\Prática\01 - Ambiente de estudo" />
       <recent name="D:\GitHub\PythonCourseUdemy\kivy\aulas\Seção 25 - Widget I\Teoria" />
@@ -52,15 +56,8 @@
       <recent name="D:\GitHub\PythonCourseUdemy\kivy\aulas\Seção 24 - Kivy Language\0001 - KV vs Python - Python" />
       <recent name="D:\GitHub\PythonCourseUdemy\kivy\aulas\Seção 24 - Kivy Language\Kivy vs Python" />
     </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\GitHub\PythonCourseUdemy\kivy\aulas\Seção 25 - Widget I\Prática\06 - Sistema de cores" />
-      <recent name="D:\GitHub\PythonCourseUdemy\kivy\aulas\Seção 25 - Widget I\Prática\05 - GridLayout" />
-      <recent name="D:\GitHub\PythonCourseUdemy\kivy\aulas\Seção 25 - Widget I\Prática\04 - StackLayout" />
-      <recent name="D:\GitHub\PythonCourseUdemy\kivy\aulas\Seção 25 - Widget I\Prática\03 - BoxLayout" />
-      <recent name="D:\GitHub\PythonCourseUdemy\kivy\aulas\Seção 25 - Widget I\Prática\02 - FloatLayout" />
-    </key>
   </component>
-  <component name="RunManager" selected="Python.main (1)">
+  <component name="RunManager" selected="Python.main (2)">
     <configuration name="main (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="kivy" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -82,7 +79,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="main (3)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="main (2)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="kivy" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -90,11 +87,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/aulas/Seção 24 - Kivy Language/Prática/0004 - kvlang II" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/aulas/Seção 25 - Widget I/Prática/07 - Cor de fundo" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/aulas/Seção 24 - Kivy Language/Prática/0004 - kvlang II/main.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/aulas/Seção 25 - Widget I/Prática/07 - Cor de fundo/main.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -209,19 +206,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.main (3)" />
       <item itemvalue="Python.main (4)" />
       <item itemvalue="Python.main (5)" />
       <item itemvalue="Python.main" />
       <item itemvalue="Python.main (1)" />
+      <item itemvalue="Python.main (2)" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.main (2)" />
         <item itemvalue="Python.main (1)" />
         <item itemvalue="Python.main" />
         <item itemvalue="Python.main (5)" />
         <item itemvalue="Python.main (4)" />
-        <item itemvalue="Python.main (3)" />
       </list>
     </recent_temporary>
   </component>
@@ -235,13 +232,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1580846075362</updated>
-    </task>
-    <task id="LOCAL-00044" summary="Atualização">
-      <created>1586044167602</created>
-      <option name="number" value="00044" />
-      <option name="presentableId" value="LOCAL-00044" />
-      <option name="project" value="LOCAL" />
-      <updated>1586044167602</updated>
     </task>
     <task id="LOCAL-00045" summary="Atualização">
       <created>1586044862208</created>
@@ -579,7 +569,14 @@
       <option name="project" value="LOCAL" />
       <updated>1599086223478</updated>
     </task>
-    <option name="localTasksCounter" value="93" />
+    <task id="LOCAL-00093" summary="GridLayout e sistema de cores">
+      <created>1599152448330</created>
+      <option name="number" value="00093" />
+      <option name="presentableId" value="LOCAL-00093" />
+      <option name="project" value="LOCAL" />
+      <updated>1599152448332</updated>
+    </task>
+    <option name="localTasksCounter" value="94" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -598,7 +595,8 @@
     <MESSAGE value="Finalização do estudo da kvlang" />
     <MESSAGE value="Início do módulo Widget I" />
     <MESSAGE value="Estudo do Floatlayout e Boxlayout" />
-    <option name="LAST_COMMIT_MESSAGE" value="Estudo do Floatlayout e Boxlayout" />
+    <MESSAGE value="GridLayout e sistema de cores" />
+    <option name="LAST_COMMIT_MESSAGE" value="GridLayout e sistema de cores" />
   </component>
   <component name="WindowStateProjectService">
     <state x="440" y="73" key="#Python" timestamp="1597270725117">
@@ -618,10 +616,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="438" y="67" key="#xdebugger.evaluate/0.0.1366.728/1366.0.1024.728@0.0.1366.728" timestamp="1597269236795" />
-    <state x="234" y="0" key="CommitChangelistDialog2" timestamp="1599086220468">
+    <state x="234" y="0" key="CommitChangelistDialog2" timestamp="1599152445082">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="234" y="0" key="CommitChangelistDialog2/0.0.1366.728/1366.0.1024.728@0.0.1366.728" timestamp="1599086220468" />
+    <state x="234" y="0" key="CommitChangelistDialog2/0.0.1366.728/1366.0.1024.728@0.0.1366.728" timestamp="1599152445082" />
     <state x="310" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1597940902072" />
     <state x="310" y="0" key="CommitChangelistDialog2/0.0.1366.768/1366.0.1024.768@0.0.1366.768" timestamp="1594681724908" />
     <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1599084376615">
@@ -629,31 +627,31 @@
     </state>
     <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728/1366.0.1024.728@0.0.1366.728" timestamp="1599084376615" />
     <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1597701062403" />
-    <state width="1346" height="175" key="GridCell.Tab.0.bottom" timestamp="1598979654846">
+    <state width="1346" height="175" key="GridCell.Tab.0.bottom" timestamp="1599239479453">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1346" height="175" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.0.1024.728@0.0.1366.728" timestamp="1598979654846" />
+    <state width="1346" height="175" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.0.1024.728@0.0.1366.728" timestamp="1599239479453" />
     <state width="1346" height="175" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1598898167346" />
     <state width="1345" height="190" key="GridCell.Tab.0.bottom/0.0.1366.768/1366.0.1024.768@0.0.1366.768" timestamp="1594342364679" />
     <state width="1345" height="190" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1593387745265" />
-    <state width="1346" height="175" key="GridCell.Tab.0.center" timestamp="1598979654846">
+    <state width="1346" height="175" key="GridCell.Tab.0.center" timestamp="1599239479452">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1346" height="175" key="GridCell.Tab.0.center/0.0.1366.728/1366.0.1024.728@0.0.1366.728" timestamp="1598979654846" />
+    <state width="1346" height="175" key="GridCell.Tab.0.center/0.0.1366.728/1366.0.1024.728@0.0.1366.728" timestamp="1599239479452" />
     <state width="1346" height="175" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1598898167345" />
     <state width="1345" height="190" key="GridCell.Tab.0.center/0.0.1366.768/1366.0.1024.768@0.0.1366.768" timestamp="1594342364679" />
     <state width="1345" height="190" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1593387745265" />
-    <state width="1346" height="175" key="GridCell.Tab.0.left" timestamp="1598979654846">
+    <state width="1346" height="175" key="GridCell.Tab.0.left" timestamp="1599239479452">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1346" height="175" key="GridCell.Tab.0.left/0.0.1366.728/1366.0.1024.728@0.0.1366.728" timestamp="1598979654846" />
+    <state width="1346" height="175" key="GridCell.Tab.0.left/0.0.1366.728/1366.0.1024.728@0.0.1366.728" timestamp="1599239479452" />
     <state width="1346" height="175" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1598898167345" />
     <state width="1345" height="190" key="GridCell.Tab.0.left/0.0.1366.768/1366.0.1024.768@0.0.1366.768" timestamp="1594342364679" />
     <state width="1345" height="190" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1593387745265" />
-    <state width="1346" height="175" key="GridCell.Tab.0.right" timestamp="1598979654846">
+    <state width="1346" height="175" key="GridCell.Tab.0.right" timestamp="1599239479453">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1346" height="175" key="GridCell.Tab.0.right/0.0.1366.728/1366.0.1024.728@0.0.1366.728" timestamp="1598979654846" />
+    <state width="1346" height="175" key="GridCell.Tab.0.right/0.0.1366.728/1366.0.1024.728@0.0.1366.728" timestamp="1599239479453" />
     <state width="1346" height="175" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1598898167346" />
     <state width="1345" height="190" key="GridCell.Tab.0.right/0.0.1366.768/1366.0.1024.768@0.0.1366.768" timestamp="1594342364679" />
     <state width="1345" height="190" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1593387745265" />
@@ -682,10 +680,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="498" height="445" key="SwitcherDM/0.0.1366.728@0.0.1366.728" timestamp="1597442150213" />
-    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1599086238141">
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1599152457206">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728/1366.0.1024.728@0.0.1366.728" timestamp="1599086238141" />
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728/1366.0.1024.728@0.0.1366.728" timestamp="1599152457206" />
     <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1598466965436" />
     <state x="275" y="102" key="Vcs.Push.Dialog.v2/0.0.1366.768/1366.0.1024.768@0.0.1366.768" timestamp="1594681769802" />
     <state x="92" y="92" width="1182" height="584" maximized="true" key="dock-window-1" timestamp="1596222799704">
