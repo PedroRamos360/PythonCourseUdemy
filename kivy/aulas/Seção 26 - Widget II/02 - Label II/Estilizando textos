@@ -1,0 +1,12 @@
+É possível usar tags para estilizar textos
+Exemplo:
+add_lb(markup=True).text="Estudando a [b]classe Label[/b]"
+
+markup=True é necessário para mostrar que se está usando texto estilizado
+
+tags:
+[b] = bold
+[i] = italic
+[u] = underline
+[s] = não sei o nome mas é aquele risquinho no meio da palavra
+
