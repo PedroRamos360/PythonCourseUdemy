@@ -1,0 +1,11 @@
+Tipos de empacotamento:
+- onefile: Executável único que armazena todos arquivos da aplicação.
+- onedir: Todos arquivos são adicionados a uma pasta junto com um executável.
+
+Principais características:
+1 - O executável servirá apenas para o SO em que foi gerado
+2 - A quantidade de bits do Python definirá os bits do SO
+3 - O executável suportará a versão atual e posteriores do So
+4 - A versão do Python é indiferente
+5 - Instalação do Python limpa
+6 - Instalação do SO limpa

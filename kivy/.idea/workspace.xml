@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e9c4853c-e67f-42b0-be24-fec78455a699" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/aulas/Seção 27 - Empacotamento/01 - Introdução ao Kivy Launcher/ola-mundo/android.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/Seção 27 - Empacotamento/01 - Introdução ao Kivy Launcher/ola-mundo/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/Seção 27 - Empacotamento/02 - Empacotamento de apps/Empacotamento" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aulas/Seção 27 - Empacotamento/03 - Pyinstaller/Empacotamentos com Pyinstaller" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aulas/Seção 27 - Empacotamento/02 - Empacotamento de apps/Empacotamento" beforeDir="false" afterPath="$PROJECT_DIR$/aulas/Seção 27 - Empacotamento/02 - Empacotamento de apps/Empacotamento" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -231,13 +230,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1580846075362</updated>
-    </task>
-    <task id="LOCAL-00047" summary="Atualização">
-      <created>1586089043037</created>
-      <option name="number" value="00047" />
-      <option name="presentableId" value="LOCAL-00047" />
-      <option name="project" value="LOCAL" />
-      <updated>1586089043037</updated>
     </task>
     <task id="LOCAL-00048" summary="Atualização">
       <created>1586090929322</created>
@@ -575,7 +567,14 @@
       <option name="project" value="LOCAL" />
       <updated>1599586205272</updated>
     </task>
-    <option name="localTasksCounter" value="96" />
+    <task id="LOCAL-00096" summary="Introdução a Kivy Launcher">
+      <created>1600106363279</created>
+      <option name="number" value="00096" />
+      <option name="presentableId" value="LOCAL-00096" />
+      <option name="project" value="LOCAL" />
+      <updated>1600106363280</updated>
+    </task>
+    <option name="localTasksCounter" value="97" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -597,17 +596,18 @@
     <MESSAGE value="GridLayout e sistema de cores" />
     <MESSAGE value="Começo da seção Widget II" />
     <MESSAGE value="Finalização da seção 26 e começo da 27" />
-    <option name="LAST_COMMIT_MESSAGE" value="Finalização da seção 26 e começo da 27" />
+    <MESSAGE value="Introdução a Kivy Launcher" />
+    <option name="LAST_COMMIT_MESSAGE" value="Introdução a Kivy Launcher" />
   </component>
   <component name="WindowStateProjectService">
     <state x="440" y="73" key="#Python" timestamp="1597270725117">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="440" y="73" key="#Python/0.0.1366.728/1366.0.1024.728@0.0.1366.728" timestamp="1597270725117" />
-    <state x="442" y="166" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1600105947052">
+    <state x="442" y="166" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1600191020982">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="442" y="166" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728/1366.0.1024.728@0.0.1366.728" timestamp="1600105947052" />
+    <state x="442" y="166" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728/1366.0.1024.728@0.0.1366.728" timestamp="1600191020982" />
     <state x="442" y="175" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.768/1366.0.1024.768@0.0.1366.768" timestamp="1594680804002" />
     <state x="419" y="233" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog" timestamp="1597866031132">
       <screen x="0" y="0" width="1366" height="728" />
@@ -617,11 +617,11 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="438" y="67" key="#xdebugger.evaluate/0.0.1366.728/1366.0.1024.728@0.0.1366.728" timestamp="1597269236795" />
-    <state x="234" y="0" key="CommitChangelistDialog2" timestamp="1599586201632">
+    <state x="310" y="0" key="CommitChangelistDialog2" timestamp="1600106358708">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="234" y="0" key="CommitChangelistDialog2/0.0.1366.728/1366.0.1024.728@0.0.1366.728" timestamp="1599586201632" />
-    <state x="310" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1597940902072" />
+    <state x="310" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1600106358708" />
     <state x="310" y="0" key="CommitChangelistDialog2/0.0.1366.768/1366.0.1024.768@0.0.1366.768" timestamp="1594681724908" />
     <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1599084376615">
       <screen x="0" y="0" width="1366" height="728" />
@@ -681,11 +681,11 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="498" height="445" key="SwitcherDM/0.0.1366.728@0.0.1366.728" timestamp="1597442150213" />
-    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1599586212131">
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1600106498626">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728/1366.0.1024.728@0.0.1366.728" timestamp="1599586212131" />
-    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1598466965436" />
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1600106498626" />
     <state x="275" y="102" key="Vcs.Push.Dialog.v2/0.0.1366.768/1366.0.1024.768@0.0.1366.768" timestamp="1594681769802" />
     <state x="92" y="92" width="1182" height="584" maximized="true" key="dock-window-1" timestamp="1596222799704">
       <screen x="0" y="0" width="1366" height="728" />
@@ -696,10 +696,10 @@
     </state>
     <state x="92" y="87" width="1182" height="554" key="dock-window-2/0.0.1366.728/1366.0.1024.728@0.0.1366.728" timestamp="1596222799705" />
     <state x="92" y="92" width="1182" height="584" key="dock-window-2/0.0.1366.768/1366.0.1024.768@0.0.1366.768" timestamp="1594341516032" />
-    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1598375425672">
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1600191078377">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728/1366.0.1024.728@0.0.1366.728" timestamp="1598375425672" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728/1366.0.1024.728@0.0.1366.728" timestamp="1600191078377" />
   </component>
   <component name="XDebuggerManager">
     <watches-manager>

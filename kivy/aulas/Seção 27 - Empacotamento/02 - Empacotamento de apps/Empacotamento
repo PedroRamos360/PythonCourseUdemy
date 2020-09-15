@@ -1,2 +1,11 @@
 Empacotamento ou Freeze é a ação de gerar executáveis nativos que serão acionados
 sem a necessidade de instalar o Python.
+
+p4a: programa de formação de executáveis para android
+kivy-ios: programa de formação de executáveis para ios
+Buildzoer: Gerencia as duas ferramentas anteriores
+
+Pyinstaller: Forma executáveis para todos os 3 sistemas operacionais
+
+Definição de executável: É um arquivo vinculado a um programa capaz de interpretar
+as suas informações.
