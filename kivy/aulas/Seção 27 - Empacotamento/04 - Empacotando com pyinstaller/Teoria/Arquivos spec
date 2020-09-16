@@ -1,0 +1,4 @@
+São arquivos que contém as definições que serão utilizadas por um script
+python. Ele possui código python entretanto tem extensão diferente.
+
+É usado para subsituir o envio do código através do prompt de comando.
