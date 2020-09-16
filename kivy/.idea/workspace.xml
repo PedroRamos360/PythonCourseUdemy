@@ -1,79 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e9c4853c-e67f-42b0-be24-fec78455a699" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/aulas/Seção 27 - Empacotamento/04 - Empacotando com pyinstaller/Teoria/Arquivos spec" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/Seção 27 - Empacotamento/04 - Empacotando com pyinstaller/build/main/Analysis-00.toc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/Seção 27 - Empacotamento/04 - Empacotando com pyinstaller/build/main/COLLECT-00.toc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/Seção 27 - Empacotamento/04 - Empacotando com pyinstaller/build/main/EXE-00.toc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/Seção 27 - Empacotamento/04 - Empacotando com pyinstaller/build/main/PKG-00.pkg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/Seção 27 - Empacotamento/04 - Empacotando com pyinstaller/build/main/PKG-00.toc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/Seção 27 - Empacotamento/04 - Empacotando com pyinstaller/build/main/PYZ-00.pyz" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/Seção 27 - Empacotamento/04 - Empacotando com pyinstaller/build/main/PYZ-00.toc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/Seção 27 - Empacotamento/04 - Empacotando com pyinstaller/build/main/base_library.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/Seção 27 - Empacotamento/04 - Empacotando com pyinstaller/build/main/main.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/Seção 27 - Empacotamento/04 - Empacotando com pyinstaller/build/main/main.exe.manifest" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/Seção 27 - Empacotamento/04 - Empacotando com pyinstaller/build/main/warn-main.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/Seção 27 - Empacotamento/04 - Empacotando com pyinstaller/build/main/xref-main.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/Seção 27 - Empacotamento/04 - Empacotando com pyinstaller/dist/main/VCRUNTIME140.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/Seção 27 - Empacotamento/04 - Empacotando com pyinstaller/dist/main/_bz2.pyd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/Seção 27 - Empacotamento/04 - Empacotando com pyinstaller/dist/main/_hashlib.pyd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/Seção 27 - Empacotamento/04 - Empacotando com pyinstaller/dist/main/_lzma.pyd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/Seção 27 - Empacotamento/04 - Empacotando com pyinstaller/dist/main/_socket.pyd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/Seção 27 - Empacotamento/04 - Empacotando com pyinstaller/dist/main/_ssl.pyd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/Seção 27 - Empacotamento/04 - Empacotando com pyinstaller/dist/main/api-ms-win-core-console-l1-1-0.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/Seção 27 - Empacotamento/04 - Empacotando com pyinstaller/dist/main/api-ms-win-core-datetime-l1-1-0.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/Seção 27 - Empacotamento/04 - Empacotando com pyinstaller/dist/main/api-ms-win-core-debug-l1-1-0.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/Seção 27 - Empacotamento/04 - Empacotando com pyinstaller/dist/main/api-ms-win-core-errorhandling-l1-1-0.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/Seção 27 - Empacotamento/04 - Empacotando com pyinstaller/dist/main/api-ms-win-core-file-l1-1-0.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/Seção 27 - Empacotamento/04 - Empacotando com pyinstaller/dist/main/api-ms-win-core-file-l1-2-0.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/Seção 27 - Empacotamento/04 - Empacotando com pyinstaller/dist/main/api-ms-win-core-file-l2-1-0.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/Seção 27 - Empacotamento/04 - Empacotando com pyinstaller/dist/main/api-ms-win-core-handle-l1-1-0.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/Seção 27 - Empacotamento/04 - Empacotando com pyinstaller/dist/main/api-ms-win-core-heap-l1-1-0.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/Seção 27 - Empacotamento/04 - Empacotando com pyinstaller/dist/main/api-ms-win-core-interlocked-l1-1-0.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/Seção 27 - Empacotamento/04 - Empacotando com pyinstaller/dist/main/api-ms-win-core-libraryloader-l1-1-0.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/Seção 27 - Empacotamento/04 - Empacotando com pyinstaller/dist/main/api-ms-win-core-localization-l1-2-0.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/Seção 27 - Empacotamento/04 - Empacotando com pyinstaller/dist/main/api-ms-win-core-memory-l1-1-0.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/Seção 27 - Empacotamento/04 - Empacotando com pyinstaller/dist/main/api-ms-win-core-namedpipe-l1-1-0.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/Seção 27 - Empacotamento/04 - Empacotando com pyinstaller/dist/main/api-ms-win-core-processenvironment-l1-1-0.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/Seção 27 - Empacotamento/04 - Empacotando com pyinstaller/dist/main/api-ms-win-core-processthreads-l1-1-0.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/Seção 27 - Empacotamento/04 - Empacotando com pyinstaller/dist/main/api-ms-win-core-processthreads-l1-1-1.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/Seção 27 - Empacotamento/04 - Empacotando com pyinstaller/dist/main/api-ms-win-core-profile-l1-1-0.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/Seção 27 - Empacotamento/04 - Empacotando com pyinstaller/dist/main/api-ms-win-core-rtlsupport-l1-1-0.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/Seção 27 - Empacotamento/04 - Empacotando com pyinstaller/dist/main/api-ms-win-core-string-l1-1-0.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/Seção 27 - Empacotamento/04 - Empacotando com pyinstaller/dist/main/api-ms-win-core-synch-l1-1-0.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/Seção 27 - Empacotamento/04 - Empacotando com pyinstaller/dist/main/api-ms-win-core-synch-l1-2-0.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/Seção 27 - Empacotamento/04 - Empacotando com pyinstaller/dist/main/api-ms-win-core-sysinfo-l1-1-0.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/Seção 27 - Empacotamento/04 - Empacotando com pyinstaller/dist/main/api-ms-win-core-timezone-l1-1-0.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/Seção 27 - Empacotamento/04 - Empacotando com pyinstaller/dist/main/api-ms-win-core-util-l1-1-0.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/Seção 27 - Empacotamento/04 - Empacotando com pyinstaller/dist/main/api-ms-win-crt-conio-l1-1-0.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/Seção 27 - Empacotamento/04 - Empacotando com pyinstaller/dist/main/api-ms-win-crt-convert-l1-1-0.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/Seção 27 - Empacotamento/04 - Empacotando com pyinstaller/dist/main/api-ms-win-crt-environment-l1-1-0.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/Seção 27 - Empacotamento/04 - Empacotando com pyinstaller/dist/main/api-ms-win-crt-filesystem-l1-1-0.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/Seção 27 - Empacotamento/04 - Empacotando com pyinstaller/dist/main/api-ms-win-crt-heap-l1-1-0.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/Seção 27 - Empacotamento/04 - Empacotando com pyinstaller/dist/main/api-ms-win-crt-locale-l1-1-0.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/Seção 27 - Empacotamento/04 - Empacotando com pyinstaller/dist/main/api-ms-win-crt-math-l1-1-0.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/Seção 27 - Empacotamento/04 - Empacotando com pyinstaller/dist/main/api-ms-win-crt-process-l1-1-0.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/Seção 27 - Empacotamento/04 - Empacotando com pyinstaller/dist/main/api-ms-win-crt-runtime-l1-1-0.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/Seção 27 - Empacotamento/04 - Empacotando com pyinstaller/dist/main/api-ms-win-crt-stdio-l1-1-0.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/Seção 27 - Empacotamento/04 - Empacotando com pyinstaller/dist/main/api-ms-win-crt-string-l1-1-0.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/Seção 27 - Empacotamento/04 - Empacotando com pyinstaller/dist/main/api-ms-win-crt-time-l1-1-0.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/Seção 27 - Empacotamento/04 - Empacotando com pyinstaller/dist/main/api-ms-win-crt-utility-l1-1-0.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/Seção 27 - Empacotamento/04 - Empacotando com pyinstaller/dist/main/base_library.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/Seção 27 - Empacotamento/04 - Empacotando com pyinstaller/dist/main/libcrypto-1_1-x64.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/Seção 27 - Empacotamento/04 - Empacotando com pyinstaller/dist/main/libssl-1_1-x64.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/Seção 27 - Empacotamento/04 - Empacotando com pyinstaller/dist/main/main.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/Seção 27 - Empacotamento/04 - Empacotando com pyinstaller/dist/main/main.exe.manifest" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/Seção 27 - Empacotamento/04 - Empacotando com pyinstaller/dist/main/pyexpat.pyd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/Seção 27 - Empacotamento/04 - Empacotando com pyinstaller/dist/main/python37.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/Seção 27 - Empacotamento/04 - Empacotando com pyinstaller/dist/main/select.pyd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/Seção 27 - Empacotamento/04 - Empacotando com pyinstaller/dist/main/ucrtbase.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/Seção 27 - Empacotamento/04 - Empacotando com pyinstaller/dist/main/unicodedata.pyd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/Seção 27 - Empacotamento/04 - Empacotando com pyinstaller/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/Seção 27 - Empacotamento/04 - Empacotando com pyinstaller/main.spec" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="e9c4853c-e67f-42b0-be24-fec78455a699" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -298,13 +226,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1580846075362</updated>
-    </task>
-    <task id="LOCAL-00049" summary="Atualização">
-      <created>1586091501054</created>
-      <option name="number" value="00049" />
-      <option name="presentableId" value="LOCAL-00049" />
-      <option name="project" value="LOCAL" />
-      <updated>1586091501054</updated>
     </task>
     <task id="LOCAL-00050" summary="Atualização">
       <created>1586091750267</created>
@@ -642,7 +563,14 @@
       <option name="project" value="LOCAL" />
       <updated>1600192891117</updated>
     </task>
-    <option name="localTasksCounter" value="98" />
+    <task id="LOCAL-00098" summary="Empacotamento na prática">
+      <created>1600293757885</created>
+      <option name="number" value="00098" />
+      <option name="presentableId" value="LOCAL-00098" />
+      <option name="project" value="LOCAL" />
+      <updated>1600293757885</updated>
+    </task>
+    <option name="localTasksCounter" value="99" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -666,7 +594,8 @@
     <MESSAGE value="Finalização da seção 26 e começo da 27" />
     <MESSAGE value="Introdução a Kivy Launcher" />
     <MESSAGE value="Empacotamento de apps com pyinstaller" />
-    <option name="LAST_COMMIT_MESSAGE" value="Empacotamento de apps com pyinstaller" />
+    <MESSAGE value="Empacotamento na prática" />
+    <option name="LAST_COMMIT_MESSAGE" value="Empacotamento na prática" />
   </component>
   <component name="WindowStateProjectService">
     <state x="440" y="73" key="#Python" timestamp="1597270725117">
@@ -686,10 +615,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="438" y="67" key="#xdebugger.evaluate/0.0.1366.728/1366.0.1024.728@0.0.1366.728" timestamp="1597269236795" />
-    <state x="310" y="0" key="CommitChangelistDialog2" timestamp="1600192885693">
+    <state x="195" y="0" key="CommitChangelistDialog2" timestamp="1600293754151">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="234" y="0" key="CommitChangelistDialog2/0.0.1366.728/1366.0.1024.728@0.0.1366.728" timestamp="1599586201632" />
+    <state x="195" y="0" key="CommitChangelistDialog2/0.0.1366.728/1366.0.1024.728@0.0.1366.728" timestamp="1600293754151" />
     <state x="310" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1600192885693" />
     <state x="310" y="0" key="CommitChangelistDialog2/0.0.1366.768/1366.0.1024.768@0.0.1366.768" timestamp="1594681724908" />
     <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1599084376615">
@@ -697,31 +626,31 @@
     </state>
     <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728/1366.0.1024.728@0.0.1366.728" timestamp="1599084376615" />
     <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1597701062403" />
-    <state width="1346" height="175" key="GridCell.Tab.0.bottom" timestamp="1600291251453">
+    <state width="1346" height="175" key="GridCell.Tab.0.bottom" timestamp="1600293876783">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1346" height="175" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.0.1024.728@0.0.1366.728" timestamp="1600291251453" />
+    <state width="1346" height="175" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.0.1024.728@0.0.1366.728" timestamp="1600293876783" />
     <state width="1346" height="175" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1598898167346" />
     <state width="1345" height="190" key="GridCell.Tab.0.bottom/0.0.1366.768/1366.0.1024.768@0.0.1366.768" timestamp="1594342364679" />
     <state width="1345" height="190" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1593387745265" />
-    <state width="1346" height="175" key="GridCell.Tab.0.center" timestamp="1600291251453">
+    <state width="1346" height="175" key="GridCell.Tab.0.center" timestamp="1600293876783">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1346" height="175" key="GridCell.Tab.0.center/0.0.1366.728/1366.0.1024.728@0.0.1366.728" timestamp="1600291251453" />
+    <state width="1346" height="175" key="GridCell.Tab.0.center/0.0.1366.728/1366.0.1024.728@0.0.1366.728" timestamp="1600293876783" />
     <state width="1346" height="175" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1598898167345" />
     <state width="1345" height="190" key="GridCell.Tab.0.center/0.0.1366.768/1366.0.1024.768@0.0.1366.768" timestamp="1594342364679" />
     <state width="1345" height="190" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1593387745265" />
-    <state width="1346" height="175" key="GridCell.Tab.0.left" timestamp="1600291251453">
+    <state width="1346" height="175" key="GridCell.Tab.0.left" timestamp="1600293876783">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1346" height="175" key="GridCell.Tab.0.left/0.0.1366.728/1366.0.1024.728@0.0.1366.728" timestamp="1600291251453" />
+    <state width="1346" height="175" key="GridCell.Tab.0.left/0.0.1366.728/1366.0.1024.728@0.0.1366.728" timestamp="1600293876783" />
     <state width="1346" height="175" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1598898167345" />
     <state width="1345" height="190" key="GridCell.Tab.0.left/0.0.1366.768/1366.0.1024.768@0.0.1366.768" timestamp="1594342364679" />
     <state width="1345" height="190" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1593387745265" />
-    <state width="1346" height="175" key="GridCell.Tab.0.right" timestamp="1600291251453">
+    <state width="1346" height="175" key="GridCell.Tab.0.right" timestamp="1600293876783">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1346" height="175" key="GridCell.Tab.0.right/0.0.1366.728/1366.0.1024.728@0.0.1366.728" timestamp="1600291251453" />
+    <state width="1346" height="175" key="GridCell.Tab.0.right/0.0.1366.728/1366.0.1024.728@0.0.1366.728" timestamp="1600293876783" />
     <state width="1346" height="175" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1598898167346" />
     <state width="1345" height="190" key="GridCell.Tab.0.right/0.0.1366.768/1366.0.1024.768@0.0.1366.768" timestamp="1594342364679" />
     <state width="1345" height="190" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1593387745265" />
