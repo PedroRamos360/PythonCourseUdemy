@@ -1,0 +1,7 @@
+('D:\\Programas\\Anaconda\\envs\\k376\\share\\glew\\bin',
+ None,
+ [],
+ 'DATA',
+ [('glew32.dll',
+   'D:\\Programas\\Anaconda\\envs\\k376\\share\\glew\\bin\\glew32.dll',
+   'DATA')])
