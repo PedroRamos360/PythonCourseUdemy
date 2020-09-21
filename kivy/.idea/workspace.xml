@@ -2,287 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e9c4853c-e67f-42b0-be24-fec78455a699" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/aulas/Seção 27 - Empacotamento/04 - Empacotando com pyinstaller/Teoria/Arquivos toc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/Seção 27 - Empacotamento/05 - Empacotamento Kivy/build/main/Analysis-00.toc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/Seção 27 - Empacotamento/05 - Empacotamento Kivy/build/main/COLLECT-00.toc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/Seção 27 - Empacotamento/05 - Empacotamento Kivy/build/main/EXE-00.toc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/Seção 27 - Empacotamento/05 - Empacotamento Kivy/build/main/PKG-00.pkg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/Seção 27 - Empacotamento/05 - Empacotamento Kivy/build/main/PKG-00.toc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/Seção 27 - Empacotamento/05 - Empacotamento Kivy/build/main/PYZ-00.pyz" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/Seção 27 - Empacotamento/05 - Empacotamento Kivy/build/main/PYZ-00.toc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/Seção 27 - Empacotamento/05 - Empacotamento Kivy/build/main/PyInstallerApp.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/Seção 27 - Empacotamento/05 - Empacotamento Kivy/build/main/Tree-00.toc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/Seção 27 - Empacotamento/05 - Empacotamento Kivy/build/main/Tree-01.toc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/Seção 27 - Empacotamento/05 - Empacotamento Kivy/build/main/base_library.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/Seção 27 - Empacotamento/05 - Empacotamento Kivy/build/main/main.exe.manifest" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/Seção 27 - Empacotamento/05 - Empacotamento Kivy/build/main/warn-main.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/Seção 27 - Empacotamento/05 - Empacotamento Kivy/build/main/xref-main.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/Seção 27 - Empacotamento/05 - Empacotamento Kivy/dist/PyInstallerApp/Include/pyconfig.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/Seção 27 - Empacotamento/05 - Empacotamento Kivy/dist/PyInstallerApp/LICENSE.FLAC.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/Seção 27 - Empacotamento/05 - Empacotamento Kivy/dist/PyInstallerApp/LICENSE.freetype.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/Seção 27 - Empacotamento/05 - Empacotamento Kivy/dist/PyInstallerApp/LICENSE.jpeg.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/Seção 27 - Empacotamento/05 - Empacotamento Kivy/dist/PyInstallerApp/LICENSE.modplug.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/Seção 27 - Empacotamento/05 - Empacotamento Kivy/dist/PyInstallerApp/LICENSE.mpg123.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/Seção 27 - Empacotamento/05 - Empacotamento Kivy/dist/PyInstallerApp/LICENSE.ogg-vorbis.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/Seção 27 - Empacotamento/05 - Empacotamento Kivy/dist/PyInstallerApp/LICENSE.opus.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/Seção 27 - Empacotamento/05 - Empacotamento Kivy/dist/PyInstallerApp/LICENSE.opusfile.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/Seção 27 - Empacotamento/05 - Empacotamento Kivy/dist/PyInstallerApp/LICENSE.png.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/Seção 27 - Empacotamento/05 - Empacotamento Kivy/dist/PyInstallerApp/LICENSE.tiff.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/Seção 27 - Empacotamento/05 - Empacotamento Kivy/dist/PyInstallerApp/LICENSE.webp.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/Seção 27 - Empacotamento/05 - Empacotamento Kivy/dist/PyInstallerApp/LICENSE.zlib.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/Seção 27 - Empacotamento/05 - Empacotamento Kivy/dist/PyInstallerApp/PyInstallerApp.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/Seção 27 - Empacotamento/05 - Empacotamento Kivy/dist/PyInstallerApp/PyInstallerApp.exe.manifest" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/Seção 27 - Empacotamento/05 - Empacotamento Kivy/dist/PyInstallerApp/SDL2.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/Seção 27 - Empacotamento/05 - Empacotamento Kivy/dist/PyInstallerApp/SDL2_image.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/Seção 27 - Empacotamento/05 - Empacotamento Kivy/dist/PyInstallerApp/SDL2_mixer.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/Seção 27 - Empacotamento/05 - Empacotamento Kivy/dist/PyInstallerApp/SDL2_ttf.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/Seção 27 - Empacotamento/05 - Empacotamento Kivy/dist/PyInstallerApp/VCRUNTIME140.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/Seção 27 - Empacotamento/05 - Empacotamento Kivy/dist/PyInstallerApp/_bz2.pyd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/Seção 27 - Empacotamento/05 - Empacotamento Kivy/dist/PyInstallerApp/_ctypes.pyd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/Seção 27 - Empacotamento/05 - Empacotamento Kivy/dist/PyInstallerApp/_decimal.pyd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/Seção 27 - Empacotamento/05 - Empacotamento Kivy/dist/PyInstallerApp/_elementtree.pyd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/Seção 27 - Empacotamento/05 - Empacotamento Kivy/dist/PyInstallerApp/_hashlib.pyd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/Seção 27 - Empacotamento/05 - Empacotamento Kivy/dist/PyInstallerApp/_lzma.pyd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/Seção 27 - Empacotamento/05 - Empacotamento Kivy/dist/PyInstallerApp/_multiprocessing.pyd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/Seção 27 - Empacotamento/05 - Empacotamento Kivy/dist/PyInstallerApp/_queue.pyd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/Seção 27 - Empacotamento/05 - Empacotamento Kivy/dist/PyInstallerApp/_socket.pyd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/Seção 27 - Empacotamento/05 - Empacotamento Kivy/dist/PyInstallerApp/_ssl.pyd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/Seção 27 - Empacotamento/05 - Empacotamento Kivy/dist/PyInstallerApp/_win32sysloader.pyd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/Seção 27 - Empacotamento/05 - Empacotamento Kivy/dist/PyInstallerApp/api-ms-win-core-console-l1-1-0.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/Seção 27 - Empacotamento/05 - Empacotamento Kivy/dist/PyInstallerApp/api-ms-win-core-datetime-l1-1-0.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/Seção 27 - Empacotamento/05 - Empacotamento Kivy/dist/PyInstallerApp/api-ms-win-core-debug-l1-1-0.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/Seção 27 - Empacotamento/05 - Empacotamento Kivy/dist/PyInstallerApp/api-ms-win-core-errorhandling-l1-1-0.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/Seção 27 - Empacotamento/05 - Empacotamento Kivy/dist/PyInstallerApp/api-ms-win-core-file-l1-1-0.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/Seção 27 - Empacotamento/05 - Empacotamento Kivy/dist/PyInstallerApp/api-ms-win-core-file-l1-2-0.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/Seção 27 - Empacotamento/05 - Empacotamento Kivy/dist/PyInstallerApp/api-ms-win-core-file-l2-1-0.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/Seção 27 - Empacotamento/05 - Empacotamento Kivy/dist/PyInstallerApp/api-ms-win-core-handle-l1-1-0.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/Seção 27 - Empacotamento/05 - Empacotamento Kivy/dist/PyInstallerApp/api-ms-win-core-heap-l1-1-0.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/Seção 27 - Empacotamento/05 - Empacotamento Kivy/dist/PyInstallerApp/api-ms-win-core-interlocked-l1-1-0.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/Seção 27 - Empacotamento/05 - Empacotamento Kivy/dist/PyInstallerApp/api-ms-win-core-libraryloader-l1-1-0.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/Seção 27 - Empacotamento/05 - Empacotamento Kivy/dist/PyInstallerApp/api-ms-win-core-localization-l1-2-0.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/Seção 27 - Empacotamento/05 - Empacotamento Kivy/dist/PyInstallerApp/api-ms-win-core-memory-l1-1-0.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/Seção 27 - Empacotamento/05 - Empacotamento Kivy/dist/PyInstallerApp/api-ms-win-core-namedpipe-l1-1-0.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/Seção 27 - Empacotamento/05 - Empacotamento Kivy/dist/PyInstallerApp/api-ms-win-core-processenvironment-l1-1-0.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/Seção 27 - Empacotamento/05 - Empacotamento Kivy/dist/PyInstallerApp/api-ms-win-core-processthreads-l1-1-0.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/Seção 27 - Empacotamento/05 - Empacotamento Kivy/dist/PyInstallerApp/api-ms-win-core-processthreads-l1-1-1.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/Seção 27 - Empacotamento/05 - Empacotamento Kivy/dist/PyInstallerApp/api-ms-win-core-profile-l1-1-0.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/Seção 27 - Empacotamento/05 - Empacotamento Kivy/dist/PyInstallerApp/api-ms-win-core-rtlsupport-l1-1-0.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/Seção 27 - Empacotamento/05 - Empacotamento Kivy/dist/PyInstallerApp/api-ms-win-core-string-l1-1-0.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/Seção 27 - Empacotamento/05 - Empacotamento Kivy/dist/PyInstallerApp/api-ms-win-core-synch-l1-1-0.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/Seção 27 - Empacotamento/05 - Empacotamento Kivy/dist/PyInstallerApp/api-ms-win-core-synch-l1-2-0.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/Seção 27 - Empacotamento/05 - Empacotamento Kivy/dist/PyInstallerApp/api-ms-win-core-sysinfo-l1-1-0.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/Seção 27 - Empacotamento/05 - Empacotamento Kivy/dist/PyInstallerApp/api-ms-win-core-timezone-l1-1-0.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/Seção 27 - Empacotamento/05 - Empacotamento Kivy/dist/PyInstallerApp/api-ms-win-core-util-l1-1-0.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/Seção 27 - Empacotamento/05 - Empacotamento Kivy/dist/PyInstallerApp/api-ms-win-crt-conio-l1-1-0.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/Seção 27 - Empacotamento/05 - Empacotamento Kivy/dist/PyInstallerApp/api-ms-win-crt-convert-l1-1-0.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/Seção 27 - Empacotamento/05 - Empacotamento Kivy/dist/PyInstallerApp/api-ms-win-crt-environment-l1-1-0.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/Seção 27 - Empacotamento/05 - Empacotamento Kivy/dist/PyInstallerApp/api-ms-win-crt-filesystem-l1-1-0.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/Seção 27 - Empacotamento/05 - Empacotamento Kivy/dist/PyInstallerApp/api-ms-win-crt-heap-l1-1-0.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/Seção 27 - Empacotamento/05 - Empacotamento Kivy/dist/PyInstallerApp/api-ms-win-crt-locale-l1-1-0.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/Seção 27 - Empacotamento/05 - Empacotamento Kivy/dist/PyInstallerApp/api-ms-win-crt-math-l1-1-0.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/Seção 27 - Empacotamento/05 - Empacotamento Kivy/dist/PyInstallerApp/api-ms-win-crt-multibyte-l1-1-0.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/Seção 27 - Empacotamento/05 - Empacotamento Kivy/dist/PyInstallerApp/api-ms-win-crt-process-l1-1-0.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/Seção 27 - Empacotamento/05 - Empacotamento Kivy/dist/PyInstallerApp/api-ms-win-crt-runtime-l1-1-0.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/Seção 27 - Empacotamento/05 - Empacotamento Kivy/dist/PyInstallerApp/api-ms-win-crt-stdio-l1-1-0.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/Seção 27 - Empacotamento/05 - Empacotamento Kivy/dist/PyInstallerApp/api-ms-win-crt-string-l1-1-0.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/Seção 27 - Empacotamento/05 - Empacotamento Kivy/dist/PyInstallerApp/api-ms-win-crt-time-l1-1-0.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/Seção 27 - Empacotamento/05 - Empacotamento Kivy/dist/PyInstallerApp/api-ms-win-crt-utility-l1-1-0.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/Seção 27 - Empacotamento/05 - Empacotamento Kivy/dist/PyInstallerApp/base_library.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/Seção 27 - Empacotamento/05 - Empacotamento Kivy/dist/PyInstallerApp/docutils/parsers/rst/include/README.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/Seção 27 - Empacotamento/05 - Empacotamento Kivy/dist/PyInstallerApp/docutils/parsers/rst/include/isoamsa.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/Seção 27 - Empacotamento/05 - Empacotamento Kivy/dist/PyInstallerApp/docutils/parsers/rst/include/isoamsb.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/Seção 27 - Empacotamento/05 - Empacotamento Kivy/dist/PyInstallerApp/docutils/parsers/rst/include/isoamsc.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/Seção 27 - Empacotamento/05 - Empacotamento Kivy/dist/PyInstallerApp/docutils/parsers/rst/include/isoamsn.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/Seção 27 - Empacotamento/05 - Empacotamento Kivy/dist/PyInstallerApp/docutils/parsers/rst/include/isoamso.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/Seção 27 - Empacotamento/05 - Empacotamento Kivy/dist/PyInstallerApp/docutils/parsers/rst/include/isoamsr.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/Seção 27 - Empacotamento/05 - Empacotamento Kivy/dist/PyInstallerApp/docutils/parsers/rst/include/isobox.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/Seção 27 - Empacotamento/05 - Empacotamento Kivy/dist/PyInstallerApp/docutils/parsers/rst/include/isocyr1.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/Seção 27 - Empacotamento/05 - Empacotamento Kivy/dist/PyInstallerApp/docutils/parsers/rst/include/isocyr2.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/Seção 27 - Empacotamento/05 - Empacotamento Kivy/dist/PyInstallerApp/docutils/parsers/rst/include/isodia.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/Seção 27 - Empacotamento/05 - Empacotamento Kivy/dist/PyInstallerApp/docutils/parsers/rst/include/isogrk1.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/Seção 27 - Empacotamento/05 - Empacotamento Kivy/dist/PyInstallerApp/docutils/parsers/rst/include/isogrk2.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/Seção 27 - Empacotamento/05 - Empacotamento Kivy/dist/PyInstallerApp/docutils/parsers/rst/include/isogrk3.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/Seção 27 - Empacotamento/05 - Empacotamento Kivy/dist/PyInstallerApp/docutils/parsers/rst/include/isogrk4-wide.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/Seção 27 - Empacotamento/05 - Empacotamento Kivy/dist/PyInstallerApp/docutils/parsers/rst/include/isogrk4.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/Seção 27 - Empacotamento/05 - Empacotamento Kivy/dist/PyInstallerApp/docutils/parsers/rst/include/isolat1.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/Seção 27 - Empacotamento/05 - Empacotamento Kivy/dist/PyInstallerApp/docutils/parsers/rst/include/isolat2.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/Seção 27 - Empacotamento/05 - Empacotamento Kivy/dist/PyInstallerApp/docutils/parsers/rst/include/isomfrk-wide.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/Seção 27 - Empacotamento/05 - Empacotamento Kivy/dist/PyInstallerApp/docutils/parsers/rst/include/isomfrk.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/Seção 27 - Empacotamento/05 - Empacotamento Kivy/dist/PyInstallerApp/docutils/parsers/rst/include/isomopf-wide.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/Seção 27 - Empacotamento/05 - Empacotamento Kivy/dist/PyInstallerApp/docutils/parsers/rst/include/isomopf.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/Seção 27 - Empacotamento/05 - Empacotamento Kivy/dist/PyInstallerApp/docutils/parsers/rst/include/isomscr-wide.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/Seção 27 - Empacotamento/05 - Empacotamento Kivy/dist/PyInstallerApp/docutils/parsers/rst/include/isomscr.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/Seção 27 - Empacotamento/05 - Empacotamento Kivy/dist/PyInstallerApp/docutils/parsers/rst/include/isonum.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/Seção 27 - Empacotamento/05 - Empacotamento Kivy/dist/PyInstallerApp/docutils/parsers/rst/include/isopub.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/Seção 27 - Empacotamento/05 - Empacotamento Kivy/dist/PyInstallerApp/docutils/parsers/rst/include/isotech.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/Seção 27 - Empacotamento/05 - Empacotamento Kivy/dist/PyInstallerApp/docutils/parsers/rst/include/mmlalias.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/Seção 27 - Empacotamento/05 - Empacotamento Kivy/dist/PyInstallerApp/docutils/parsers/rst/include/mmlextra-wide.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/Seção 27 - Empacotamento/05 - Empacotamento Kivy/dist/PyInstallerApp/docutils/parsers/rst/include/mmlextra.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/Seção 27 - Empacotamento/05 - Empacotamento Kivy/dist/PyInstallerApp/docutils/parsers/rst/include/s5defs.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/Seção 27 - Empacotamento/05 - Empacotamento Kivy/dist/PyInstallerApp/docutils/parsers/rst/include/xhtml1-lat1.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/Seção 27 - Empacotamento/05 - Empacotamento Kivy/dist/PyInstallerApp/docutils/parsers/rst/include/xhtml1-special.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/Seção 27 - Empacotamento/05 - Empacotamento Kivy/dist/PyInstallerApp/docutils/parsers/rst/include/xhtml1-symbol.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/Seção 27 - Empacotamento/05 - Empacotamento Kivy/dist/PyInstallerApp/docutils/writers/html4css1/html4css1.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/Seção 27 - Empacotamento/05 - Empacotamento Kivy/dist/PyInstallerApp/docutils/writers/html4css1/template.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/Seção 27 - Empacotamento/05 - Empacotamento Kivy/dist/PyInstallerApp/docutils/writers/html5_polyglot/math.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/Seção 27 - Empacotamento/05 - Empacotamento Kivy/dist/PyInstallerApp/docutils/writers/html5_polyglot/minimal.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/Seção 27 - Empacotamento/05 - Empacotamento Kivy/dist/PyInstallerApp/docutils/writers/html5_polyglot/plain.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/Seção 27 - Empacotamento/05 - Empacotamento Kivy/dist/PyInstallerApp/docutils/writers/html5_polyglot/template.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/Seção 27 - Empacotamento/05 - Empacotamento Kivy/dist/PyInstallerApp/docutils/writers/latex2e/default.tex" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/Seção 27 - Empacotamento/05 - Empacotamento Kivy/dist/PyInstallerApp/docutils/writers/latex2e/titlepage.tex" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/Seção 27 - Empacotamento/05 - Empacotamento Kivy/dist/PyInstallerApp/docutils/writers/latex2e/xelatex.tex" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/Seção 27 - Empacotamento/05 - Empacotamento Kivy/dist/PyInstallerApp/docutils/writers/odf_odt/styles.odt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/Seção 27 - Empacotamento/05 - Empacotamento Kivy/dist/PyInstallerApp/docutils/writers/pep_html/pep.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/Seção 27 - Empacotamento/05 - Empacotamento Kivy/dist/PyInstallerApp/docutils/writers/pep_html/template.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/Seção 27 - Empacotamento/05 - Empacotamento Kivy/dist/PyInstallerApp/docutils/writers/s5_html/themes/README.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/Seção 27 - Empacotamento/05 - Empacotamento Kivy/dist/PyInstallerApp/docutils/writers/s5_html/themes/big-black/__base__" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/Seção 27 - Empacotamento/05 - Empacotamento Kivy/dist/PyInstallerApp/docutils/writers/s5_html/themes/big-black/framing.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/Seção 27 - Empacotamento/05 - Empacotamento Kivy/dist/PyInstallerApp/docutils/writers/s5_html/themes/big-black/pretty.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/Seção 27 - Empacotamento/05 - Empacotamento Kivy/dist/PyInstallerApp/docutils/writers/s5_html/themes/big-white/framing.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/Seção 27 - Empacotamento/05 - Empacotamento Kivy/dist/PyInstallerApp/docutils/writers/s5_html/themes/big-white/pretty.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/Seção 27 - Empacotamento/05 - Empacotamento Kivy/dist/PyInstallerApp/docutils/writers/s5_html/themes/default/blank.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/Seção 27 - Empacotamento/05 - Empacotamento Kivy/dist/PyInstallerApp/docutils/writers/s5_html/themes/default/framing.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/Seção 27 - Empacotamento/05 - Empacotamento Kivy/dist/PyInstallerApp/docutils/writers/s5_html/themes/default/iepngfix.htc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/Seção 27 - Empacotamento/05 - Empacotamento Kivy/dist/PyInstallerApp/docutils/writers/s5_html/themes/default/opera.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/Seção 27 - Empacotamento/05 - Empacotamento Kivy/dist/PyInstallerApp/docutils/writers/s5_html/themes/default/outline.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/Seção 27 - Empacotamento/05 - Empacotamento Kivy/dist/PyInstallerApp/docutils/writers/s5_html/themes/default/pretty.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/Seção 27 - Empacotamento/05 - Empacotamento Kivy/dist/PyInstallerApp/docutils/writers/s5_html/themes/default/print.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/Seção 27 - Empacotamento/05 - Empacotamento Kivy/dist/PyInstallerApp/docutils/writers/s5_html/themes/default/s5-core.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/Seção 27 - Empacotamento/05 - Empacotamento Kivy/dist/PyInstallerApp/docutils/writers/s5_html/themes/default/slides.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/Seção 27 - Empacotamento/05 - Empacotamento Kivy/dist/PyInstallerApp/docutils/writers/s5_html/themes/default/slides.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/Seção 27 - Empacotamento/05 - Empacotamento Kivy/dist/PyInstallerApp/docutils/writers/s5_html/themes/medium-black/__base__" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/Seção 27 - Empacotamento/05 - Empacotamento Kivy/dist/PyInstallerApp/docutils/writers/s5_html/themes/medium-black/pretty.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/Seção 27 - Empacotamento/05 - Empacotamento Kivy/dist/PyInstallerApp/docutils/writers/s5_html/themes/medium-white/framing.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/Seção 27 - Empacotamento/05 - Empacotamento Kivy/dist/PyInstallerApp/docutils/writers/s5_html/themes/medium-white/pretty.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/Seção 27 - Empacotamento/05 - Empacotamento Kivy/dist/PyInstallerApp/docutils/writers/s5_html/themes/small-black/__base__" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/Seção 27 - Empacotamento/05 - Empacotamento Kivy/dist/PyInstallerApp/docutils/writers/s5_html/themes/small-black/pretty.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/Seção 27 - Empacotamento/05 - Empacotamento Kivy/dist/PyInstallerApp/docutils/writers/s5_html/themes/small-white/framing.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/Seção 27 - Empacotamento/05 - Empacotamento Kivy/dist/PyInstallerApp/docutils/writers/s5_html/themes/small-white/pretty.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/Seção 27 - Empacotamento/05 - Empacotamento Kivy/dist/PyInstallerApp/glew32.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/Seção 27 - Empacotamento/05 - Empacotamento Kivy/dist/PyInstallerApp/kivy/_clock.cp37-win_amd64.pyd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/Seção 27 - Empacotamento/05 - Empacotamento Kivy/dist/PyInstallerApp/kivy/_event.cp37-win_amd64.pyd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/Seção 27 - Empacotamento/05 - Empacotamento Kivy/dist/PyInstallerApp/kivy/core/audio/audio_sdl2.cp37-win_amd64.pyd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/Seção 27 - Empacotamento/05 - Empacotamento Kivy/dist/PyInstallerApp/kivy/core/clipboard/_clipboard_sdl2.cp37-win_amd64.pyd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/Seção 27 - Empacotamento/05 - Empacotamento Kivy/dist/PyInstallerApp/kivy/core/image/_img_sdl2.cp37-win_amd64.pyd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/Seção 27 - Empacotamento/05 - Empacotamento Kivy/dist/PyInstallerApp/kivy/core/text/_text_sdl2.cp37-win_amd64.pyd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/Seção 27 - Empacotamento/05 - Empacotamento Kivy/dist/PyInstallerApp/kivy/core/text/text_layout.cp37-win_amd64.pyd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/Seção 27 - Empacotamento/05 - Empacotamento Kivy/dist/PyInstallerApp/kivy/core/window/_window_sdl2.cp37-win_amd64.pyd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/Seção 27 - Empacotamento/05 - Empacotamento Kivy/dist/PyInstallerApp/kivy/core/window/window_info.cp37-win_amd64.pyd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/Seção 27 - Empacotamento/05 - Empacotamento Kivy/dist/PyInstallerApp/kivy/graphics/buffer.cp37-win_amd64.pyd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/Seção 27 - Empacotamento/05 - Empacotamento Kivy/dist/PyInstallerApp/kivy/graphics/cgl.cp37-win_amd64.pyd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/Seção 27 - Empacotamento/05 - Empacotamento Kivy/dist/PyInstallerApp/kivy/graphics/cgl_backend/cgl_debug.cp37-win_amd64.pyd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/Seção 27 - Empacotamento/05 - Empacotamento Kivy/dist/PyInstallerApp/kivy/graphics/cgl_backend/cgl_gl.cp37-win_amd64.pyd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/Seção 27 - Empacotamento/05 - Empacotamento Kivy/dist/PyInstallerApp/kivy/graphics/cgl_backend/cgl_glew.cp37-win_amd64.pyd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/Seção 27 - Empacotamento/05 - Empacotamento Kivy/dist/PyInstallerApp/kivy/graphics/cgl_backend/cgl_mock.cp37-win_amd64.pyd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/Seção 27 - Empacotamento/05 - Empacotamento Kivy/dist/PyInstallerApp/kivy/graphics/cgl_backend/cgl_sdl2.cp37-win_amd64.pyd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/Seção 27 - Empacotamento/05 - Empacotamento Kivy/dist/PyInstallerApp/kivy/graphics/compiler.cp37-win_amd64.pyd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/Seção 27 - Empacotamento/05 - Empacotamento Kivy/dist/PyInstallerApp/kivy/graphics/context.cp37-win_amd64.pyd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/Seção 27 - Empacotamento/05 - Empacotamento Kivy/dist/PyInstallerApp/kivy/graphics/context_instructions.cp37-win_amd64.pyd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/Seção 27 - Empacotamento/05 - Empacotamento Kivy/dist/PyInstallerApp/kivy/graphics/fbo.cp37-win_amd64.pyd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/Seção 27 - Empacotamento/05 - Empacotamento Kivy/dist/PyInstallerApp/kivy/graphics/gl_instructions.cp37-win_amd64.pyd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/Seção 27 - Empacotamento/05 - Empacotamento Kivy/dist/PyInstallerApp/kivy/graphics/instructions.cp37-win_amd64.pyd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/Seção 27 - Empacotamento/05 - Empacotamento Kivy/dist/PyInstallerApp/kivy/graphics/opengl.cp37-win_amd64.pyd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/Seção 27 - Empacotamento/05 - Empacotamento Kivy/dist/PyInstallerApp/kivy/graphics/opengl_utils.cp37-win_amd64.pyd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/Seção 27 - Empacotamento/05 - Empacotamento Kivy/dist/PyInstallerApp/kivy/graphics/scissor_instructions.cp37-win_amd64.pyd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/Seção 27 - Empacotamento/05 - Empacotamento Kivy/dist/PyInstallerApp/kivy/graphics/shader.cp37-win_amd64.pyd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/Seção 27 - Empacotamento/05 - Empacotamento Kivy/dist/PyInstallerApp/kivy/graphics/stencil_instructions.cp37-win_amd64.pyd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/Seção 27 - Empacotamento/05 - Empacotamento Kivy/dist/PyInstallerApp/kivy/graphics/svg.cp37-win_amd64.pyd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/Seção 27 - Empacotamento/05 - Empacotamento Kivy/dist/PyInstallerApp/kivy/graphics/tesselator.cp37-win_amd64.pyd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/Seção 27 - Empacotamento/05 - Empacotamento Kivy/dist/PyInstallerApp/kivy/graphics/texture.cp37-win_amd64.pyd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/Seção 27 - Empacotamento/05 - Empacotamento Kivy/dist/PyInstallerApp/kivy/graphics/transformation.cp37-win_amd64.pyd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/Seção 27 - Empacotamento/05 - Empacotamento Kivy/dist/PyInstallerApp/kivy/graphics/vbo.cp37-win_amd64.pyd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/Seção 27 - Empacotamento/05 - Empacotamento Kivy/dist/PyInstallerApp/kivy/graphics/vertex.cp37-win_amd64.pyd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/Seção 27 - Empacotamento/05 - Empacotamento Kivy/dist/PyInstallerApp/kivy/graphics/vertex_instructions.cp37-win_amd64.pyd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/Seção 27 - Empacotamento/05 - Empacotamento Kivy/dist/PyInstallerApp/kivy/lib/gstplayer/_gstplayer.cp37-win_amd64.pyd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/Seção 27 - Empacotamento/05 - Empacotamento Kivy/dist/PyInstallerApp/kivy/properties.cp37-win_amd64.pyd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/Seção 27 - Empacotamento/05 - Empacotamento Kivy/dist/PyInstallerApp/kivy/weakproxy.cp37-win_amd64.pyd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/Seção 27 - Empacotamento/05 - Empacotamento Kivy/dist/PyInstallerApp/kivy_install/data/fonts/DejaVuSans.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/Seção 27 - Empacotamento/05 - Empacotamento Kivy/dist/PyInstallerApp/kivy_install/data/fonts/Roboto-Bold.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/Seção 27 - Empacotamento/05 - Empacotamento Kivy/dist/PyInstallerApp/kivy_install/data/fonts/Roboto-BoldItalic.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/Seção 27 - Empacotamento/05 - Empacotamento Kivy/dist/PyInstallerApp/kivy_install/data/fonts/Roboto-Italic.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/Seção 27 - Empacotamento/05 - Empacotamento Kivy/dist/PyInstallerApp/kivy_install/data/fonts/Roboto-Regular.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/Seção 27 - Empacotamento/05 - Empacotamento Kivy/dist/PyInstallerApp/kivy_install/data/fonts/RobotoMono-Regular.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/Seção 27 - Empacotamento/05 - Empacotamento Kivy/dist/PyInstallerApp/kivy_install/data/glsl/default.fs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/Seção 27 - Empacotamento/05 - Empacotamento Kivy/dist/PyInstallerApp/kivy_install/data/glsl/default.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/Seção 27 - Empacotamento/05 - Empacotamento Kivy/dist/PyInstallerApp/kivy_install/data/glsl/default.vs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/Seção 27 - Empacotamento/05 - Empacotamento Kivy/dist/PyInstallerApp/kivy_install/data/glsl/header.fs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/Seção 27 - Empacotamento/05 - Empacotamento Kivy/dist/PyInstallerApp/kivy_install/data/glsl/header.vs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/Seção 27 - Empacotamento/05 - Empacotamento Kivy/dist/PyInstallerApp/kivy_install/data/images/background.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/Seção 27 - Empacotamento/05 - Empacotamento Kivy/dist/PyInstallerApp/kivy_install/data/images/cursor.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/Seção 27 - Empacotamento/05 - Empacotamento Kivy/dist/PyInstallerApp/kivy_install/data/images/defaultshape.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/Seção 27 - Empacotamento/05 - Empacotamento Kivy/dist/PyInstallerApp/kivy_install/data/images/defaulttheme-0.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/Seção 27 - Empacotamento/05 - Empacotamento Kivy/dist/PyInstallerApp/kivy_install/data/images/defaulttheme.atlas" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/Seção 27 - Empacotamento/05 - Empacotamento Kivy/dist/PyInstallerApp/kivy_install/data/images/image-loading.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/Seção 27 - Empacotamento/05 - Empacotamento Kivy/dist/PyInstallerApp/kivy_install/data/images/testpattern.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/Seção 27 - Empacotamento/05 - Empacotamento Kivy/dist/PyInstallerApp/kivy_install/data/keyboards/azerty.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/Seção 27 - Empacotamento/05 - Empacotamento Kivy/dist/PyInstallerApp/kivy_install/data/keyboards/de.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/Seção 27 - Empacotamento/05 - Empacotamento Kivy/dist/PyInstallerApp/kivy_install/data/keyboards/de_CH.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/Seção 27 - Empacotamento/05 - Empacotamento Kivy/dist/PyInstallerApp/kivy_install/data/keyboards/en_US.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/Seção 27 - Empacotamento/05 - Empacotamento Kivy/dist/PyInstallerApp/kivy_install/data/keyboards/fr_CH.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/Seção 27 - Empacotamento/05 - Empacotamento Kivy/dist/PyInstallerApp/kivy_install/data/keyboards/qwerty.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/Seção 27 - Empacotamento/05 - Empacotamento Kivy/dist/PyInstallerApp/kivy_install/data/keyboards/qwertz.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/Seção 27 - Empacotamento/05 - Empacotamento Kivy/dist/PyInstallerApp/kivy_install/data/logo/kivy-icon-128.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/Seção 27 - Empacotamento/05 - Empacotamento Kivy/dist/PyInstallerApp/kivy_install/data/logo/kivy-icon-16.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/Seção 27 - Empacotamento/05 - Empacotamento Kivy/dist/PyInstallerApp/kivy_install/data/logo/kivy-icon-24.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/Seção 27 - Empacotamento/05 - Empacotamento Kivy/dist/PyInstallerApp/kivy_install/data/logo/kivy-icon-256.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/Seção 27 - Empacotamento/05 - Empacotamento Kivy/dist/PyInstallerApp/kivy_install/data/logo/kivy-icon-32.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/Seção 27 - Empacotamento/05 - Empacotamento Kivy/dist/PyInstallerApp/kivy_install/data/logo/kivy-icon-48.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/Seção 27 - Empacotamento/05 - Empacotamento Kivy/dist/PyInstallerApp/kivy_install/data/logo/kivy-icon-512.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/Seção 27 - Empacotamento/05 - Empacotamento Kivy/dist/PyInstallerApp/kivy_install/data/logo/kivy-icon-64.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/Seção 27 - Empacotamento/05 - Empacotamento Kivy/dist/PyInstallerApp/kivy_install/data/settings_kivy.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/Seção 27 - Empacotamento/05 - Empacotamento Kivy/dist/PyInstallerApp/kivy_install/data/style.kv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/Seção 27 - Empacotamento/05 - Empacotamento Kivy/dist/PyInstallerApp/kivy_install/modules/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/Seção 27 - Empacotamento/05 - Empacotamento Kivy/dist/PyInstallerApp/kivy_install/modules/_webdebugger.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/Seção 27 - Empacotamento/05 - Empacotamento Kivy/dist/PyInstallerApp/kivy_install/modules/console.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/Seção 27 - Empacotamento/05 - Empacotamento Kivy/dist/PyInstallerApp/kivy_install/modules/cursor.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/Seção 27 - Empacotamento/05 - Empacotamento Kivy/dist/PyInstallerApp/kivy_install/modules/inspector.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/Seção 27 - Empacotamento/05 - Empacotamento Kivy/dist/PyInstallerApp/kivy_install/modules/joycursor.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/Seção 27 - Empacotamento/05 - Empacotamento Kivy/dist/PyInstallerApp/kivy_install/modules/keybinding.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/Seção 27 - Empacotamento/05 - Empacotamento Kivy/dist/PyInstallerApp/kivy_install/modules/monitor.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/Seção 27 - Empacotamento/05 - Empacotamento Kivy/dist/PyInstallerApp/kivy_install/modules/recorder.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/Seção 27 - Empacotamento/05 - Empacotamento Kivy/dist/PyInstallerApp/kivy_install/modules/screen.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/Seção 27 - Empacotamento/05 - Empacotamento Kivy/dist/PyInstallerApp/kivy_install/modules/showborder.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/Seção 27 - Empacotamento/05 - Empacotamento Kivy/dist/PyInstallerApp/kivy_install/modules/touchring.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/Seção 27 - Empacotamento/05 - Empacotamento Kivy/dist/PyInstallerApp/kivy_install/modules/webdebugger.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/Seção 27 - Empacotamento/05 - Empacotamento Kivy/dist/PyInstallerApp/lib2to3/Grammar.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/Seção 27 - Empacotamento/05 - Empacotamento Kivy/dist/PyInstallerApp/lib2to3/Grammar3.7.6.final.0.pickle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/Seção 27 - Empacotamento/05 - Empacotamento Kivy/dist/PyInstallerApp/lib2to3/PatternGrammar.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/Seção 27 - Empacotamento/05 - Empacotamento Kivy/dist/PyInstallerApp/lib2to3/PatternGrammar3.7.6.final.0.pickle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/Seção 27 - Empacotamento/05 - Empacotamento Kivy/dist/PyInstallerApp/libFLAC-8.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/Seção 27 - Empacotamento/05 - Empacotamento Kivy/dist/PyInstallerApp/libcrypto-1_1-x64.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/Seção 27 - Empacotamento/05 - Empacotamento Kivy/dist/PyInstallerApp/libfreetype-6.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/Seção 27 - Empacotamento/05 - Empacotamento Kivy/dist/PyInstallerApp/libjpeg-9.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/Seção 27 - Empacotamento/05 - Empacotamento Kivy/dist/PyInstallerApp/libmodplug-1.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/Seção 27 - Empacotamento/05 - Empacotamento Kivy/dist/PyInstallerApp/libmpg123-0.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/Seção 27 - Empacotamento/05 - Empacotamento Kivy/dist/PyInstallerApp/libogg-0.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/Seção 27 - Empacotamento/05 - Empacotamento Kivy/dist/PyInstallerApp/libopus-0.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/Seção 27 - Empacotamento/05 - Empacotamento Kivy/dist/PyInstallerApp/libopusfile-0.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/Seção 27 - Empacotamento/05 - Empacotamento Kivy/dist/PyInstallerApp/libpng16-16.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/Seção 27 - Empacotamento/05 - Empacotamento Kivy/dist/PyInstallerApp/libssl-1_1-x64.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/Seção 27 - Empacotamento/05 - Empacotamento Kivy/dist/PyInstallerApp/libtiff-5.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/Seção 27 - Empacotamento/05 - Empacotamento Kivy/dist/PyInstallerApp/libvorbis-0.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/Seção 27 - Empacotamento/05 - Empacotamento Kivy/dist/PyInstallerApp/libvorbisfile-3.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/Seção 27 - Empacotamento/05 - Empacotamento Kivy/dist/PyInstallerApp/libwebp-7.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/Seção 27 - Empacotamento/05 - Empacotamento Kivy/dist/PyInstallerApp/mfc140u.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/Seção 27 - Empacotamento/05 - Empacotamento Kivy/dist/PyInstallerApp/pyexpat.pyd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/Seção 27 - Empacotamento/05 - Empacotamento Kivy/dist/PyInstallerApp/python37.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/Seção 27 - Empacotamento/05 - Empacotamento Kivy/dist/PyInstallerApp/pythoncom37.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/Seção 27 - Empacotamento/05 - Empacotamento Kivy/dist/PyInstallerApp/pywintypes37.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/Seção 27 - Empacotamento/05 - Empacotamento Kivy/dist/PyInstallerApp/select.pyd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/Seção 27 - Empacotamento/05 - Empacotamento Kivy/dist/PyInstallerApp/ucrtbase.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/Seção 27 - Empacotamento/05 - Empacotamento Kivy/dist/PyInstallerApp/unicodedata.pyd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/Seção 27 - Empacotamento/05 - Empacotamento Kivy/dist/PyInstallerApp/win32api.pyd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/Seção 27 - Empacotamento/05 - Empacotamento Kivy/dist/PyInstallerApp/win32com/shell/shell.pyd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/Seção 27 - Empacotamento/05 - Empacotamento Kivy/dist/PyInstallerApp/win32file.pyd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/Seção 27 - Empacotamento/05 - Empacotamento Kivy/dist/PyInstallerApp/win32gui.pyd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/Seção 27 - Empacotamento/05 - Empacotamento Kivy/dist/PyInstallerApp/win32trace.pyd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/Seção 27 - Empacotamento/05 - Empacotamento Kivy/dist/PyInstallerApp/win32ui.pyd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/Seção 27 - Empacotamento/05 - Empacotamento Kivy/dist/PyInstallerApp/win32wnet.pyd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/Seção 27 - Empacotamento/05 - Empacotamento Kivy/dist/PyInstallerApp/zlib1.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/Seção 27 - Empacotamento/05 - Empacotamento Kivy/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/Seção 27 - Empacotamento/05 - Empacotamento Kivy/main.spec" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aulas/Seção 27 - Empacotamento/05 - Empacotamento Kivy/after.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aulas/Seção 27 - Empacotamento/05 - Empacotamento Kivy/before.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aulas/Seção 27 - Empacotamento/05 - Empacotamento Kivy/icone.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aulas/Seção 27 - Empacotamento/05 - Empacotamento Kivy/license.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aulas/Seção 27 - Empacotamento/06 - Inoo Setup/Introdução" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/aulas/Seção 27 - Empacotamento/04 - Empacotando com pyinstaller/build/main/COLLECT-00.toc" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -314,23 +39,23 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="Python" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/aulas/Seção 26 - Widget II/04 - TextInput I" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/aulas/Seção 27 - Empacotamento/05 - Empacotamento Kivy" />
     <property name="settings.editor.selected.configurable" value="preferences.fileTypes" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\GitHub\PythonCourseUdemy\kivy\aulas\Seção 27 - Empacotamento\05 - Empacotamento Kivy" />
+      <recent name="D:\GitHub\PythonCourseUdemy\kivy\aulas\Seção 26 - Widget II\04 - TextInput I" />
+      <recent name="D:\GitHub\PythonCourseUdemy\kivy\aulas\Seção 26 - Widget II\03 - Button" />
+      <recent name="D:\GitHub\PythonCourseUdemy\kivy\aulas\Seção 26 - Widget II\02 - Label II" />
+      <recent name="D:\GitHub\PythonCourseUdemy\kivy\aulas\Seção 26 - Widget II\01 - Label I" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\GitHub\PythonCourseUdemy\kivy\aulas\Seção 27 - Empacotamento\01 - Kivy Launcher\ola-mundo" />
       <recent name="D:\GitHub\PythonCourseUdemy\kivy\aulas\Seção 25 - Widget I\Prática\01 - Ambiente de estudo" />
       <recent name="D:\GitHub\PythonCourseUdemy\kivy\aulas\Seção 25 - Widget I\Teoria" />
       <recent name="D:\GitHub\PythonCourseUdemy\kivy\aulas\Seção 24 - Kivy Language\Prática" />
       <recent name="D:\GitHub\PythonCourseUdemy\kivy\aulas\Seção 24 - Kivy Language\0001 - KV vs Python - Python" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\GitHub\PythonCourseUdemy\kivy\aulas\Seção 26 - Widget II\04 - TextInput I" />
-      <recent name="D:\GitHub\PythonCourseUdemy\kivy\aulas\Seção 26 - Widget II\03 - Button" />
-      <recent name="D:\GitHub\PythonCourseUdemy\kivy\aulas\Seção 26 - Widget II\02 - Label II" />
-      <recent name="D:\GitHub\PythonCourseUdemy\kivy\aulas\Seção 26 - Widget II\01 - Label I" />
-      <recent name="D:\GitHub\PythonCourseUdemy\kivy\aulas\Seção 25 - Widget I\Prática\06 - Sistema de cores" />
     </key>
   </component>
   <component name="RunManager" selected="Python.main (4)">
@@ -484,9 +209,9 @@
     <list>
       <item itemvalue="Python.main (1)" />
       <item itemvalue="Python.main (2)" />
-      <item itemvalue="Python.main" />
       <item itemvalue="Python.main (3)" />
       <item itemvalue="Python.main (4)" />
+      <item itemvalue="Python.main" />
     </list>
     <recent_temporary>
       <list>
@@ -884,10 +609,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="440" y="73" key="#Python/0.0.1366.728/1366.0.1024.728@0.0.1366.728" timestamp="1597270725117" />
-    <state x="442" y="166" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1600358843705">
+    <state x="442" y="166" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1600708557114">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="442" y="166" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728/1366.0.1024.728@0.0.1366.728" timestamp="1600358843705" />
+    <state x="442" y="166" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728/1366.0.1024.728@0.0.1366.728" timestamp="1600708557114" />
     <state x="442" y="175" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.768/1366.0.1024.768@0.0.1366.768" timestamp="1594680804002" />
     <state x="419" y="233" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog" timestamp="1597866031132">
       <screen x="0" y="0" width="1366" height="728" />
@@ -903,11 +628,11 @@
     <state x="195" y="0" key="CommitChangelistDialog2/0.0.1366.728/1366.0.1024.728@0.0.1366.728" timestamp="1600293754151" />
     <state x="310" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1600192885693" />
     <state x="310" y="0" key="CommitChangelistDialog2/0.0.1366.768/1366.0.1024.768@0.0.1366.768" timestamp="1594681724908" />
-    <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1599084376615">
+    <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1600426849999">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728/1366.0.1024.728@0.0.1366.728" timestamp="1599084376615" />
-    <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1597701062403" />
+    <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1600426849999" />
     <state width="1346" height="175" key="GridCell.Tab.0.bottom" timestamp="1600361897149">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
