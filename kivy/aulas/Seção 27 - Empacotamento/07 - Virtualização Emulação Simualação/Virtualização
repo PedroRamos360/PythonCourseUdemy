@@ -1,0 +1,6 @@
+Software capaz de rodar um sistema operacional dentro de outro
+sitema operacional.
+
+Host: Sistema operacional padrão do pc.
+Guest: Sistema operacional aberto com o software.
+
