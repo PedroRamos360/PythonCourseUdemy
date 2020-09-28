@@ -1,0 +1,9 @@
+O que é?
+É um sistema especializado em guardar, processar, relacionar e retornar
+dados
+
+Sistema Gerenciador de Banco de Dados Relacional (SGBDR):
+Responsável por gerenciar uma grande quantidade de informações e estabelecer
+a ordem de acesso ao banco de dados. Da preferencia ou restringe acesso a
+algum registro. Ele deve assegurar que todas as informações são armazenadas
+corretamente.

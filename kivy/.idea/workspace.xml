@@ -2,11 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e9c4853c-e67f-42b0-be24-fec78455a699" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/aulas/Seção 27 - Empacotamento/09 - APK Builder/Arquivos OVA" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/Seção 27 - Empacotamento/09 - APK Builder/Arquivos VMDK" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/Seção 27 - Empacotamento/09 - APK Builder/Arquivos Virtualbox" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aulas/Seção 28 - Python e SQL/01 - Introdução sqlite.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aulas/Seção 28 - Python e SQL/02 - Tabelas.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aulas/Seção 28 - Python e SQL/03 - Banco de dados.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/aulas/Seção 27 - Empacotamento/09 - APK Builder/__init__.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -232,13 +231,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1580846075362</updated>
-    </task>
-    <task id="LOCAL-00053" summary="Atualização">
-      <created>1586612824811</created>
-      <option name="number" value="00053" />
-      <option name="presentableId" value="LOCAL-00053" />
-      <option name="project" value="LOCAL" />
-      <updated>1586612824811</updated>
     </task>
     <task id="LOCAL-00054" summary="Atualização">
       <created>1586724144511</created>
@@ -576,7 +568,14 @@
       <option name="project" value="LOCAL" />
       <updated>1600900460741</updated>
     </task>
-    <option name="localTasksCounter" value="102" />
+    <task id="LOCAL-00102" summary="Configurando máquina virtual">
+      <created>1600966772859</created>
+      <option name="number" value="00102" />
+      <option name="presentableId" value="LOCAL-00102" />
+      <option name="project" value="LOCAL" />
+      <updated>1600966772859</updated>
+    </task>
+    <option name="localTasksCounter" value="103" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -604,17 +603,18 @@
     <MESSAGE value="Criação do instalador" />
     <MESSAGE value="Virtual box" />
     <MESSAGE value="Instalação das VMs do apk builder" />
-    <option name="LAST_COMMIT_MESSAGE" value="Instalação das VMs do apk builder" />
+    <MESSAGE value="Configurando máquina virtual" />
+    <option name="LAST_COMMIT_MESSAGE" value="Configurando máquina virtual" />
   </component>
   <component name="WindowStateProjectService">
     <state x="440" y="73" key="#Python" timestamp="1597270725117">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="440" y="73" key="#Python/0.0.1366.728/1366.0.1024.728@0.0.1366.728" timestamp="1597270725117" />
-    <state x="442" y="166" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1600965606104">
+    <state x="442" y="166" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1601311482630">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="442" y="166" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728/1366.0.1024.728@0.0.1366.728" timestamp="1600965606104" />
+    <state x="442" y="166" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728/1366.0.1024.728@0.0.1366.728" timestamp="1601311482630" />
     <state x="442" y="175" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.768/1366.0.1024.768@0.0.1366.768" timestamp="1594680804002" />
     <state x="419" y="233" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog" timestamp="1597866031132">
       <screen x="0" y="0" width="1366" height="728" />
@@ -624,10 +624,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="438" y="67" key="#xdebugger.evaluate/0.0.1366.728/1366.0.1024.728@0.0.1366.728" timestamp="1597269236795" />
-    <state x="195" y="0" key="CommitChangelistDialog2" timestamp="1600900456149">
+    <state x="195" y="0" key="CommitChangelistDialog2" timestamp="1600966768984">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="195" y="0" key="CommitChangelistDialog2/0.0.1366.728/1366.0.1024.728@0.0.1366.728" timestamp="1600899392834" />
+    <state x="195" y="0" key="CommitChangelistDialog2/0.0.1366.728/1366.0.1024.728@0.0.1366.728" timestamp="1600966768984" />
     <state x="195" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1600900456149" />
     <state x="310" y="0" key="CommitChangelistDialog2/0.0.1366.768/1366.0.1024.768@0.0.1366.768" timestamp="1594681724908" />
     <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1600426849999">
@@ -688,11 +688,11 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="498" height="445" key="SwitcherDM/0.0.1366.728@0.0.1366.728" timestamp="1597442150213" />
-    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1600900472115">
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1600966799060">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728/1366.0.1024.728@0.0.1366.728" timestamp="1599586212131" />
-    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1600900472115" />
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1600966799060" />
     <state x="275" y="102" key="Vcs.Push.Dialog.v2/0.0.1366.768/1366.0.1024.768@0.0.1366.768" timestamp="1594681769802" />
     <state x="92" y="92" width="1182" height="584" maximized="true" key="dock-window-1" timestamp="1600966746315">
       <screen x="0" y="0" width="1366" height="728" />
@@ -707,10 +707,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="366" y="106" width="634" height="516" key="find.popup/0.0.1366.728@0.0.1366.728" timestamp="1600370727378" />
-    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1600191078377">
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1601311753034">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728/1366.0.1024.728@0.0.1366.728" timestamp="1600191078377" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728/1366.0.1024.728@0.0.1366.728" timestamp="1601311753034" />
   </component>
   <component name="XDebuggerManager">
     <watches-manager>

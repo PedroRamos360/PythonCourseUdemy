@@ -1,0 +1,19 @@
+As tabelas são formadas por linhas e colunas.
+
+Estrutura:
+- As linhas representam registros;
+- Coluna representa o tipo de informação a ser armazenada;
+- Cada tabela tem um nome único.
+
+Criação:
+CREATE TABLE [IF NOT EXISTS] [tabela] [NOME_COLUNA] [TIPO];
+Exemplo:
+CREATE TABLE IF NOT EXISTS tabela(
+    nome_coluna1 tipo_coluna,
+    nome_coluna2 tipo_coluna
+);
+
+Coluna:
+- Possuem nome e tipo necessariamente;
+- Armazena a cada linha um valor de mesmo tipo;
+- O conjunto de colunas formam uma tabela.

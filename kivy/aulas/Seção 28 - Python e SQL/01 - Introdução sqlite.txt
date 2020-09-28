@@ -1,0 +1,9 @@
+Sqlite é um banco de dados relacional, todas tabelas se relacionam com
+outras tabelas através do compartilhamento de uma chave.
+
+Características:
+- Motor de banco de dados completo;
+- Sua instalação requer menos de 500kb;
+- A conexão se dá através de um path;
+- Não precisa ser previamente inicializado;
+- Domínio público.
