@@ -1,0 +1,26 @@
+Query: É a pergunta ou consulta ao banco de dados
+
+Todos comando enviado receberá uma resposta, se não receber uma resposta
+é porque não foi executado.
+
+Classificação dos comandos:
+
+Manipular as estruturas => Data Definition Lan (DDL):
+- CREATE;
+- ALTER;
+- DROP;
+
+Manipular as informações => Data Manipulation Lang (DML):
+- INSERT;
+- UPDATE;
+- DELETE;
+- SELECT;
+
+Estrutura do comando
+
+COMANDO coluna (...) tabela (...);
+
+OBS: não é necessário escrever os comandos em letra maiúscula. Eles são
+"case insensitive".
+
+

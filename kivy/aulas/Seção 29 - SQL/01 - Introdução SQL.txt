@@ -1,0 +1,7 @@
+Structured Query Language (SQL) é uma linguagem universal para manupilação
+de banco de dados relacional.
+
+É uma linguagem declarativa, ou seja, é usado as palavras reservadas da
+linguagem para dizer aquilo que queremos e não o que dever ser feito.
+
+Trabalha com um conjunto de registros e não com um único.
