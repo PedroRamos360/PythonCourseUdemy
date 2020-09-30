@@ -23,4 +23,7 @@ COMANDO coluna (...) tabela (...);
 OBS: não é necessário escrever os comandos em letra maiúscula. Eles são
 "case insensitive".
 
+Banco de Dados: software => SQL
+Base de Dados: tabelas e informações
+
 

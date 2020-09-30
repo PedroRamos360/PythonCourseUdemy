@@ -1,0 +1,11 @@
+Cada coluna tem um tipo que deve ser usado em todos elementos dela.
+
+Tipos:
+
+- NULL => nenhum valor
+- INTEGER => número inteiros
+- REAL => números com ponto flutuante
+- TEXT => informações de tipo texto
+- BLOB => informações binárias, usado para armazenar fotos e arquivos
+
+afinidade de tipo da coluna é determinada pelo tipo declarado.
