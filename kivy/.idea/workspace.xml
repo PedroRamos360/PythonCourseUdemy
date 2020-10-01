@@ -2,11 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e9c4853c-e67f-42b0-be24-fec78455a699" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/aulas/Seção 29 - SQL/04 - Tipo das colunas.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/Seção 29 - SQL/05 - Criando Base de Dados/estudo.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aulas/Seção 29 - SQL/06 - Restrições SQL.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aulas/Seção 29 - SQL/07 - Alterara tabelas.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aulas/Seção 29 - SQL/08 - Operadores.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/dbnavigator.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/aulas/Seção 29 - SQL/02 - Princípios SQL.txt" beforeDir="false" afterPath="$PROJECT_DIR$/aulas/Seção 29 - SQL/03 - Princípios SQL.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aulas/Seção 29 - SQL/05 - Criando Base de Dados/estudo.db" beforeDir="false" afterPath="$PROJECT_DIR$/aulas/Seção 29 - SQL/05 - Criando Base de Dados/estudo.db" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,19 +43,19 @@
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\GitHub\PythonCourseUdemy\kivy\aulas\Seção 27 - Empacotamento\05 - Empacotamento Kivy" />
-      <recent name="D:\GitHub\PythonCourseUdemy\kivy\aulas\Seção 26 - Widget II\04 - TextInput I" />
-      <recent name="D:\GitHub\PythonCourseUdemy\kivy\aulas\Seção 26 - Widget II\03 - Button" />
-      <recent name="D:\GitHub\PythonCourseUdemy\kivy\aulas\Seção 26 - Widget II\02 - Label II" />
-      <recent name="D:\GitHub\PythonCourseUdemy\kivy\aulas\Seção 26 - Widget II\01 - Label I" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\GitHub\PythonCourseUdemy\kivy\aulas\Seção 27 - Empacotamento\01 - Kivy Launcher\ola-mundo" />
       <recent name="D:\GitHub\PythonCourseUdemy\kivy\aulas\Seção 25 - Widget I\Prática\01 - Ambiente de estudo" />
       <recent name="D:\GitHub\PythonCourseUdemy\kivy\aulas\Seção 25 - Widget I\Teoria" />
       <recent name="D:\GitHub\PythonCourseUdemy\kivy\aulas\Seção 24 - Kivy Language\Prática" />
       <recent name="D:\GitHub\PythonCourseUdemy\kivy\aulas\Seção 24 - Kivy Language\0001 - KV vs Python - Python" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\GitHub\PythonCourseUdemy\kivy\aulas\Seção 27 - Empacotamento\05 - Empacotamento Kivy" />
+      <recent name="D:\GitHub\PythonCourseUdemy\kivy\aulas\Seção 26 - Widget II\04 - TextInput I" />
+      <recent name="D:\GitHub\PythonCourseUdemy\kivy\aulas\Seção 26 - Widget II\03 - Button" />
+      <recent name="D:\GitHub\PythonCourseUdemy\kivy\aulas\Seção 26 - Widget II\02 - Label II" />
+      <recent name="D:\GitHub\PythonCourseUdemy\kivy\aulas\Seção 26 - Widget II\01 - Label I" />
     </key>
   </component>
   <component name="RunManager" selected="Python.main (5)">
@@ -233,13 +234,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1580846075362</updated>
-    </task>
-    <task id="LOCAL-00056" summary="Atualização">
-      <created>1586815699898</created>
-      <option name="number" value="00056" />
-      <option name="presentableId" value="LOCAL-00056" />
-      <option name="project" value="LOCAL" />
-      <updated>1586815699899</updated>
     </task>
     <task id="LOCAL-00057" summary="Atualização">
       <created>1586815761679</created>
@@ -577,12 +571,18 @@
       <option name="project" value="LOCAL" />
       <updated>1601398981286</updated>
     </task>
-    <option name="localTasksCounter" value="105" />
+    <task id="LOCAL-00105" summary="Criando base de dados">
+      <created>1601503273547</created>
+      <option name="number" value="00105" />
+      <option name="presentableId" value="LOCAL-00105" />
+      <option name="project" value="LOCAL" />
+      <updated>1601503273549</updated>
+    </task>
+    <option name="localTasksCounter" value="106" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Objeto Classe II e Método de classe" />
     <MESSAGE value="Métodos Estáticos + Programa de finalização de módulo" />
     <MESSAGE value="Degustação biblioteca kivy" />
     <MESSAGE value="Finalização da seção 20 e começo da 21" />
@@ -607,17 +607,18 @@
     <MESSAGE value="Configurando máquina virtual" />
     <MESSAGE value="Introdução ao sqlite" />
     <MESSAGE value="DB Browser SQL, Database Navigator Plug-In, princípios do SQL" />
-    <option name="LAST_COMMIT_MESSAGE" value="DB Browser SQL, Database Navigator Plug-In, princípios do SQL" />
+    <MESSAGE value="Criando base de dados" />
+    <option name="LAST_COMMIT_MESSAGE" value="Criando base de dados" />
   </component>
   <component name="WindowStateProjectService">
     <state x="440" y="73" key="#Python" timestamp="1597270725117">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="440" y="73" key="#Python/0.0.1366.728/1366.0.1024.728@0.0.1366.728" timestamp="1597270725117" />
-    <state x="442" y="166" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1601500570098">
+    <state x="442" y="166" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1601571391780">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="442" y="166" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728/1366.0.1024.728@0.0.1366.728" timestamp="1601500570098" />
+    <state x="442" y="166" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728/1366.0.1024.728@0.0.1366.728" timestamp="1601571391780" />
     <state x="442" y="175" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.768/1366.0.1024.768@0.0.1366.768" timestamp="1594680804002" />
     <state x="419" y="233" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog" timestamp="1597866031132">
       <screen x="0" y="0" width="1366" height="728" />
@@ -627,10 +628,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="438" y="67" key="#xdebugger.evaluate/0.0.1366.728/1366.0.1024.728@0.0.1366.728" timestamp="1597269236795" />
-    <state x="195" y="0" key="CommitChangelistDialog2" timestamp="1601398978030">
+    <state x="195" y="0" key="CommitChangelistDialog2" timestamp="1601503269667">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="195" y="0" key="CommitChangelistDialog2/0.0.1366.728/1366.0.1024.728@0.0.1366.728" timestamp="1601398978030" />
+    <state x="195" y="0" key="CommitChangelistDialog2/0.0.1366.728/1366.0.1024.728@0.0.1366.728" timestamp="1601503269667" />
     <state x="195" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1601312646064" />
     <state x="310" y="0" key="CommitChangelistDialog2/0.0.1366.768/1366.0.1024.768@0.0.1366.768" timestamp="1594681724908" />
     <state x="263" y="79" key="DBNavigator.DatasetFilterDialog" timestamp="1601502940253">
@@ -703,10 +704,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="498" height="445" key="SwitcherDM/0.0.1366.728@0.0.1366.728" timestamp="1597442150213" />
-    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1601399036334">
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1601503292850">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728/1366.0.1024.728@0.0.1366.728" timestamp="1601398989120" />
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728/1366.0.1024.728@0.0.1366.728" timestamp="1601503292850" />
     <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1601399036334" />
     <state x="275" y="102" key="Vcs.Push.Dialog.v2/0.0.1366.768/1366.0.1024.768@0.0.1366.768" timestamp="1594681769802" />
     <state x="92" y="92" width="1182" height="584" maximized="true" key="dock-window-1" timestamp="1600966746315">
@@ -722,10 +723,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="366" y="106" width="634" height="516" key="find.popup/0.0.1366.728@0.0.1366.728" timestamp="1600370727378" />
-    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1601311753034">
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1601570173759">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728/1366.0.1024.728@0.0.1366.728" timestamp="1601311753034" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728/1366.0.1024.728@0.0.1366.728" timestamp="1601570173759" />
   </component>
   <component name="XDebuggerManager">
     <watches-manager>

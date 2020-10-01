@@ -1,0 +1,7 @@
+NOT NULL: Não permite valores nulos.
+DEFAULT: Determina um valor quando algum o valor recebido for
+null.
+UNIQUE: Impede que dois registros tenham o mesmo valor.
+PRIMARY KEY: coluna que armazena o identificador dos registros
+para manter a integridade referencial da tabela. Comumente chamada
+de id.

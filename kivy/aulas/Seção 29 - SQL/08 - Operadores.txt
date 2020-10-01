@@ -1,0 +1,10 @@
+verificar igualdade:
+==, =, IS
+
+verificar desigualdade:
+!=, <>, IS NOT
+
+comparar tamanho:
+igual ao python +
+!> não é maior ou igual
+!< não é menor ou igual

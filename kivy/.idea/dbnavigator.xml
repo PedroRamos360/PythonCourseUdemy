@@ -25,13 +25,22 @@
     <show-object-properties value="true" />
     <loaded-nodes>
       <connection connection-id="f92a85d1-1ba6-4fcf-b070-e5fc3aa72c48">
-        <schema name="main" object-types="view, table" />
+        <schema name="main" object-types="dataset trigger, constraint, view, index, column, table" />
       </connection>
     </loaded-nodes>
   </component>
   <component name="DBNavigator.Project.DatabaseConsoleManager">
     <connection id="f92a85d1-1ba6-4fcf-b070-e5fc3aa72c48">
-      <console name="EstudoConn" type="STANDARD" schema="main" session="Main"><![CDATA[drop table recorde;]]></console>
+      <console name="EstudoConn" type="STANDARD" schema="main" session="Main"><![CDATA[alter table agenda
+rename to tmp;
+
+alter table tmp
+add column idade int;
+
+alter table tmp
+rename to agenda;
+
+select * from agenda;]]></console>
     </connection>
   </component>
   <component name="DBNavigator.Project.DatabaseFileManager">

@@ -1,0 +1,9 @@
+é usado o comando ALTER
+
+Renomear:
+ALTER TABLE nome_tabela
+RENAME TO novo_nome_tabela;
+
+Adicionar coluna:
+ATLER TABLE nome_table
+ADD [COLUMN] col tipo;
