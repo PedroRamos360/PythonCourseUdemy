@@ -1,0 +1,10 @@
+Para ordenar uma estrutura é usado o comando ORDER BY.
+
+Estrutura do comando:
+
+SELECT col1, col2, col3
+FROM tabela
+WHERE expressãp
+ORDER BY
+    col1 ASC/DESC
+    col2 ASC/DESC

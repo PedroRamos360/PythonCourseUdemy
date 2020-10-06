@@ -1,0 +1,15 @@
+Para limitar os registros em uma tabela é usado o comando LIMIT
+
+Estrutura do comando:
+
+SELECT col1, col2, col3
+FROM tabela
+LIMIT quantidade_de_linhas;
+
+Com order by:
+
+SELECT col1, col2, col3
+FROM tabela
+WHERE expressão
+ORDER BY col1 DESC
+LIMIT 10;

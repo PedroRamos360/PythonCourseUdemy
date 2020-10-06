@@ -1,3 +1,4 @@
+Operadores Aritméticos
 verificar igualdade:
 ==, =, IS
 
@@ -8,3 +9,10 @@ comparar tamanho:
 igual ao python +
 !> não é maior ou igual
 !< não é menor ou igual
+
+Operadores Lógicos
+AND
+OR
+NOT
+São iguais aos do python
+

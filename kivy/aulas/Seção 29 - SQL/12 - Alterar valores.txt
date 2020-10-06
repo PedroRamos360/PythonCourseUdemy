@@ -1,0 +1,9 @@
+Para alterar valores em sql é utilizado o comando UPDATE, para atualizar a tabela,
+e SET para mudar os valores de alguma coluna e WHERE para dizer quais valores.
+
+UPDATE tabela
+SET col1 = valor1,
+    col2 = valor2
+WHERE expressão
+LIMIT valor; -- para evitar que, por um erro, todos os registros do banco de dados sejam
+alterados.

@@ -1,0 +1,7 @@
+Para excluir registros é usado o comando DELETE.
+
+Estrutura do comando:
+
+DELETE
+FROM agenda
+WHERE id = 2;

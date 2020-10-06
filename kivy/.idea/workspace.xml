@@ -2,12 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e9c4853c-e67f-42b0-be24-fec78455a699" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/aulas/Seção 29 - SQL/06 - Restrições SQL.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/Seção 29 - SQL/07 - Alterara tabelas.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aulas/Seção 29 - SQL/08 - Operadores.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aulas/Seção 29 - SQL/09 - Where.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aulas/Seção 29 - SQL/10 - Oredenação.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aulas/Seção 29 - SQL/11 - Limitar registros.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aulas/Seção 29 - SQL/12 - Alterar valores.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aulas/Seção 29 - SQL/13 - Exclusão de registros.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/dbnavigator.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/aulas/Seção 29 - SQL/05 - Criando Base de Dados/estudo.db" beforeDir="false" afterPath="$PROJECT_DIR$/aulas/Seção 29 - SQL/05 - Criando Base de Dados/estudo.db" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aulas/Seção 29 - SQL/08 - Operadores.txt" beforeDir="false" afterPath="$PROJECT_DIR$/aulas/Seção 29 - SQL/08 - Operadores.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,7 +42,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="Python" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/aulas/Seção 27 - Empacotamento/05 - Empacotamento Kivy" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
@@ -207,12 +210,12 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.main" />
       <item itemvalue="Python.main (1)" />
       <item itemvalue="Python.main (2)" />
       <item itemvalue="Python.main (3)" />
       <item itemvalue="Python.main (4)" />
       <item itemvalue="Python.main (5)" />
+      <item itemvalue="Python.main" />
     </list>
     <recent_temporary>
       <list>
@@ -234,13 +237,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1580846075362</updated>
-    </task>
-    <task id="LOCAL-00057" summary="Atualização">
-      <created>1586815761679</created>
-      <option name="number" value="00057" />
-      <option name="presentableId" value="LOCAL-00057" />
-      <option name="project" value="LOCAL" />
-      <updated>1586815761679</updated>
     </task>
     <task id="LOCAL-00058" summary="Atualização">
       <created>1586815796446</created>
@@ -578,12 +574,18 @@
       <option name="project" value="LOCAL" />
       <updated>1601503273549</updated>
     </task>
-    <option name="localTasksCounter" value="106" />
+    <task id="LOCAL-00106" summary="Restrições, Alteração de tabelas e operadores SQL.">
+      <created>1601573055473</created>
+      <option name="number" value="00106" />
+      <option name="presentableId" value="LOCAL-00106" />
+      <option name="project" value="LOCAL" />
+      <updated>1601573055474</updated>
+    </task>
+    <option name="localTasksCounter" value="107" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Métodos Estáticos + Programa de finalização de módulo" />
     <MESSAGE value="Degustação biblioteca kivy" />
     <MESSAGE value="Finalização da seção 20 e começo da 21" />
     <MESSAGE value="Termino da seção 21 e início da seção 22" />
@@ -608,17 +610,18 @@
     <MESSAGE value="Introdução ao sqlite" />
     <MESSAGE value="DB Browser SQL, Database Navigator Plug-In, princípios do SQL" />
     <MESSAGE value="Criando base de dados" />
-    <option name="LAST_COMMIT_MESSAGE" value="Criando base de dados" />
+    <MESSAGE value="Restrições, Alteração de tabelas e operadores SQL." />
+    <option name="LAST_COMMIT_MESSAGE" value="Restrições, Alteração de tabelas e operadores SQL." />
   </component>
   <component name="WindowStateProjectService">
     <state x="440" y="73" key="#Python" timestamp="1597270725117">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="440" y="73" key="#Python/0.0.1366.728/1366.0.1024.728@0.0.1366.728" timestamp="1597270725117" />
-    <state x="442" y="166" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1601571391780">
+    <state x="442" y="166" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1602021693343">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="442" y="166" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728/1366.0.1024.728@0.0.1366.728" timestamp="1601571391780" />
+    <state x="442" y="166" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728/1366.0.1024.728@0.0.1366.728" timestamp="1602021693343" />
     <state x="442" y="175" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.768/1366.0.1024.768@0.0.1366.768" timestamp="1594680804002" />
     <state x="419" y="233" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog" timestamp="1597866031132">
       <screen x="0" y="0" width="1366" height="728" />
@@ -628,11 +631,11 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="438" y="67" key="#xdebugger.evaluate/0.0.1366.728/1366.0.1024.728@0.0.1366.728" timestamp="1597269236795" />
-    <state x="195" y="0" key="CommitChangelistDialog2" timestamp="1601503269667">
+    <state x="179" y="0" key="CommitChangelistDialog2" timestamp="1601573052262">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="195" y="0" key="CommitChangelistDialog2/0.0.1366.728/1366.0.1024.728@0.0.1366.728" timestamp="1601503269667" />
-    <state x="195" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1601312646064" />
+    <state x="179" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1601573052262" />
     <state x="310" y="0" key="CommitChangelistDialog2/0.0.1366.768/1366.0.1024.768@0.0.1366.768" timestamp="1594681724908" />
     <state x="263" y="79" key="DBNavigator.DatasetFilterDialog" timestamp="1601502940253">
       <screen x="0" y="0" width="1366" height="728" />
@@ -642,37 +645,37 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="213" y="19" key="DBNavigator.ProjectSettingsDialog/0.0.1366.728/1366.0.1024.728@0.0.1366.728" timestamp="1601501945043" />
-    <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1601397967987">
+    <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1601847725254">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728/1366.0.1024.728@0.0.1366.728" timestamp="1601397967987" />
-    <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1600426849999" />
-    <state width="1346" height="175" key="GridCell.Tab.0.bottom" timestamp="1601395638665">
+    <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1601847725254" />
+    <state width="660" height="174" key="GridCell.Tab.0.bottom" timestamp="1601916793101">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="1346" height="175" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.0.1024.728@0.0.1366.728" timestamp="1601395638665" />
-    <state width="1346" height="175" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1600361897149" />
+    <state width="660" height="174" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1601916793101" />
     <state width="1345" height="190" key="GridCell.Tab.0.bottom/0.0.1366.768/1366.0.1024.768@0.0.1366.768" timestamp="1594342364679" />
     <state width="1345" height="190" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1593387745265" />
-    <state width="1346" height="175" key="GridCell.Tab.0.center" timestamp="1601395638664">
+    <state width="660" height="174" key="GridCell.Tab.0.center" timestamp="1601916793101">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="1346" height="175" key="GridCell.Tab.0.center/0.0.1366.728/1366.0.1024.728@0.0.1366.728" timestamp="1601395638664" />
-    <state width="1346" height="175" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1600361897149" />
+    <state width="660" height="174" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1601916793101" />
     <state width="1345" height="190" key="GridCell.Tab.0.center/0.0.1366.768/1366.0.1024.768@0.0.1366.768" timestamp="1594342364679" />
     <state width="1345" height="190" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1593387745265" />
-    <state width="1346" height="175" key="GridCell.Tab.0.left" timestamp="1601395638663">
+    <state width="660" height="174" key="GridCell.Tab.0.left" timestamp="1601916793101">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="1346" height="175" key="GridCell.Tab.0.left/0.0.1366.728/1366.0.1024.728@0.0.1366.728" timestamp="1601395638663" />
-    <state width="1346" height="175" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1600361897149" />
+    <state width="660" height="174" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1601916793101" />
     <state width="1345" height="190" key="GridCell.Tab.0.left/0.0.1366.768/1366.0.1024.768@0.0.1366.768" timestamp="1594342364679" />
     <state width="1345" height="190" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1593387745265" />
-    <state width="1346" height="175" key="GridCell.Tab.0.right" timestamp="1601395638664">
+    <state width="660" height="174" key="GridCell.Tab.0.right" timestamp="1601916793101">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="1346" height="175" key="GridCell.Tab.0.right/0.0.1366.728/1366.0.1024.728@0.0.1366.728" timestamp="1601395638664" />
-    <state width="1346" height="175" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1600361897149" />
+    <state width="660" height="174" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1601916793101" />
     <state width="1345" height="190" key="GridCell.Tab.0.right/0.0.1366.768/1366.0.1024.768@0.0.1366.768" timestamp="1594342364679" />
     <state width="1345" height="190" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1593387745265" />
     <state width="1346" height="223" key="GridCell.Tab.1.bottom" timestamp="1597271421391">
@@ -704,11 +707,11 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="498" height="445" key="SwitcherDM/0.0.1366.728@0.0.1366.728" timestamp="1597442150213" />
-    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1601503292850">
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1601573098185">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728/1366.0.1024.728@0.0.1366.728" timestamp="1601503292850" />
-    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1601399036334" />
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1601573098185" />
     <state x="275" y="102" key="Vcs.Push.Dialog.v2/0.0.1366.768/1366.0.1024.768@0.0.1366.768" timestamp="1594681769802" />
     <state x="92" y="92" width="1182" height="584" maximized="true" key="dock-window-1" timestamp="1600966746315">
       <screen x="0" y="0" width="1366" height="728" />

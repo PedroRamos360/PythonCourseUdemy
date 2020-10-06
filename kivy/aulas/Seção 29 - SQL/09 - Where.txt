@@ -1,0 +1,3 @@
+é usado para aplicar filtros em uma query sql
+EX:
+SELECT * FROM table_name WHERE id == 2
